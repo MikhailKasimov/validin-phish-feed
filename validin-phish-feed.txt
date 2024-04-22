@@ -365,6 +365,7 @@ auth-imaps.info
 auth-locationmaps.life
 aviso-appstore.com
 axelar-network.xyz
+axonndao.com
 aztecaservermx.com
 beliggenhed.live
 beliggenhed.me
@@ -2713,6 +2714,7 @@ uznai-mehot.online
 varvur.com
 vbsgame.fun
 veganoutside.azurewebsites.net
+vercel.app
 verify-code.live
 verify-identifiant.com
 verify-location.cloud
