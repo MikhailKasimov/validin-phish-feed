@@ -16,6 +16,7 @@
 0000.en-icloud.com
 001995.signin-apple.com
 006065.signin-apple.com
+01-x.com
 01.connect-app.online
 02.connect-app.online
 03.connect-app.online
@@ -1314,6 +1315,7 @@ auth.location-maps.net
 authdocument65348.com
 authlocation.com
 authlogging.com
+authverify.blue
 autodiscover.app-maps.com
 autodiscover.appfmdevice.info
 autodiscover.appievn.com
@@ -6082,6 +6084,8 @@ mcafeesecurityhub.com
 me.findmyiphone-view.com
 media.icloud-secure.com
 meet-calendly.com
+meet-gcogle.com
+meet-gocgle.com
 meet.elemento.cloud
 meidentifysho.com
 melding0001201.com
