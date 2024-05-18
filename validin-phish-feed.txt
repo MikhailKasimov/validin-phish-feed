@@ -9716,12 +9716,26 @@ tolls.eastlinks.click
 # Reference: https://x.com/9823f_/status/1791890439420698926
 
 appl-id.info
+apple-jp.support
+apple.jp-support.id
 applebr-buscar.com
 applebuscar-inc.com
 apps-icloudbr.com
+findmy-idevice.id
+findmyiphone-apple.id
+findmyiphone-icloud.id
+findmyiphone-icloud.support
 get-icloud.support
 icloudpt-brasil.com
 idapple-br.com
 idicloudbr.com
+isupports.online
+jp-apple.com
+jp-apple.support
+live-location.id
+location-apple.id
+maps-apple.support
 suporte-applept.com
 support-applebuscar.com
+track-apple.id
+location.isupports.online
