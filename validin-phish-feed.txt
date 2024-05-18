@@ -9739,3 +9739,9 @@ suporte-applept.com
 support-applebuscar.com
 track-apple.id
 location.isupports.online
+
+# Reference: https://x.com/1ZRR4H/status/1791899647352410425
+
+mediaadsfusion.com
+cdn7.mediaadsfusion.com
+lpr.mediaadsfusion.com
