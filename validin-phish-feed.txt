@@ -9712,3 +9712,16 @@ new.tollsw.click
 new.tollsy.click
 tolls.eastlinkl.click
 tolls.eastlinks.click
+
+# Reference: https://x.com/9823f_/status/1791890439420698926
+
+appl-id.info
+applebr-buscar.com
+applebuscar-inc.com
+apps-icloudbr.com
+get-icloud.support
+icloudpt-brasil.com
+idapple-br.com
+idicloudbr.com
+suporte-applept.com
+support-applebuscar.com
