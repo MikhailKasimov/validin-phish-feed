@@ -9745,3 +9745,7 @@ location.isupports.online
 mediaadsfusion.com
 cdn7.mediaadsfusion.com
 lpr.mediaadsfusion.com
+
+# Reference: https://x.com/Slvlombardo/status/1792191322238914949
+
+wehaveitsure.ro
