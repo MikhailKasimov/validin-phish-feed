@@ -9749,3 +9749,8 @@ lpr.mediaadsfusion.com
 # Reference: https://x.com/Slvlombardo/status/1792191322238914949
 
 wehaveitsure.ro
+
+# Reference: https://x.com/doc_guard/status/1792908548931772578
+
+document-holder.online
+quickshare.document-holder.online
