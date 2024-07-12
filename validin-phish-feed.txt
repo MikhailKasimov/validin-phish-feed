@@ -14972,3 +14972,8 @@ zoll-vorschriften.de
 zustellung-kundenbereich.de
 zustellung-postde.de
 zustellung.kontrolle.net
+
+# Reference: https://x.com/V3n0mStrike/status/1811506372980150402
+
+axi0ma.cl
+constructorafin.cl
