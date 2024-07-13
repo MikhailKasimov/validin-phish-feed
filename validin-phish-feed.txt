@@ -14977,3 +14977,23 @@ zustellung.kontrolle.net
 
 axi0ma.cl
 constructorafin.cl
+
+# Reference: https://www.qurium.org/alerts/exposing-the-evil-empire-of-doppelganger-disinformation/
+
+alushi-kariz-ag15.buzz
+growinstagram.services
+kaz-kariz-ag17.buzz
+kaz-kariz-mx19.buzz
+nesie-kred-ad17.buzz
+nesie-kred-mx20.buzz
+nesie-kred-mx8.buzz
+sienpencliar.shop
+supe-nesie-ad17.buzz
+zaksi-kred-ad27.buzz
+zaksi-kred-mx23.buzz
+
+# Reference: https://x.com/craiu/status/1811479429895320045
+
+news.walla.re
+theliberal.in
+washingtonpost.pm
