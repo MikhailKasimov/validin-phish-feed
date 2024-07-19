@@ -14997,3 +14997,22 @@ zaksi-kred-mx23.buzz
 news.walla.re
 theliberal.in
 washingtonpost.pm
+
+# Reference: https://x.com/JCyberSec_/status/1814287979453497410
+
+aftercrash.it
+conflictstrike.com
+crashstrike.com
+crowdfalcon-immed-update.com
+crowdstrike-bsod.com
+crowdstrike0day.com
+crowdstrikebluescreen.com
+crowdstrikedoomsday.com
+crowdstrikedown.site
+crowdstrikefix.com
+crowdstriketoken.com
+cyberstrike.one
+cyberstrike.online
+failstrike.com
+fix-crowdstrike-apocalypse.com
+fix-crowdstrike-bsod.com
