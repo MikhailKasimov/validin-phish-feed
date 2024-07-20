@@ -15002,13 +15002,16 @@ washingtonpost.pm
 # Reference: https://x.com/9823f_/status/1814332309174178207
 # Reference: https://x.com/JCyberSec_/status/1814326551464333552
 # Reference: https://x.com/9823f_/status/1814345374141727106
+# Reference: https://x.com/sans_isc/status/1814379668776333766
 
 aftercrash.it
 bsod1907.com
 conflictstrike.com
+crowdstrike.black
 crashstrike.com
 crowdfalcon-immed-update.com
 crowdstrike-bsod.com
+crowdstrike-falcon.online
 crowdstrike-helpdesk.com
 crowdstrike0day.com
 crowdstrikebluescreen.com
@@ -15016,7 +15019,10 @@ crowdstrikeclaim.com
 crowdstrikedoomsday.com
 crowdstrikedown.site
 crowdstrikefix.com
+crowdstrikefix.zip
+crowdstrikeoutage.com
 crowdstrikeoutage.info
+crowdstrikereport.com
 crowdstriketoken.com
 crowdstrikeupdate.com
 cyberstrike.one
