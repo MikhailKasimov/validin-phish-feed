@@ -15004,9 +15004,12 @@ washingtonpost.pm
 # Reference: https://x.com/9823f_/status/1814345374141727106
 # Reference: https://x.com/sans_isc/status/1814379668776333766
 # Reference: https://x.com/anyrun_app/status/1814373010440118470
+# Reference: https://x.com/9823f_/status/1814636766483108280
 
 aftercrash.it
+bsod.world
 bsod1907.com
+bsodloop.com
 clownstrike.co.uk
 conflictstrike.com
 crashstrike.com
@@ -15015,12 +15018,16 @@ crowdstrike-bsod.com
 crowdstrike-falcon.online
 crowdstrike-helpdesk.com
 crowdstrike.black
+crowdstrike.blue
+crowdstrike.bot
 crowdstrike.fail
 crowdstrike0day.com
 crowdstrikebluescreen.com
 crowdstrikebsod.com
 crowdstrikebug.com
 crowdstrikeclaim.com
+crowdstrikeclaims.com
+crowdstrikeclassaction.com.au
 crowdstrikecommunication.app
 crowdstrikedoomsday.com
 crowdstrikedown.com
@@ -15033,6 +15040,7 @@ crowdstrikeoopsie.com
 crowdstrikeoutage.com
 crowdstrikeoutage.info
 crowdstrikereport.com
+crowdstrikesuporte.com
 crowdstriketoken.com
 crowdstrikeupdate.com
 crowdstuck.org
@@ -15042,6 +15050,7 @@ failstrike.com
 fix-crowdstrike-apocalypse.com
 fix-crowdstrike-bsod.com
 iscrowdstrikedown.com
+iscrowdstrikefixed.com
 isitcrowdstrike.com
 microsoftcrowdstrike.com
 stikefaststudion.com
