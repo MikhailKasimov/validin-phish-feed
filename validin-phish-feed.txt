@@ -15020,6 +15020,7 @@ crowdstrike-helpdesk.com
 crowdstrike.black
 crowdstrike.blue
 crowdstrike.bot
+crowdstrike.cam
 crowdstrike.fail
 crowdstrike0day.com
 crowdstrikebluescreen.com
