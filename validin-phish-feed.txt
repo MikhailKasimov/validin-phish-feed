@@ -15007,6 +15007,7 @@ washingtonpost.pm
 # Reference: https://x.com/9823f_/status/1814636766483108280
 # Reference: https://x.com/embee_research/status/1815272058097717262
 # Reference: https://x.com/embee_research/status/1815683050505973797
+# Reference: https://x.com/nahamike01/status/1815889526021120507
 
 aftercrash.it
 areyouaffectedbycrowdstrike.info
@@ -15018,6 +15019,7 @@ bsodloop.com
 clownstrike.co.uk
 conflictstrike.com
 crashstrike.com
+croudstrike.net
 crowdfalcon-immed-update.com
 crowdstrike-ab1.pages.dev
 crowdstrike-bsod.co
@@ -15054,6 +15056,7 @@ crowdstrikebsod.co
 crowdstrikebsod.com
 crowdstrikebsodguard.com
 crowdstrikebug.com
+crowdstrikebug.info
 crowdstrikebugfixpro.com
 crowdstrikebugguard.com
 crowdstrikebugmender.com
@@ -15088,6 +15091,7 @@ crowdstrikefix.co
 crowdstrikefix.com
 crowdstrikefix.in
 crowdstrikefix.info
+crowdstrikefix.lol
 crowdstrikefix.net
 crowdstrikefix.zip
 crowdstrikeglitch.com
