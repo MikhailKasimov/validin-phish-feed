@@ -15187,8 +15187,3 @@ ww38.crowdstrikeclassaction.com.au
 beneficiodepontos.com
 facil-pontos.info
 todosospontosseguros.com
-
-# Reference: https://x.com/AlvieriD/status/1816813199250858206
-
-kakaocall.com
-api.kakaocall.com
