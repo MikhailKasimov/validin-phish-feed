@@ -15213,3 +15213,8 @@ correosux.top
 correosvs.top
 correosxs.top
 newlifeint.co
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.76.233.211/relations
+
+authenticate-bt.com
+ibexglobai.com
