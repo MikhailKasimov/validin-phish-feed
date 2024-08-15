@@ -15865,3 +15865,15 @@ trackmailviews.info
 usps.trackingpost.sbs
 usps.trackingpost.website
 usps.trackingpost.world
+
+# Reference: https://x.com/banthisguy9349/status/1824143884274065735
+
+usps-update.top
+usps13.top
+usps14.top
+usps15.top
+usps16.top
+usps17.top
+usps18.top
+usps19.top
+check.usps-update.top
