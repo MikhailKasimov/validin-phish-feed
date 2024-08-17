@@ -16105,3 +16105,13 @@ zestiftung.com
 
 gestaosantandervisa.com
 techsantandersecurept.com
+
+# Reference: https://app.validin.com/detail?type=ip&find=147.78.103.93#tab=resolutions
+
+chile-actualizacion.is-certified.com
+digital0-uptades.is-by.us
+digital0-uptades.is-found.org
+mein-elba-app.go.dyndns.org
+paket-digitaldhl.gotdns.com
+seguimiento-es.selfip.org
+suivre-colis-fr.gotdns.com
