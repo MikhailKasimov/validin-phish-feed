@@ -16115,3 +16115,7 @@ mein-elba-app.go.dyndns.org
 paket-digitaldhl.gotdns.com
 seguimiento-es.selfip.org
 suivre-colis-fr.gotdns.com
+
+# Reference: https://x.com/banthisguy9349/status/1825243820902187253
+
+fws.ppl.mybluehost.me
