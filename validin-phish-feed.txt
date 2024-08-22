@@ -16209,3 +16209,7 @@ immediateneupro360.com
 # Reference: https://x.com/JAMESWT_MHT/status/1826673637245813037
 
 omerpatatekitn.com
+
+# Reference: https://unit42.paloaltonetworks.com/profiling-detecting-malicious-dns-traffic/
+
+carollewis.network
