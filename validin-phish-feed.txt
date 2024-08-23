@@ -16213,3 +16213,14 @@ omerpatatekitn.com
 # Reference: https://unit42.paloaltonetworks.com/profiling-detecting-malicious-dns-traffic/
 
 carollewis.network
+
+# Reference: https://www.virustotal.com/gui/ip-address/195.10.205.48/relations
+
+4-72.mobi
+4-72.rest
+indiapost.cfd
+indiapost.skin
+inpost.asia
+inposts.best
+inposts.store
+laposte.delivery
