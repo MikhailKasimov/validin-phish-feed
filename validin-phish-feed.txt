@@ -16488,3 +16488,11 @@ zmirtknghvs.top
 elk-t1nett.cyou
 elk-t1nett.icu
 elk-t1nett.xyz
+
+# Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2024-08-22-Black-Myth-Wukong-themed-phishing-and-scam-domains.txt
+
+91wukong.fun
+blackmythwukong.vip
+warungwukongbet77.com
+wukong666.org
+wukongofficial.com
