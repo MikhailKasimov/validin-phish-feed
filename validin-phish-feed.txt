@@ -16482,3 +16482,9 @@ yhomg.loan
 zbftpjrmjdu.top
 zhszfqydegy.top
 zmirtknghvs.top
+
+# Reference: https://www.virustotal.com/gui/ip-address/23.94.207.116/relations
+
+elk-t1nett.cyou
+elk-t1nett.icu
+elk-t1nett.xyz
