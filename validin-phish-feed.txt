@@ -16800,3 +16800,7 @@ upservices-mailing.com
 upsgmbh.info
 upsloggin-ch.com
 upsltc.com
+
+# Reference: https://x.com/V3n0mStrike/status/1828631599702786548
+
+miscotiabank.com
