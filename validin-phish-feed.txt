@@ -16813,3 +16813,7 @@ danskemodehus.net
 danskefritidsnet.net
 danskeejendomme.net
 danskehuse.net
+
+# Reference: https://x.com/9823f_/status/1829523368858562614
+
+atendimento-recebervalores.online
