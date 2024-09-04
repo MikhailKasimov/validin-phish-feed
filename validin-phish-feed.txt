@@ -16821,3 +16821,12 @@ atendimento-recebervalores.online
 # Reference: https://x.com/AlvieriD/status/1831123764278407307
 
 update-home.com
+
+# Reference: https://x.com/9823f_/status/1831310273296130080
+
+banco-bradesco.digital
+correios-br.com
+correios.lol
+correiostarlinkpedidos.online
+receitafederal-alfandega.com
+correios-taxalfandega.com
