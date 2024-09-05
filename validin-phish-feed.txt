@@ -16924,3 +16924,8 @@ chat.redguard.online
 # Reference: https://x.com/9823f_/status/1831671248343962038
 
 valoroficial.org
+
+# Reference: https://x.com/yvesago/status/1831567404230430875
+
+gforgo.dynip.org
+opcyga.ddns.cam
