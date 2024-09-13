@@ -17317,3 +17317,7 @@ ups-ua.com
 xn--mcrosoftonlne-sibe.com
 xn--offc-8oa2a.com
 xn--offic-8ra.com
+
+# Reference: https://x.com/TeamDreier/status/1834556165054775680
+
+borgerportal.com
