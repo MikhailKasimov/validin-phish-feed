@@ -17321,3 +17321,10 @@ xn--offic-8ra.com
 # Reference: https://x.com/TeamDreier/status/1834556165054775680
 
 borgerportal.com
+
+# Reference: https://x.com/9823f_/status/1834560019536199938
+
+accounts-microsoftonline.com
+globalmicrosoft.org
+microsoft995.com
+microsoftdefender.top
