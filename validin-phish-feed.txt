@@ -17328,3 +17328,25 @@ accounts-microsoftonline.com
 globalmicrosoft.org
 microsoft995.com
 microsoftdefender.top
+
+# Reference: https://otx.alienvault.com/pulse/66e2a42fb2ec3be10a95080b
+
+afromajority.com
+al-sarira.com
+almorasiloun.com
+click-news.net
+critiquepolitique.com
+evenpolitics.com
+francepresse24.com
+heraldalba.com
+israelboycottvoice.com
+ksanews24.com
+lalinearoja.net
+muscat.press
+niothinker.com
+notourwar.com
+peopleofpersia.com
+savannahtime.com
+teorator.com
+thebritishtribune.com
+westlandsun.com
