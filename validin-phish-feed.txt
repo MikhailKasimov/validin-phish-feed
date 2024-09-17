@@ -18231,3 +18231,7 @@ sistema-postepay.net
 
 italian-pay.com
 poste-sistema.com
+
+# Reference: https://x.com/cyberfeeddigest/status/1835998355769430376
+
+ admin-help.info
