@@ -18257,3 +18257,7 @@ govbrindeniza.pro
 atualizacao-bolsafamilia.com
 atualizacaodecredenciais.com
 caixa-atualizacao.spa
+
+# Reference: https://x.com/9823f_/status/1836153613120393594
+
+nubank.bet
