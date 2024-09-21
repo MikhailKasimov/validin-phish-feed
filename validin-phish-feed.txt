@@ -18780,3 +18780,8 @@ extranet.partner-center.quest
 # Reference: https://x.com/Slvlombardo/status/1837416997845373159
 
 auth-serveronline-serv1.de
+
+# Reference: https://x.com/JAMESWT_MHT/status/1837531695869825063
+
+erosiadanzaeia3.blogspot.com
+italianeaway.net
