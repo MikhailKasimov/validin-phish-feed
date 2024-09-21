@@ -18360,3 +18360,7 @@ enel-it.me
 
 partner-center.quest
 extranet.partner-center.quest
+
+# Reference: https://x.com/Slvlombardo/status/1837416997845373159
+
+auth-serveronline-serv1.de
