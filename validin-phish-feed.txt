@@ -18355,3 +18355,8 @@ m3mas-apicookies.com
 # Reference: https://x.com/JAMESWT_MHT/status/1837376719331692866
 
 enel-it.me
+
+# Reference: https://x.com/JAMESWT_MHT/status/1837378407518114101
+
+partner-center.quest
+extranet.partner-center.quest
