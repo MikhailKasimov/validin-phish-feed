@@ -18790,3 +18790,15 @@ italianeaway.net
 
 mycrypto-invest.com
 platform.mycrypto-invest.com
+
+# Reference: https://app.validin.com/detail?find=ICICI%20Bank%20-%20Personal%2C%20Business%2C%20Corporate%20and%20NRI%20Banking%20Online&type=raw&ref_id=88b9251f41b#tab=host_pairs_v2
+
+country1.icicibank.adobecqms.net
+fixeddepositicici.in
+icicibank.adobecqms.net
+iciciredeemapp.online
+india-stage.icicibank.adobecqms.net
+mail.fixeddepositicici.in
+redeemprocheck.online
+rewardlciciredemapp.online
+rewardzicicisapp.online
