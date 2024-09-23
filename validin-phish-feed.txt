@@ -18802,3 +18802,7 @@ mail.fixeddepositicici.in
 redeemprocheck.online
 rewardlciciredemapp.online
 rewardzicicisapp.online
+
+# Reference: https://x.com/JAMESWT_MHT/status/1838125642631512221
+
+enel-it.net
