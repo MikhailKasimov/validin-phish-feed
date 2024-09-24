@@ -18930,3 +18930,7 @@ us-usps-xmnzjlsq.xyz
 us-usps-xmnzjlsr.xyz
 us-usps-zsmdckl.com
 us-usps-zxkoofl.com
+
+# Reference: https://x.com/JAMESWT_MHT/status/1838596432405606842
+
+intesasanpaolo-it.me
