@@ -18838,3 +18838,14 @@ click.zerobot.delivery
 # Reference: https://x.com/Slvlombardo/status/1838467873099956549
 
 mylabinfo.fr
+
+# Reference: https://x.com/9823f_/status/1838530087471255930
+
+consultaeresgate.com
+finalizar-resgate.digital
+pontos-resgate.com.ua
+resgate-gascx.com
+resgate-seguro.click
+resgateapp.info
+resgaterapido.com
+resgateseuvalor.org
