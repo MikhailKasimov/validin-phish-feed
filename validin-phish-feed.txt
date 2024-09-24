@@ -18828,3 +18828,9 @@ maisprareceber.store
 vereusreceber.site
 vereusreceber.online
 vejaseusreceber.online
+
+# Reference: https://x.com/JAMESWT_MHT/status/1838457956880273447
+
+voltglo.com
+zerobot.delivery
+click.zerobot.delivery
