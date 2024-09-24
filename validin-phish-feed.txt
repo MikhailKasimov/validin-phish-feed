@@ -18834,3 +18834,7 @@ vejaseusreceber.online
 voltglo.com
 zerobot.delivery
 click.zerobot.delivery
+
+# Reference: https://x.com/Slvlombardo/status/1838467873099956549
+
+mylabinfo.fr
