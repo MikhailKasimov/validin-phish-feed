@@ -19158,3 +19158,27 @@ applesupport.network
 applesupport.support
 ppleaccount.market
 ppleaccounts.store
+
+# Reference: https://x.com/JCyberSec_/status/1838963411087937994
+# Reference: https://www.virustotal.com/gui/ip-address/162.62.226.242/relations
+
+allowance-uk.uk
+allowance-uk3.uk
+allowance-uk4.uk
+carfine-uk.uk
+parkingsuk.uk
+parkingzuk.uk
+uk3allowance.uk
+uk4allowance.uk
+ukcarfine.uk
+wyzadmin.top
+gov.allowance-uk.uk
+gov.allowance-uk3.uk
+gov.allowance-uk4.uk
+gov.carfine-uk.uk
+gov.parkingsuk.uk
+gov.parkingzuk.uk
+gov.uk3allowance.uk
+gov.uk4allowance.uk
+gov.ukcarfine.uk
+pk.wyzadmin.top
