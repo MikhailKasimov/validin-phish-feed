@@ -19196,3 +19196,8 @@ enel-id.it
 
 it-fatt.net
 aruba.it-fatt.net
+
+# Reference: https://x.com/illegalFawn/status/1839294063218143588
+
+numondotrading.com
+accessobperbanca.numondotrading.com
