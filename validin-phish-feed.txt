@@ -19180,3 +19180,9 @@ gov.uk3allowance.uk
 gov.uk4allowance.uk
 gov.ukcarfine.uk
 pk.wyzadmin.top
+
+# Reference: https://x.com/9823f_/status/1839067993957085395
+
+atendimento-govbr.com
+cadastrevalegas.online
+servicosgovbr.online
