@@ -19283,3 +19283,24 @@ w3-reporting.red.microffice.org
 webmail.ukrr.net
 win.microffice.org
 ww38.ukrr.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/188.225.10.97/relations
+
+delta.mil.gov.ua-user-registration-5d559d4b-83e0-41c5-988d-d46f6e40f132.site
+delta.mil.gov.ua-users-registration-g7k2m1q1p4s3d9f0h6l8n5v2c7j1q3m4x0z9.site
+delta.mil.gov.ua.users-registration-z8x1c4v7b3n2m9q5j6k0h8g1f3d7a2e4r5t6y9w.online
+mia-ua.site
+mia.gov.ua.sing-in-id-34gfmnvbs9gs3ziynviy0lndoyxrzyxbw.site
+my-republic.site
+sign-in.site
+signin.website
+sing-in-id-34gfmnvbs9gs3ziynviy0lndoyxrzyxbw.site
+sing-in.user-registration-e6534g7dwh78f51vfe4.site
+sing-in.user-registration-g7dwh78fe653451vfe4.site
+ua-go-php-url-ahr0c9jagfmnvbs9gs3ziynviy0lndoyxrzyxbwl.site
+ua-user-registration-5d559d4b-83e0-41c5-988d-d46f6e40f132.site
+ua-users-registration-g7k2m1q1p4s3d9f0h6l8n5v2c7j1q3m4x0z9.site
+user-registration-e6534g7dwh78f51vfe4.site
+user-registration-g7dwh78fe653451vfe4.site
+users-registration-z8x1c4v7b3n2m9q5j6k0h8g1f3d7a2e4r5t6y9w.online
+whatsapp.ua-go-php-url-ahr0c9jagfmnvbs9gs3ziynviy0lndoyxrzyxbwl.site
