@@ -19439,3 +19439,7 @@ verify-icloudid.findmy-global.info
 webdisk.aarons-plumbing.com
 webmail.aarons-plumbing.com
 y-test.info
+
+# Reference: https://www.virustotal.com/gui/domain/googleupdateinfo.com/relations
+
+googleupdateinfo.com
