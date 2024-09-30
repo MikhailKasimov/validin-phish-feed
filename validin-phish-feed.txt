@@ -19444,3 +19444,9 @@ y-test.info
 # Reference: https://www.virustotal.com/gui/domain/googleupdateinfo.com/relations
 
 googleupdateinfo.com
+
+# Reference: https://x.com/JAMESWT_MHT/status/1840701951995937161
+
+domirinnoid.com
+int203029.from-id.com
+intesasanpaolo.domirinnoid.com
