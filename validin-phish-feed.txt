@@ -19450,3 +19450,8 @@ googleupdateinfo.com
 domirinnoid.com
 int203029.from-id.com
 intesasanpaolo.domirinnoid.com
+
+# Reference: https://x.com/JAMESWT_MHT/status/1840699262755078602
+
+ar3491003.from-id.com
+aruba.domirinnoid.com
