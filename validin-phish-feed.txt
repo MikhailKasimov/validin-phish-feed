@@ -1582,7 +1582,6 @@ calendly-masai-group-3.netlify.app
 calendly-meeting.com
 calendly.buzz
 calendly.city
-calendly.com
 calendly.date
 calendly.deltagaragedoor.biz
 calendly.events
