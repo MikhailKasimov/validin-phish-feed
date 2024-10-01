@@ -33736,3 +33736,7 @@ blockchaib.info
 # Reference: https://twitter.com/romonlyht/status/1148183151748890624
 
 amazonccjp.com
+
+# Reference: https://x.com/JAMESWT_MHT/status/1841027180672823447
+
+st73949301.from-id.com
