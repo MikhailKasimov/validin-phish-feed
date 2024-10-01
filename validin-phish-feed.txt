@@ -1119,7 +1119,6 @@ appleid.apple-fmi.com
 appleid.apple-iphone.info
 appleid.apple-supports.com
 appleid.applesoporte.es
-appleid.com
 appleid.com-find.it
 appleid.com-find.us
 appleid.com-findmy.support
@@ -6070,8 +6069,6 @@ mapslocated-lphone.life
 mapspple.com
 mapsverify.com
 mapsworlds.pro
-marketing-assets-staging.calendly.com
-marketing-assets.calendly.com
 mask-redeem-token.com
 matriculaucv.azurewebsites.net
 mb-waypt.com
