@@ -33841,3 +33841,7 @@ zeebcrypto.com
 
 domains-aus-sydney.happyforever.com
 unc-sa.com
+
+# Reference: https://x.com/cyberfeeddigest/status/1841066178543751188
+
+payapl.com
