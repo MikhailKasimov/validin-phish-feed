@@ -34104,3 +34104,7 @@ www-servizi-assistenza-poste.ddns.mobi
 www-servizi-assistenza-posteitaliane.ddns.mobi
 www-servizi-poste.ddns.mobi
 www-servizi-posteitaliane.ddns.mobi
+
+# Reference: https://x.com/TeamDreier/status/1841116282394902994
+
+bombas-grundfos.com
