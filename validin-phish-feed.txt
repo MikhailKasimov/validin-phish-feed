@@ -34104,7 +34104,3 @@ www-servizi-posteitaliane.ddns.mobi
 # Reference: https://x.com/TeamDreier/status/1841116282394902994
 
 bombas-grundfos.com
-
-# Reference: https://x.com/cyberfeeddigest/status/1841174097398808671
-
-slackmessenger.site
