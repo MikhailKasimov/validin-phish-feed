@@ -34104,3 +34104,31 @@ www-servizi-posteitaliane.ddns.mobi
 # Reference: https://x.com/TeamDreier/status/1841116282394902994
 
 bombas-grundfos.com
+
+# Reference: https://x.com/JAMESWT_MHT/status/1841371997403578619
+# Reference: https://www.virustotal.com/gui/ip-address/105.128.201.79/relations
+
+it-fatt.com
+ar10293010.from-id.com
+aruba.it-fatt.com
+aruba-spa.syms510651.net
+clientzone65265.com
+deutsche-bank.myvnc.com
+edu-5401230.org
+espacemessagerievocale-fr.com
+fatturazionesrl.com
+fattura-sip.md5-650654987402ed23g6f41.com
+kyc-contract.tech
+honeyhoneyy.mywire.org
+md5-650654987402ed23g6f41.com
+meta.kyc-contract.tech
+mps.tpegohosarit.net
+syms510651.net
+t-online-webmail.info
+tpegohosarit.net
+postmaster.edu-5401230.org
+red-corr.sys-auth-account8652984.org
+renewfattura.clientzone65265.com
+sys-auth-account8652984.org
+service.espacemessagerievocale-fr.com
+verification-paypal.idsc.fr
