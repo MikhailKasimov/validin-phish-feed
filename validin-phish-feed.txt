@@ -34327,3 +34327,7 @@ telkomseslil.top
 # Reference: https://x.com/johnk3r/status/1842390498641690735
 
 n3m6x.app.goo.gl
+
+# Reference: https://www.virustotal.com/gui/ip-address/50.114.32.234/relations
+
+regularizebeneficio.com
