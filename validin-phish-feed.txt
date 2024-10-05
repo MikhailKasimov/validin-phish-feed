@@ -34331,3 +34331,11 @@ n3m6x.app.goo.gl
 # Reference: https://www.virustotal.com/gui/ip-address/50.114.32.234/relations
 
 regularizebeneficio.com
+
+# Reference: https://www.silentpush.com/blog/viserbank/
+
+boacreditunion.com
+onecapitalschoicebank.com
+vinancebk.com
+wellsfargo-inc.com
+xactverse.com
