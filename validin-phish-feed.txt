@@ -37746,5 +37746,10 @@ zuwat.com
 zxpce.com
 
 # Reference: https://x.com/banthisguy9349/status/1841834303296086088
+# Reference: https://www.virustotal.com/gui/ip-address/94.156.167.87/relations
 
+accedosinoata.duckdns.org
+conxonacademi.duckdns.org
+infoacademi.duckdns.org
+monindexoran.duckdns.org
 notariamonacces.duckdns.org
