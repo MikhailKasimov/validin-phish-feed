@@ -39057,3 +39057,7 @@ wavman.ru
 webwings.bedzin.pl
 wsbonline.moscow
 wubday.ru
+
+# Reference: https://x.com/cyberfeeddigest/status/1843574372876812441
+
+banregio.com
