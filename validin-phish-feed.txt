@@ -40199,3 +40199,8 @@ www-icscards-identificatie.com
 wy5tld.com
 zettle-login.com
 zgenixai.com
+
+# Reference: https://x.com/RacWatchin8872/status/1844412801428881606
+# Reference: https://www.virustotal.com/gui/ip-address/216.107.137.201/relations
+
+tradingcryptoview.com
