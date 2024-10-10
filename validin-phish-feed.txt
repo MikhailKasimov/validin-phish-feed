@@ -40204,3 +40204,9 @@ zgenixai.com
 # Reference: https://www.virustotal.com/gui/ip-address/216.107.137.201/relations
 
 tradingcryptoview.com
+
+# Reference: https://x.com/doc_guard/status/1844410721284862343
+# Reference: https://app.docguard.io/c029927c004a35a1aac177412131ec0f453be2caaf61e06754bb87549652f983/results/dashboard
+
+moll-de.com
+dussmann-kalte-und-klimatechnik-gmbh.moll-de.com
