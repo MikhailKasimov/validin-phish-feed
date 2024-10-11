@@ -40909,3 +40909,7 @@ login.microsoft365.com.ng
 outlook-1.live.microsoft365.com.ng
 outlook-1.microsoft365.com.ng
 outlook.microsoft365.com.ng
+
+# Reference: https://x.com/raghav127001/status/1844610019100328256
+
+discordapp.gay
