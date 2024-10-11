@@ -40920,3 +40920,8 @@ casinos-crazy.com
 fod-nr4282436.org
 vps1.casinos-crazy.com
 vps2.casinos-crazy.com
+
+# Reference: https://x.com/yvesago/status/1844395040099254492
+
+uzz.mybluehost.me
+bhn.uzz.mybluehost.me
