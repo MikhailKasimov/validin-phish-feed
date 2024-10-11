@@ -40894,3 +40894,18 @@ wise-gb.com
 wisehelpcentre.com
 youweb-bancopopolare.com
 youweb-bpm.com
+
+# Reference: https://app.validin.com/detail?type=ip&find=158.247.217.236#tab=resolutions
+
+microsoft365.com.ng
+aadcdn.microsoft365.com.ng
+account.live.microsoft365.com.ng
+autologon.microsoft365.com.ng
+browser.live.microsoft365.com.ng
+live.live.microsoft365.com.ng
+live.microsoft365.com.ng
+login.live.microsoft365.com.ng
+login.microsoft365.com.ng
+outlook-1.live.microsoft365.com.ng
+outlook-1.microsoft365.com.ng
+outlook.microsoft365.com.ng
