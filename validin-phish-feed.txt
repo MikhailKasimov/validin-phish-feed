@@ -48272,3 +48272,8 @@ zpravypraha24.com
 zrianevakn55.com
 zskync.org
 zzksync.org
+
+# Reference: https://x.com/TLP_R3D/status/1845046803235811421
+# Reference: https://www.virustotal.com/gui/ip-address/167.71.115.74/relations
+
+stargatesso-gemini.com
