@@ -40910,6 +40910,13 @@ outlook-1.live.microsoft365.com.ng
 outlook-1.microsoft365.com.ng
 outlook.microsoft365.com.ng
 
+# Reference: https://app.validin.com/detail?find=139.162.109.150&type=ip4&ref_id=e99adf9de4b#tab=resolutions
+
+microsoftonline.ng
+aadcdn.microsoftonline.ng
+live.microsoftonline.ng
+login.microsoftonline.ng
+
 # Reference: https://x.com/raghav127001/status/1844610019100328256
 
 discordapp.gay
