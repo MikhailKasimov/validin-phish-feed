@@ -40936,3 +40936,8 @@ testingsettings.fun
 gmobb.jp
 3d1.gmobb.jp
 /dcm299ccyag4e/
+
+# Reference: https://x.com/yvesago/status/1845003200199291039
+
+nz559396.web.hosting-test.net
+3034148.nz559396.web.hosting-test.net
