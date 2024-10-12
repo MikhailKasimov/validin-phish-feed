@@ -48283,3 +48283,7 @@ zzksync.org
 # Reference: https://www.virustotal.com/gui/ip-address/167.71.115.74/relations
 
 stargatesso-gemini.com
+
+# Reference: https://x.com/TeamDreier/status/1844979211900973495
+
+andelregning.com
