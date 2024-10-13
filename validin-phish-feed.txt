@@ -48287,3 +48287,20 @@ stargatesso-gemini.com
 # Reference: https://x.com/TeamDreier/status/1844979211900973495
 
 andelregning.com
+
+# Reference: https://x.com/Dkavalanche/status/1845129470513918427
+# Reference: https://www.virustotal.com/gui/ip-address/164.92.210.193/relations
+
+bestbuyworld.info
+discountland.info
+everyfindstore.info
+explorestorehub.info
+findurdeal.info
+getitnowhub.info
+globalpicksnow.info
+nextbuyhub.info
+shopjunctionhub.info
+shopjunctioninfo.info
+storeworldguide.info
+yourstorelink.info
+yourstoreworld.info
