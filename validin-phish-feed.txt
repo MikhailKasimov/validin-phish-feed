@@ -49370,3 +49370,8 @@ ziraatchi12kasim.duckdns.org
 ziraathaftasonukap.duckdns.org
 ziraatkapfirsati01.duckdns.org
 ziraatkapfirsati02.duckdns.org
+
+# Reference: https://www.embeeresearch.io/practical-examples-of-url-hunting-queries-part-1/
+# Reference: https://urlscan.io/search/#page.url%3A%2Fhttps%3F%3A%5C%2F%5C%2F%5Ba-z%5D%2B%5C.%5Ba-z%5D%2B%5C%2Fapi%2F%20AND%20page.server%3Acloudflare
+
+cryptonator.li
