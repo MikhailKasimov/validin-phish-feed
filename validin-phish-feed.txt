@@ -49390,3 +49390,7 @@ wwwjusbrasilcombr.digital
 convocacao-tre-br.online
 convocacao-tse-br.online
 sistema-antifraude-tsessj.online
+
+# Reference: https://x.com/9823f_/status/1846883765726945380
+
+seguranca-brada.online
