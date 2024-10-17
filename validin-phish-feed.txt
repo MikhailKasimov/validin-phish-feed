@@ -8312,7 +8312,6 @@ vcktyg.signin-apple.com
 vd7hs.signin-apple.com
 veganoutside.azurewebsites.net
 ver-2024.com
-vercel.app
 verif-location.com
 verifi-24.com
 verificarmbway.com
