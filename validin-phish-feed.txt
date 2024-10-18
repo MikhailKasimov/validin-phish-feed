@@ -49416,6 +49416,7 @@ chaseebanks.duckdns.org
 cyber-servers.xyz
 doowo.duckdns.org
 gncreditunion.duckdns.org
+gncu.wikaba.com
 gncubank.duckdns.org
 gncuu.zzux.com
 hghu7.duckdns.org
