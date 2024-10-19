@@ -49665,3 +49665,8 @@ maxis-22.top
 maxis22vip.top
 telkom-sel-22.top
 telkomcel22.top
+
+# Reference: https://app.validin.com/detail?find=142.171.126.52&type=ip4&ref_id=66a8b64899b#tab=resolutions
+
+usps-uwe.top
+usps-uwp.top
