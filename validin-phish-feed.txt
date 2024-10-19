@@ -49653,3 +49653,15 @@ correosn-es.top
 postai-rs.top
 postax-rs.top
 postescanadas-ca.top
+
+# Reference: https://www.virustotal.com/gui/ip-address/142.171.126.49/relations
+
+ais6681blog.top
+beais3022.top
+beais6681.top
+globe-22.top
+globe22vip.top
+maxis-22.top
+maxis22vip.top
+telkom-sel-22.top
+telkomcel22.top
