@@ -49608,3 +49608,28 @@ wyn-daviesgroup.com
 xclusiveguide.com
 yebolinksintl.com
 zoltern.com
+
+# Reference: https://cert-agid.gov.it/wp-content/uploads/2024/10/Poste_18-10-2024.json
+# Reference: https://www.virustotal.com/gui/ip-address/142.171.126.62/relations
+
+business-mkehj.top
+business-mwzv.top
+business-oxvw.top
+business-pdzv.top
+business-ssekx.top
+business-tpof.top
+business-uxrqk.top
+business-wctx.top
+dk-postnord-arlvk.top
+dk-postnord-bompp.top
+dk-postnord-ibysp.top
+dk-postnord-ohqlf.top
+dk-postnord-yryko.top
+gr-eltachhnxw.top
+gr-eltadwhtmd.top
+gr-eltaqqofcr.top
+gr-eltaqukeej.top
+gr-eltauqlanz.top
+poste-businessc.top
+poste-businesse.top
+poste-businessz.top
