@@ -49695,3 +49695,7 @@ supercdk.com
 urcdkeys.com
 vip-scdkey.com
 vipkeysale.com
+
+# Reference: https://app.validin.com/detail?find=66.235.200.146&type=ip4&ref_id=e286c1a5f50
+
+telegram-connect.org
