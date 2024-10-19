@@ -49444,3 +49444,22 @@ zonker.cyber-servers.xyz
 # Reference: https://x.com/Slvlombardo/status/1847312851737694412
 
 segui-vista.site
+
+# Reference: https://app.validin.com/detail?find=195.242.110.139&type=ip4&ref_id=a49792802fb#tab=resolutions
+
+a01srvea-srvr.dynv6.net
+a03easrv-serv.nerdpol.ovh
+a05usrv-serv.nerdpol.ovh
+conreatrgmewi.dynamic-dns.net
+fgmacun.com
+myserv01-ausrvr.dynv6.net
+net01srev-srvr.dynv6.net
+novaguy-svr.dynamic-dns.net
+serva03ha-srvr.nerdpol.ovh
+srv-olaisgu.ns02.info
+srv11a-userv.nerdpol.ovh
+srvau01er-servr.dynv6.net
+srvau03-v0srv.info
+srvaw04a-serv.nerdpol.ovh
+srvb03ea-serv.nerdpol.ovh
+w05aserv-srvr.nerdpol.ovh
