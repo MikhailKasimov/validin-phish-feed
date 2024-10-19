@@ -49633,3 +49633,14 @@ gr-eltauqlanz.top
 poste-businessc.top
 poste-businesse.top
 poste-businessz.top
+
+# Reference: https://www.virustotal.com/gui/ip-address/142.171.126.60/relations
+
+auspost-auhoy.shop
+correos-cleoy.shop
+correos-escry.shop
+correos-esory.shop
+ctt-ptacy.shop
+ctt-ptaud.shop
+ctt-ptauy.shop
+ctt-ptoud.shop
