@@ -49644,3 +49644,12 @@ ctt-ptacy.shop
 ctt-ptaud.shop
 ctt-ptauy.shop
 ctt-ptoud.shop
+
+# Reference: https://www.virustotal.com/gui/ip-address/142.171.126.53/relations
+
+autopases-cl.top
+autopistasu-com.top
+correosn-es.top
+postai-rs.top
+postax-rs.top
+postescanadas-ca.top
