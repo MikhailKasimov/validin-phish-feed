@@ -49699,3 +49699,29 @@ vipkeysale.com
 # Reference: https://app.validin.com/detail?find=66.235.200.146&type=ip4&ref_id=e286c1a5f50
 
 telegram-connect.org
+
+# Reference: https://app.validin.com/lookalikes?limit=1000&lookback=90&depth=2&find=%2Ffileclou%5B0-9a-z%5D%2B%5C.%5Ba-z%5D%7B3%2C5%7D%2F
+
+933624-1230885-accenture-llp-100164-filecloud.workers.dev
+aifilecloud.com
+bockenemfilecloud.synology.me
+c-filecloud.com
+ddfilecloud.direct.quickconnect.to
+esharedfilecloud.com
+filecloud.cfd
+filecloud.com.tr
+filecloud.lat
+filecloud.lol
+filecloud.mom
+filecloudaday.ddns.net
+filecloudquick.world
+fileclouds.store
+mks-filecloud.workers.dev
+o365efilecloud.com
+office365efilecloud.com
+office365filecloud.com
+officesharedfileclouddrive.com
+resourcefilecloud.mom
+statment4filecloud.com
+thefilecloud.online
+yourfilecloudkh.site
