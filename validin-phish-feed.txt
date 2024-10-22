@@ -49793,6 +49793,17 @@ saldopendente28.online
 saldopendente29.online
 saldopendente30.online
 
+# Reference: https://x.com/9823f_/status/1848789123588624707
+
+jus-brasil.cfd
+jusbrasil-online.digital
+jusbrasil-processo.digital
+jusbrasil-processo.online
+jusbrasilcombr.digital
+jusbrasilonline.digital
+wwwjusbrasil-com-br.digital
+wwwjusbrasilcombr.digital
+
 # Reference: https://app.validin.com/detail?type=ip&find=192.3.95.152#tab=resolutions
 
 az-tech.us
