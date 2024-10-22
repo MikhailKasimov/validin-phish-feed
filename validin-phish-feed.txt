@@ -49882,3 +49882,8 @@ whiteoaksir.com
 wrote.top
 wxboya.com
 zldkpjviys.com
+
+# Reference: https://app.validin.com/detail?type=ip&find=35.154.62.152#tab=resolutions
+
+arabnationalbank.net
+int-portal.arabnationalbank.net
