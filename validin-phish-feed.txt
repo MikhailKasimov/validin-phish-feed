@@ -49750,6 +49750,49 @@ saldopendente08.online
 saldopendente09.online
 saldopendente10.online
 
+# Reference: https://x.com/9823f_/status/1848702606362751269
+
+recebervalorxg01.online
+recebervalorxg02.online
+recebervalorxg03.online
+recebervalorxg04.online
+recebervalorxg05.online
+recebervalorxg06.online
+recebervalorxg07.online
+recebervalorxg08.online
+recebervalorxg09.online
+recebervalorxg10.online
+saldopendente01.online
+saldopendente02.online
+saldopendente03.online
+saldopendente04.online
+saldopendente05.online
+saldopendente06.online
+saldopendente07.online
+saldopendente08.online
+saldopendente09.online
+saldopendente10.online
+saldopendente11.online
+saldopendente12.online
+saldopendente13.online
+saldopendente14.online
+saldopendente15.online
+saldopendente16.online
+saldopendente17.online
+saldopendente18.online
+saldopendente19.online
+saldopendente20.online
+saldopendente21.online
+saldopendente22.online
+saldopendente23.online
+saldopendente24.online
+saldopendente25.online
+saldopendente26.online
+saldopendente27.online
+saldopendente28.online
+saldopendente29.online
+saldopendente30.online
+
 # Reference: https://app.validin.com/detail?type=ip&find=192.3.95.152#tab=resolutions
 
 az-tech.us
