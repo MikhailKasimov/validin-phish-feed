@@ -49737,6 +49737,19 @@ bolsadevaloressv.com
 pagament0-seguro.online
 receber-brinde.online
 
+# Reference: https://x.com/9823f_/status/1848700820226818214
+
+saldopendente01.online
+saldopendente02.online
+saldopendente03.online
+saldopendente04.online
+saldopendente05.online
+saldopendente06.online
+saldopendente07.online
+saldopendente08.online
+saldopendente09.online
+saldopendente10.online
+
 # Reference: https://app.validin.com/detail?type=ip&find=192.3.95.152#tab=resolutions
 
 az-tech.us
