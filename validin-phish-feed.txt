@@ -49736,3 +49736,11 @@ bcbvaloresparareceber.chat
 bolsadevaloressv.com
 pagament0-seguro.online
 receber-brinde.online
+
+# Reference: https://app.validin.com/detail?type=ip&find=192.3.95.152#tab=resolutions
+
+az-tech.us
+helpmenew.top
+viewer-app.buzz
+virtualvista.buzz
+ns1.az-tech.us
