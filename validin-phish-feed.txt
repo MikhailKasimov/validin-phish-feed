@@ -40360,6 +40360,7 @@ zylog.com.br
 365-onlineboi.com
 67565668.com
 705541-bingx.com
+77326-wealthsimple.com
 78234-coinbase.com
 818373-kraken.com
 888287-coinbase.com
@@ -40369,6 +40370,8 @@ a25-charge.com
 a25-charges.com
 accessdigitai-eboks.com
 accessmyretur.com
+accesso-coinbase.com
+accesso-credem.com
 account-auinbox.com
 account-ausinbox.com
 account-inboxaus.com
@@ -40379,6 +40382,7 @@ actueel-mijncm-diensten.com
 adessione-online.com
 adgangsikret.com
 aggiornamento-dati-i-n-p-s.com
+agreement-coin.com
 aib-loginsecure.com
 aib-onlinesecurity-info.com
 aib-onlinesecurity-sca.com
@@ -40395,18 +40399,22 @@ andelmitit-sikker.com
 anpost-delivery-fee.com
 anz-chatsupport.com
 applog-bper.com
+apps-bnl.com
 asbnz.com
 asistencia-mercadolibre.com
 assesmyretur.com
 assist-ledger.com
 au-anz-web.com
 au-inbox.com
+aucksaveasb.com
 aus-inbox.com
 aus-parcel.com
 auspost-shipping-info.com
 ausreportinbox.com
 autenttlcacaogov.com
 autoroute.a25-charges.com
+avastcmb.com
+avasting.com
 bancobpm-youweb.com
 bernerkantonalbank.com
 beskyttelsesdata-boks.com
@@ -40425,6 +40433,7 @@ bitgethelpdesk.com
 bitpanabenachrichtigung2024.com
 bltvavo2fa-activeren.com
 bnl-app.com
+bofa-dispute-help.com
 boi-security.com
 boi-verifydev.com
 boibusinessonline-live.com
@@ -40434,9 +40443,11 @@ borger-digitalpost.com
 borger-nemsms.com
 borger.dk-eboks.com
 borgerdigitalpost.com
+borgere-digitalpost.com
 borgereboksdigital.com
 borgereboksdigitalt.com
 borgeredigitalboks.com
+borgeredigitalpost.com
 borgeredigitaltboks.com
 borgeredigitaltportal.com
 borgeredigitaltpost.com
@@ -40464,6 +40475,7 @@ cexioverify.com
 claims.elgein-foundation.com
 claimthetoken.com
 clientcorp-westpac-au.com
+clientportal-coinbase.com
 clientsupport-gmail.com
 clientsupport-live.com
 co-opbusinesshelp.com
@@ -40489,9 +40501,14 @@ contravention-provinceofontario.com
 contravention-villedemontreal.com
 contraventionmontreal1.com
 convossiempre.com
+credit-agricole-app.com
+creditagricole-accesso.com
 cryptorestorewallet.com
 customeraccountsupport-reference4737.com
 d-bapp.com
+dansk-domstolenportalen.com
+databehandling.com
+dataindberetning.com
 device-support-lloyds.com
 dgt-app.com
 dhl-aus-id.com
@@ -40526,6 +40543,7 @@ directa-viaverde.com
 directdigital-services.com
 disputewellsfargo.com
 dk-eboks.com
+dkbtan-2go.com
 domstolen-portalen.com
 e-boksinfor.com
 e-post-borger.com
@@ -40554,6 +40572,7 @@ evrireschedule.com
 express-fedex.com
 fakturalosning.com
 faq-ledger.com
+fi-osuuspankki.com
 fideuram-alfabeto-app.com
 form-inps.com
 fornyeportalen.com
@@ -40579,6 +40598,7 @@ helpdeskcba.com
 helpledg.com
 helpnet-device.com
 helpportal-coinbase.com
+helpverify-mygov.com
 highway-etr407.com
 hjelpdesk-gjenoppretting.com
 hs-resetlogin.com
@@ -40619,6 +40639,7 @@ ledger-alert-support.com
 ledger-databreach.com
 ledger-insured.com
 ledger-live-review.com
+ledger-livedesk.com
 ledger-liverecover.com
 ledger-online.com
 ledger-secured.com
@@ -40628,12 +40649,14 @@ ledgerhelp-live.com
 ledgerlive-customer.com
 ledgerlive-recover.com
 ledgerlive-secure.com
+ledgerlivebackup.com
 ledgerlivecare.com
 ledgerlivechatsupport.com
 ledgeronline-help.com
 ledgeronlinesupport.com
 ledgerrepairportal.com
 ledgersafetyplatform.com
+ledgersafetysystem.com
 ledgersecurityinstallation.com
 ledgersecuritypt.com
 ledgersupportservices.com
@@ -40642,9 +40665,12 @@ ledgersupportsystem.com
 ledgersupportteam.com
 ledgerteamonline.com
 ledgerxsupport.com
+liaup7659check.com
 live-quicksession.com
 lloyds-device-register.com
 lloydsactivate-online.com
+login-bnl.com
+login-customersaccount.com
 login-secureauth-mlcroswft.com
 login.wf-securelogin.com
 loginapp-banca.com
@@ -40658,6 +40684,7 @@ minaltinn-info.com
 minaltinnbox.com
 minaltinninfo.com
 minbetal-borger.com
+minbruger-portalen.com
 minbrugere-boks.com
 minbrugerpost.com
 mincollectiabox.com
@@ -40703,6 +40730,7 @@ mobilebetalportalen.com
 mobileinfoportal.com
 mobilepay-finland.com
 mobilepay-kayttaja.com
+mobileportalnu.com
 mobillitukea.com
 mobilpay-fi.com
 mta192.marthaaustinwhite.com
@@ -40716,10 +40744,13 @@ myevridelivery.com
 mygov-australia.com
 mygov-verification.com
 mygov-verify.com
+mygovhelp-verified-au.com
 myo2-onlineservices.com
+myportal-westpac-au.com
 mythree-ie.com
 nabconnect-helpcentre-au.com
 nabconnect-helpdesk-au.com
+nanoledgerlive.com
 nationwide-help-centre.com
 nemlog-mit-id-verify.com
 nemlogindigitalbrevkasse.com
@@ -40727,9 +40758,12 @@ neofinancial-online.com
 netbank-device.com
 netcustomer-chat.com
 netdevice-verify.com
+neu-bawagverifizieren.com
 nuborgeinfo.com
+omavero-f1.com
 omavero-fi1.com
 omaverofin25.com
+omaverofin9.com
 onlinehelpcenetre.com
 onlinereview-service.com
 onlinesecureportalsantander.com
@@ -40737,7 +40771,11 @@ onlinethreeportal.com
 op-finland.com
 op-suomi-fi.com
 optankning.com
+optuki.com
+osuuspankki-fi1.com
 owdhwhei8-8282jwisjdbwjs.com
+palvelukanta.com
+palvkantaonline.com
 parkpay-tickt.com
 pepe-eth.com
 phototan-aktualisieren.com
@@ -40761,10 +40799,12 @@ ptsb-account.com
 quantamquoin.com
 raiffeisenauthentifizierung.com
 rate-iceswap.com
+rayansell-trezor.com
 reactivateledger.com
 rebill-netflix.com
 recover-dk.com
 recover-supportrustwallet.com
+redelivroyalsuport.com
 reinfo-enter-khe8373.com
 rejsekort.optankning.com
 rejsekortet.com
@@ -40780,6 +40820,7 @@ rewardsforcustomersledger.com
 rewardswithledger.com
 ri-myorders.com
 royal-letter.com
+royal-mailing.com
 royalmail-payfees.com
 saaq-clic1.com
 saaq-click.com
@@ -40788,7 +40829,9 @@ santandernetpt.com
 santanderportalsecure.com
 santandersecureportal.com
 sapost-delivery.com
+schwab-dispute-help.com
 scotia-auth-clientuser.com
+se-chatsupport.com
 secure-ac.com
 secure-ledger-live.com
 secure-portal-gr.com
@@ -40796,6 +40839,7 @@ secure-sfe-uk-gv.com
 secure12-ben.com
 secureaccountcredentials.com
 secured-bankwestapp-login.com
+secureidweyburn.com
 secureledgerlive.com
 securelogin-dropbox.com
 securelogindropbox.com
@@ -40833,6 +40877,7 @@ sikkertilgang-altinn.com
 sms-inboks.com
 sp-sicheraktivierung24.com
 starlingbankchat.com
+status-ledgerlive.com
 sumupactivate.com
 suncorpverify.com
 sundeinfo-nu.com
@@ -40859,6 +40904,7 @@ trackdhl-shipment.com
 tracking-evri-order.com
 transacaoonline.com
 treasury-zionsbank.com
+trezorcheck.com
 trezzor-verify.com
 tsbconnect-verification.com
 tunnistasuomi.com
@@ -40869,6 +40915,7 @@ uniswap-freeairdrop.com
 upsreschedule-uy.com
 user-amazon-id.com
 user-id-bov.com
+usercontentinfo.com
 userid-help-bov.com
 uusiakayttaja.com
 uwierzytelnianie-pl.com
@@ -40884,6 +40931,7 @@ verify-id-comm-app.com
 verify-ltsme-nieuw.com
 verify-trezor.com
 verifyidentity-au-cba.com
+verifynetbankdev.com
 viaverde-direct.com
 viaverde-direta.com
 villedemontreal-constatcontravention.com
@@ -40891,12 +40939,14 @@ villedemontreal-contraventionsconstat.com
 vodafonemobile-ie.com
 vrbsecuregoplus.com
 vrsecurego.com
+wellsfargo-dispute-help.com
 westpac-clientcorp.com
 westpacsupportau.com
 wf-securelogin.com
 win-soneium.com
 wise-gb.com
 wisehelpcentre.com
+woofi-swap.com
 youweb-bancopopolare.com
 youweb-bpm.com
 
