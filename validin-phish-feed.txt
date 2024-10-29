@@ -51390,3 +51390,7 @@ willistonjet.com
 workchicago.com
 ycast.tv
 zukof.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.88.3.23/relations
+
+imperialpay.ddns.net
