@@ -51283,3 +51283,7 @@ americanasbrasil.online
 # Reference: https://x.com/9823f_/status/1850896046966059062
 
 consultadevaloresbc.online
+
+# Reference: https://x.com/banthisguy9349/status/1851234632311951594
+
+telegram-help.com
