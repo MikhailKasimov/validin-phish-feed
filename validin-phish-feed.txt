@@ -54904,3 +54904,19 @@ gsuplementsalldaoblackfriday.site
 gsuplementsalldaoblackfridayy.shop
 gsuplementsblacfridayhoje.shop
 gsuplementtblackfridayy.shop
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.149.146.13/relations
+
+goodgamesguilds.com
+gwent.io
+heroes-bmt.xyz
+lovevista.biz
+lovevista.shop
+lovidie.site
+lovif.me
+no-mental.ru
+request-support.us
+sequence-build.com
+sequence.builders
+sportchain.trade
+steadbuilders.com
