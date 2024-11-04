@@ -54866,3 +54866,17 @@ wtransverycertiweb.pro
 wtransverycertyweb.pro
 yanyanfree.com
 yestransfert.icu
+
+# Reference: https://app.validin.com/detail?find=206.188.196.16%2F28&type=ip&ref_id=6beb30e5ddf#tab=resolutions
+
+correos-dk.top
+correos-nl.top
+juroit24.top
+lapostia-deu.top
+pocztia-deu.top
+pocztia-nl.top
+poczts-de.top
+poczts-deu.top
+polska-deu.top
+postcorreos-dnk.top
+tor4.top
