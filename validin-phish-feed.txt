@@ -55186,3 +55186,27 @@ supermacanic.shop
 # Reference: https://x.com/1ZRR4H/status/1854194648140714395
 
 d9b0a51b-415d-411a-81f8-24aa650d9b66-00-1960wln2h852d.picard.replit.dev
+
+# Reference: https://x.com/idclickthat/status/1854562467831259401
+
+egov-uscis.com
+egov-uscisgov.es
+egov.usciscase.org
+egovuscis-gov.org
+egovuscisgov.com
+gov.usscis.com
+govuscis.org
+tramituscis.azurewebsites.net
+usciscase.org
+uscisenespanol.com
+uscisimmigrationprocess.info
+uscisinfogov.org
+uscismigrations.com
+uscisorg.online
+uscisprocesos.org
+usciss.online
+usciss.website
+uscitizenshipservicesstatus.info
+usscis.co
+usscis.com
+uuscis.org
