@@ -57903,3 +57903,16 @@ ycaigame.com
 yenpay.fit
 z.boinc.online
 zeetrack.pro
+
+# Reference: https://x.com/banthisguy9349/status/1855637590843777395
+# Reference: https://urlscan.io/result/26494a91-c9e5-4d62-8ed4-cf1805ff9555/related/
+
+coinpulsealert.org
+maga-hat.fund
+magacoin.biz
+magairdrop.pages.dev
+magamedoviktik.netlify.app
+rewards-magacoin.com
+trump-coin.win
+us.coinpulsealert.org
+usa.coinpulsealert.org
