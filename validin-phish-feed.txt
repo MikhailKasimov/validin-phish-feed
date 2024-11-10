@@ -55325,3 +55325,7 @@ wf-void5.com
 wf-void6.com
 wf-void7.com
 wf-void8.com
+
+# Reference: https://www.virustotal.com/gui/domain/securee-dn-0rea-10.ru/detection
+
+securee-dn-0rea-10.ru
