@@ -57906,13 +57906,24 @@ zeetrack.pro
 
 # Reference: https://x.com/banthisguy9349/status/1855637590843777395
 # Reference: https://urlscan.io/result/26494a91-c9e5-4d62-8ed4-cf1805ff9555/related/
+# Reference: https://app.validin.com/detail?find=150.241.69.128&type=ip4&ref_id=1e0e18fac0d#tab=resolutions
 
+arkm.one
+auth.arkm.one
 coinpulsealert.org
+flockerez.com
+maga-coins.xyz
+maga-coinx.xyz
 maga-hat.fund
 magacoin.biz
+magacoin.com
 magairdrop.pages.dev
 magamedoviktik.netlify.app
 rewards-magacoin.com
+rewards-magacoincom.pages.dev
 trump-coin.win
 us.coinpulsealert.org
 usa.coinpulsealert.org
+vote-magacoin.co
+vote-magacoin.net
+zakupki-fsin.com
