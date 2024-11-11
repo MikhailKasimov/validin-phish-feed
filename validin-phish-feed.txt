@@ -57910,6 +57910,7 @@ zeetrack.pro
 
 arkm.one
 auth.arkm.one
+claim-magacoin.net
 coinpulsealert.org
 flockerez.com
 maga-coins.xyz
