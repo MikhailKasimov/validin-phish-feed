@@ -61313,3 +61313,8 @@ lidl-blackfriday-eu.shop
 llbeanblackfridays.shop
 makitablackfriday.shop
 wayfareblackfriday.com
+
+# Reference: https://x.com/JAMESWT_MHT/status/1857044042074247344
+
+1886billings.com
+aruba.1886billings.com
