@@ -61302,3 +61302,14 @@ zuwe.shop
 zwillingsaletr.com
 zwka.shop
 zwxe.shop
+
+# Reference: https://blog.eclecticiq.com/inside-intelligence-center-financially-motivated-chinese-threat-actor-silkspecter-targeting-black-friday-shoppers
+
+dopeblackfriday.shop
+eu-blochdance.shop
+gardena-eu.com
+ikea-euonline.com
+lidl-blackfriday-eu.shop
+llbeanblackfridays.shop
+makitablackfriday.shop
+wayfareblackfriday.com
