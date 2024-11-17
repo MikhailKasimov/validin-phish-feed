@@ -14988,6 +14988,7 @@ zaksi-kred-mx23.buzz
 
 # Reference: https://x.com/craiu/status/1811479429895320045
 
+leparisien.re
 news.walla.re
 theliberal.in
 washingtonpost.pm
