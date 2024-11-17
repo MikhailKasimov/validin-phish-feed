@@ -61970,3 +61970,9 @@ twitch-community-guidelines.web.app
 # Reference: https://x.com/Slvlombardo/status/1858181924268687402
 
 poliziadistato-c0b54a.webflow.io
+
+# Reference: https://www.qurium.org/forensics/when-kehr-meets-vextrio/
+
+dmarket.cloud
+dmarket.top
+kehr.domains
