@@ -62265,7 +62265,6 @@ zinzane-blackfriday.shop
 # Reference: https://www.virustotal.com/gui/ip-address/185.22.153.91/relations
 
 feiji.pw
-media-storage.myftp.info
 morglay.net
 navy-federal-credit-union.cf
 navy-federal-credit-union.ga
