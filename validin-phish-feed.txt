@@ -62261,3 +62261,23 @@ premios-roletablackfriday.store
 promoblackfridaymlivre.site 
 tonblackfriday.shop
 zinzane-blackfriday.shop
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.22.153.91/relations
+
+feiji.pw
+media-storage.myftp.info
+morglay.net
+navy-federal-credit-union.cf
+navy-federal-credit-union.ga
+navy-federal-credit-union.gq
+navy-federal-support.gq
+navy-federal-support.tk
+navyfederal-bank-account.cf
+navyfederal-bank-account.ga
+navyfederal-bank-account.gq
+navyfederal-bank-account.ml
+navyfederal-bank-account.tk
+nfs.cloud
+rusaj.ltd
+rusaj.net
+whm-dns.com
