@@ -62516,3 +62516,8 @@ usagvntcontracts.us
 usaopportunities.us
 wordvia.com
 wzip.us
+
+# Reference: https://x.com/smica83/status/1858967772191223927
+
+gov-id2f37.online
+nav.gov-id2f37.online
