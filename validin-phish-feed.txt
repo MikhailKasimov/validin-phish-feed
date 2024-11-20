@@ -62605,3 +62605,12 @@ minhacnh.site
 pagtaxacnhbrasil.org
 qrcode-cnh-vio-valido.icu
 suscnhaber.shop
+
+# Reference: https://x.com/TLP_R3D/status/1857748776812724436
+# Reference: https://www.virustotal.com/gui/ip-address/103.175.16.166/relations
+# Reference: https://www.virustotal.com/gui/ip-address/78.135.73.157/relations
+
+24paybanks.email
+aktivierungs-pushtan2.xyz
+sparkasse-tan2update.info
+sparkasse-tanreaktivierung.net
