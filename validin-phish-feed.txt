@@ -62619,3 +62619,8 @@ sparkasse-tanreaktivierung.net
 # Reference: https://www.virustotal.com/gui/file/76a4ba4f4a0b5a71a3b60fed1a6d5650867dcd59a43dac542bb5840dc050d766/detection
 
 unilevernetherlandsprojects.online
+
+# Reference: https://app.validin.com/detail?find=MyHbarWallet&type=raw&ref_id=f99d9917fd5#tab=host_pairs
+
+myhbarwallet.com
+v1.myhbarwallet.com
