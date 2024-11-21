@@ -62639,3 +62639,8 @@ secure-applelogin.top
 support-icloud.net.tr
 supportverificationappleaccount.info
 usa-apple-info.click
+
+# Reference: https://x.com/malwrhunterteam/status/1859545171752259639
+
+sornberaga.shop
+yik88wup7r.sornberaga.shop
