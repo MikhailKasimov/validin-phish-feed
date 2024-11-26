@@ -62982,3 +62982,7 @@ microsoftonline.space
 microsoftonlineinc.com
 microsoftsupporting.com
 portal-microsoft-cloud-auths.icu
+
+# Reference: https://x.com/yvesago/status/1861357786090676231
+
+amelie-assurance.com
