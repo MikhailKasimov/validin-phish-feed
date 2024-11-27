@@ -62986,3 +62986,8 @@ portal-microsoft-cloud-auths.icu
 # Reference: https://x.com/yvesago/status/1861357786090676231
 
 amelie-assurance.com
+
+# Reference: https://app.validin.com/detail?find=193.151.136.249&type=ip4&ref_id=f772d7b812d#tab=resolutions
+# Reference: https://urlscan.io/result/404c2429-73da-4892-9334-d29fd632c329/
+
+oraweb.site
