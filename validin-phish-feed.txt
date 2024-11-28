@@ -63065,3 +63065,8 @@ regularize-cnh.org
 taxa-cnh.org
 taxacnh.online
 www-cnh-brasil.pro
+
+# Reference: https://github.com/TheRavenFile/Intel-Stories/blob/main/IOC%20Stories
+
+bahking-pn.com
+phc-bahking.com
