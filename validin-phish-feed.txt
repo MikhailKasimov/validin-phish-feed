@@ -63070,3 +63070,8 @@ www-cnh-brasil.pro
 
 bahking-pn.com
 phc-bahking.com
+
+# Reference: https://x.com/TLP_R3D/status/1862526333185609779
+
+fr-informations.com
+ameli.fr-informations.com
