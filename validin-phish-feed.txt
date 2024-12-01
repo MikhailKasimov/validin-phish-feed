@@ -63079,3 +63079,9 @@ ameli.fr-informations.com
 # Reference: https://x.com/yvesago/status/1862468007185838359
 
 franceuniv.weebly.com
+
+# Reference: https://x.com/Slvlombardo/status/1862564411090587734
+
+benzcart.com
+przemyslowka.pl
+visionstyle.benzcart.com
