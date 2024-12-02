@@ -63099,3 +63099,7 @@ outtparks-it.com
 # Reference: https://www.virustotal.com/gui/domain/terres-ariege.fr/detection
 
 terres-ariege.fr
+
+# Reference: https://www.virustotal.com/gui/domain/elnoticierodigital.com.ar/detection
+
+elnoticierodigital.com.ar
