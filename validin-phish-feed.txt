@@ -63095,3 +63095,7 @@ intesasanpaolo.slsemijoias.com.br
 # Reference: https://x.com/JAMESWT_MHT/status/1863642161985568896
 
 outtparks-it.com
+
+# Reference: https://www.virustotal.com/gui/domain/terres-ariege.fr/detection
+
+terres-ariege.fr
