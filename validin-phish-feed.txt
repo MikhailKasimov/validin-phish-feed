@@ -63103,3 +63103,7 @@ terres-ariege.fr
 # Reference: https://www.virustotal.com/gui/domain/elnoticierodigital.com.ar/detection
 
 elnoticierodigital.com.ar
+
+# Reference: https://x.com/TeamDreier/status/1864349282356068774
+
+punktum.click
