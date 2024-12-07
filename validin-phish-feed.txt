@@ -63132,3 +63132,7 @@ vrl-sgqxzf.com
 vrl-sgqxzfs.cc
 vrl-sgqxzfsfd.cc
 vrl-sgqxzfv.cc
+
+# Reference: https://www.virustotal.com/gui/ip-address/47.236.60.69/relations
+
+fake-facebook.click
