@@ -63976,3 +63976,7 @@ fake-facebook.click
 # Reference: https://x.com/yvesago/status/1865369966641365439
 
 mondial-relay-2025.com
+
+# Reference: https://x.com/TeamDreier/status/1865834638406483978
+
+punktum-supp.online
