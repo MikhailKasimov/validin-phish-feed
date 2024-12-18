@@ -66768,3 +66768,8 @@ rupezer.top
 ruzulum.top
 upservicescan.com
 upsxpresscan.com
+
+# Reference: https://app.validin.com/detail?find=d19f9a166178a3865b959cc108068990&type=hash&ref_id=17a2079c602#tab=host_pairs (# 2024-12-18)
+
+cryptoslate.cc
+get-azurecommand.icu
