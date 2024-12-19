@@ -66830,6 +66830,25 @@ natiohelp-uabanks.pages.dev
 uafhelpukrago.pages.dev
 web.teprisarife.store
 
+# Reference: https://app.validin.com/detail?type=hash&find=1aa7714a75af471fb90432b2ac26571c#tab=host_pairs (# 2024-12-18)
+# Reference: https://search.censys.io/search?resource=hosts&sort=RELEVANCE&per_page=25&virtual_hosts=EXCLUDE&q=1aa7714a75af471fb90432b2ac26571c
+
+http://46.226.160.108
+185.206.214.216:4001
+194.26.232.104:8880
+123-4q8.pages.dev
+biweekly123.miy.link
+d2.esp.ovh
+d3.esp.ovh
+d4.esp.ovh
+d5.esp.ovh
+d6.esp.ovh
+d7.esp.ovh
+diya.esp.ovh
+diyafunpack.pp.ua
+diyavac.pages.dev
+papai.pages.dev
+
 # Reference: https://app.validin.com/detail?find=38b4930f1180292d1f82d7e7f9bac8cd&type=hash&ref_id=66042e12fce#tab=host_pairs (# 2024-12-18)
 
 0123456789-kei.lol
