@@ -69265,3 +69265,10 @@ vn3hg.africanagrirnarket.com
 ​authorization-required-quaterdeposit-verify-confirmation.​scandataactivities.​es
 ​d1bl223u5bmobf.​cloudfront.​net​
 ​rurrasqueamos.​click
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2024-12-05-v10791/2234
+
+bit-miners.top
+bitcoin-paystore.com
+nyhipaoibu.top
+topaminer.top
