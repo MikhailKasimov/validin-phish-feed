@@ -69272,3 +69272,8 @@ bit-miners.top
 bitcoin-paystore.com
 nyhipaoibu.top
 topaminer.top
+
+# Reference:
+
+tomassinos.com.pe
+uattuordecilld.ru
