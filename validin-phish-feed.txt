@@ -69285,3 +69285,15 @@ digitalborger.com
 
 bcpvzonasegurabeta.com
 saskpower1payment.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/140.82.45.42/relations
+
+csoinbase.com
+mapsconectivity.com
+massdevelopment.us.com
+postcv-concentrix.serveftp.com
+seasonaldroughtwatch.site
+seasonalweatherdatapro.site
+seasonalweatheroutlookpro.site
+seasonalweatherstatspro.site
+seasonalwindtracker.site
