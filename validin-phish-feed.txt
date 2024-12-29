@@ -88717,3 +88717,11 @@ sibrskin.pro
 udjakdede.pro
 urisam-cscn.com
 vpellc.us
+
+# Reference: https://x.com/TLP_R3D/status/1873317523501846740
+
+accountsecurity-coinbase.com
+eir-service.com
+paypal-user-security.com
+pleo-login.io
+pleo.finance
