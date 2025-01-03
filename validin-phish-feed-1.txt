@@ -2204,3 +2204,28 @@ usps.com-pklz.top
 # Reference: https://pilot.validin.com/detail?type=ip&find=74.115.51.8#tab=resolutions
 
 ceonline.store
+
+# Reference: https://app.validin.com/lookalikes?limit=1000&lookback=90&depth=2&find=%2F%5E%5B0-9%5D%2B-coinbase%5C.com%24%2F (# 2025-01-03)
+
+1346-coinbase.com
+183491-coinbase.com
+1852812-coinbase.com
+1938-coinbase.com
+19960019-coinbase.com
+2489104-coinbase.com
+398786-coinbase.com
+4458762-coinbase.com
+493929-coinbase.com
+494265-coinbase.com
+543198-coinbase.com
+77325-coinbase.com
+806900-coinbase.com
+84746-coinbase.com
+879723-coinbase.com
+904058-coinbase.com
+90592-coinbase.com
+915712-coinbase.com
+924933-coinbase.com
+946238-coinbase.com
+951563-coinbase.com
+982344-coinbase.com
