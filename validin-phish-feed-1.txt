@@ -2200,3 +2200,7 @@ usps.com-pklw.top
 usps.com-pklx.top
 usps.com-pkly.top
 usps.com-pklz.top
+
+# Reference: https://pilot.validin.com/detail?type=ip&find=74.115.51.8#tab=resolutions
+
+ceonline.store
