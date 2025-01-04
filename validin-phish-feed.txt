@@ -3,7 +3,7 @@
 #								#
 #	DNS history to track and discover digital threats	#
 #								#
-#			Feed of phish-domains			#	
+#			Feed of phish-domains			#
 #								#
 #								#
 #	Site: https://validin.com				#
@@ -86640,7 +86640,6 @@ txtme.online
 ty-77.com
 tycappxz.nba66.net
 tycjt.nba66.net
-typeorm.io
 tysera.pages.dev
 tzvr9mtn3q8t.899b.live
 u1ab.ovonm.com
