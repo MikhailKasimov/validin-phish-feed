@@ -2366,3 +2366,14 @@ ceonline.store
 # Reference: https://github.com/hagezi/dns-blocklists/issues/4765
 
 maxsecurityultimate.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4761
+
+7-betsixty.com
+bingoon.fi
+excelbet.ro
+interwetten18.com
+lockz.co
+patrickspins77.co
+qm6688.com
+sb99.club
