@@ -2682,9 +2682,11 @@ digital-metamask.com
 dispute-metamask.com
 docs-metamask.com
 drive-metamask.com
+e-mail-metamask.com
 earn-metamask.com
 eligible-metamask.com
 emails-metamask.com
+en-network-metamask.com
 esecure-metamask.com
 forward-metamask.com
 gateway-metamask.com
@@ -2693,6 +2695,7 @@ group-metamask.com
 guard-metamask.com
 helpcenter-metamask.com
 hub-metamask.com
+import-recovery-metamask.com
 inc-metamask.com
 inform-metamask.com
 infos-metamask.com
@@ -2778,4 +2781,5 @@ weblogin-metamask.com
 website-metamask.com
 whitelists-metamask.com
 x-metamask.com
+x-news-metamask.com
 metamask.io-authentication.com
