@@ -2229,3 +2229,7 @@ ceonline.store
 946238-coinbase.com
 951563-coinbase.com
 982344-coinbase.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4765
+
+maxsecurityultimate.com
