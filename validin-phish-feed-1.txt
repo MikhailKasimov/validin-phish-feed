@@ -3140,3 +3140,8 @@ cir.atectionag.ru
 g3p8m.silkywowf.ru
 m8.rvishatf.ru
 pxtnia.techfdews.ru
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4778
+
+updateicybd.top
+informed.updateicybd.top
