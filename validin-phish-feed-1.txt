@@ -2787,3 +2787,7 @@ metamask.io-authentication.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/4776
 
 supporthubcenter.eu
+
+# Reference: https://x.com/idclickthat/status/1875766687288717393
+
+coinbasse-support.info
