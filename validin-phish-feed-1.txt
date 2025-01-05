@@ -2918,6 +2918,7 @@ group-metamask.com
 guard-metamask.com
 helpcenter-metamask.com
 hub-metamask.com
+identify-metamask.com
 import-recovery-metamask.com
 inc-metamask.com
 inform-metamask.com
