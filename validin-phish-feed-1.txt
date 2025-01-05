@@ -2783,3 +2783,7 @@ whitelists-metamask.com
 x-metamask.com
 x-news-metamask.com
 metamask.io-authentication.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4776
+
+supporthubcenter.eu
