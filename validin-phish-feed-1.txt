@@ -3270,3 +3270,7 @@ api.information-binance.com
 api.information-coinbase.com
 api.rappel-coinbase.com
 coinbase.connexion-monwallet.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4784
+
+angelinvestar.in
