@@ -3256,3 +3256,17 @@ toureiropg.com
 voy-balloonspg.com
 w1-equestrepg.com
 w1-pepsipg.com
+
+# Reference: https://x.com/karol_paciorek/status/1876246996706791758
+
+aide-coinbase.com
+connexion-monwallet.com
+information-binance.com
+information-coinbase.com
+wildsolace.net
+api.accueil-coinbase.com
+api.aide-coinbase.com
+api.information-binance.com
+api.information-coinbase.com
+api.rappel-coinbase.com
+coinbase.connexion-monwallet.com
