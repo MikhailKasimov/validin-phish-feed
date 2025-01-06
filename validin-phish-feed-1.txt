@@ -3213,3 +3213,46 @@ fullcopec.top
 # Reference: https://github.com/hagezi/dns-blocklists/issues/4780
 
 loveclickeve.site
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4783
+
+122b66.com
+2gemaspg.com
+66006a.com
+77firescatters.com
+aa1998.com
+bb1998.com
+bbbbgame.com
+bbbbgame2.com
+bbbbgame3.com
+cc1998.com
+ccccgame.com
+championzone.ph
+ddddgame.com
+ee1998.com
+eeeegame.com
+ff1998.com
+ff1998a.com
+ff1998b.com
+gbg8.vip
+gg1998.com
+gg1998b.com
+ii1998.com
+iiiigame.com
+jj1998.com
+jjjjgame.com
+ll1998.com
+llllgame.com
+mmmmgame.com
+mogo.com
+nnnngame.com
+oooogame.com
+pop67855.com
+pop888-1.com
+poppg55.com
+popsinais.com
+ritzo.com
+toureiropg.com
+voy-balloonspg.com
+w1-equestrepg.com
+w1-pepsipg.com
