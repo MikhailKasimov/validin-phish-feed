@@ -3274,3 +3274,11 @@ coinbase.connexion-monwallet.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/4784
 
 angelinvestar.in
+
+# Reference: https://app.validin.com/detail?find=208.91.197.27&type=ip4&ref_id=8ba9067926f#tab=resolutions
+
+nvidia-sucks.online
+
+# Reference: https://www.virustotal.com/gui/domain/nvidia-sucks.com/community
+
+nvidia-sucks.com
