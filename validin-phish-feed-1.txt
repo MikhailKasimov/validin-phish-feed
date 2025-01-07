@@ -3319,6 +3319,7 @@ tk-mall-tk.shop
 tk-onlymallx.shop
 tk-onlymallz.shop
 tk-shop-world.xyz
+tkdworkmall.shop
 tkfworkmall.shop
 tkgworkmall.shop
 tkhworkmall.shop
