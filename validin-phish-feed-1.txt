@@ -3282,3 +3282,17 @@ nvidia-sucks.online
 # Reference: https://www.virustotal.com/gui/domain/nvidia-sucks.com/community
 
 nvidia-sucks.com
+
+# Reference: https://app.validin.com/detail?find=07e157bb00783c96a2ae2a402c36c588&type=hash#tab=host_pairs (# 2025-01-07)
+
+acivevibes.ru
+cpcalendars.histrionic8.com
+cpcontacts.docsharehub.com
+d9ce.acivevibes.ru
+docsharehub.com
+histrionic8.com
+iontabsin.ru
+nolivorath.ru
+webmail.docsharehub.com
+webmail.nolivorath.ru
+zkhb.iontabsin.ru
