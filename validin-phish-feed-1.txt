@@ -3345,3 +3345,7 @@ workervtks.shop
 workerwtks.top
 workerxtks.shop
 workerztks.shop
+
+# Reference: https://x.com/StrikeReadyLabs/status/1876631882672328976
+
+diia-id.com
