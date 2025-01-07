@@ -3465,3 +3465,9 @@ verify-user-intent.vercel.app
 verify-user-warning.vercel.app
 warrant-account-case.vercel.app
 warrant-user-noreply.vercel.app
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4799
+
+igloaptopto.net
+shaughixefooz.net
+trivo.uk
