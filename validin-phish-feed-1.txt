@@ -4325,3 +4325,8 @@ msgclick.xyz
 # Reference: https://x.com/StrikeReadyLabs/status/1877097614820171894
 
 awacs-paf-letter-cetci-open.netlify.app
+
+# Reference: https://x.com/Jane_0sint/status/1877315969007129036
+# Reference: https://app.any.run/tasks/23e2ff6b-37af-4b4c-8f97-1296a024c67b
+
+fusionever.com
