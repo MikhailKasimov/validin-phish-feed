@@ -4315,3 +4315,9 @@ zsa.xceneriefu.ru
 zwdr.andefelai.ru
 zwn.bemilore.ru
 zyplex.qolirax.ru
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4817
+
+msgclick.top
+msgclick.uno
+msgclick.xyz
