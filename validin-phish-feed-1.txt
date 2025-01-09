@@ -4321,3 +4321,7 @@ zyplex.qolirax.ru
 msgclick.top
 msgclick.uno
 msgclick.xyz
+
+# Reference: https://x.com/StrikeReadyLabs/status/1877097614820171894
+
+awacs-paf-letter-cetci-open.netlify.app
