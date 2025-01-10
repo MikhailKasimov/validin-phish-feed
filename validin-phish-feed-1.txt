@@ -4338,3 +4338,9 @@ jumpropemat.com
 # Reference: https://x.com/gregclermont/status/1876997229451304996
 
 25black1cook.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4831
+
+kindpickle.info
+mansion-xenarthran.info
+spark.kindpickle.info
