@@ -4330,3 +4330,7 @@ awacs-paf-letter-cetci-open.netlify.app
 # Reference: https://app.any.run/tasks/23e2ff6b-37af-4b4c-8f97-1296a024c67b
 
 fusionever.com
+
+# Reference: https://x.com/Slvlombardo/status/1877057449905061939
+
+jumpropemat.com
