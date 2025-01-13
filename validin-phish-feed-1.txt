@@ -12660,3 +12660,9 @@ womunido.website
 womyvoco.website
 zopohafu.online
 zycahaxu.website
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4863
+
+bsnltower5g.com
+gtltowerinfratel.in
+towerinstalltion5g.in
