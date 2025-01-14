@@ -12670,3 +12670,7 @@ towerinstalltion5g.in
 # Reference: https://x.com/StrikeReadyLabs/status/1878990090464358540
 
 secure-barc-gov-in.weebly.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.222.173.101/relations
+
+bdvpersonasve.com
