@@ -12731,3 +12731,13 @@ electricity-gov.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/4887
 
 ronagoupil.ca
+
+# Reference: https://x.com/JAMESWT_MHT/status/1879497252101841054
+
+logestic-track.online
+mydhl.logestic-track.online
+
+# Reference: https://x.com/JAMESWT_MHT/status/1879427146369937830
+
+anthonylewisphotography.co.uk
+proraw.it
