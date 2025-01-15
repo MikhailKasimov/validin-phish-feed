@@ -13051,3 +13051,7 @@ verifytenance.zeusshop.cc
 weryfikacja.nudesy.fun
 weryfikacja.restrim.fun
 zero0day.ddns.net
+
+# Reference: https://www.secureworks.com/blog/nickel-tapestry-infrastructure-associated-with-crowdfunding-scheme
+
+silverstarchina.com
