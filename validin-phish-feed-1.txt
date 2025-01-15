@@ -12727,3 +12727,7 @@ whatcomsoccer.com
 # Reference: https://x.com/skocherhan/status/1879239644166209832
 
 electricity-gov.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4887
+
+ronagoupil.ca
