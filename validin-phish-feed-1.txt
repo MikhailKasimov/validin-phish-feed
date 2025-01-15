@@ -13055,3 +13055,7 @@ zero0day.ddns.net
 # Reference: https://www.secureworks.com/blog/nickel-tapestry-infrastructure-associated-with-crowdfunding-scheme
 
 silverstarchina.com
+
+# Reference: https://x.com/Slvlombardo/status/1879619287440413112
+
+tonypaulforyou.shop
