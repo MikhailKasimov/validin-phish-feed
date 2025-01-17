@@ -13427,3 +13427,12 @@ windowscall.com
 windstreaim.com
 ww2.stotot.com
 yushengusa.com
+
+# Reference: https://app.validin.com/detail?find=reCAPTCHA%20Verification&type=raw#tab=host_pairs
+
+gr-nboik.site
+lnepytw.site
+maryrezek.com
+nxgengames.com
+page-yoda.blog
+captcha.nxgengames.com
