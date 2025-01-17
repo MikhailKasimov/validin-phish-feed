@@ -12730,7 +12730,7 @@ electricity-gov.com
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/4887
 
-ronagoupil.ca
+# ronagoupil.ca
 
 # Reference: https://x.com/JAMESWT_MHT/status/1879497252101841054
 
