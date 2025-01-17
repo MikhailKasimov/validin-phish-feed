@@ -13479,3 +13479,23 @@ tienda.preciosfactory.com
 
 com-customerhnz.top
 ezdrivema.com-customerhnz.top
+
+# Reference: https://x.com/Merlax_/status/1880363214472372706
+# Reference: https://www.virustotal.com/gui/ip-address/147.79.84.251/relations
+# Reference: https://www.virustotal.com/gui/ip-address/147.93.14.214/relations
+
+empresagonias.lat
+empresagoniascinco.lat
+empresagoniascuatro.lat
+empresagoniasdos.lat
+empresagoniaseis.lat
+empresagoniasiete.lat
+empresagoniasnueve.lat
+empresagoniasocho.lat
+empresagoniastres.lat
+empresagoniasuno.lat
+meiaentradacost.com.br
+onlineempresapatagonia.lat
+pixbrasileiro.com
+resgate.cloud
+vinisec.com
