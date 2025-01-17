@@ -13474,3 +13474,8 @@ tajos.info
 tienda.lavamanos.info
 tienda.luciamoreno.es
 tienda.preciosfactory.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4916
+
+com-customerhnz.top
+ezdrivema.com-customerhnz.top
