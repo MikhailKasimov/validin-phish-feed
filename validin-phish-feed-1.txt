@@ -14098,3 +14098,7 @@ xemitone.ru
 xomivarne.ru
 zofirath.ru
 zrfjgbwdfnm.ru
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4959
+
+ieztoskbcoalf.z13.web.core.windows.net
