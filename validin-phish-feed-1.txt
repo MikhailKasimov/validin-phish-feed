@@ -15038,3 +15038,7 @@ zwn.bemilore.ru
 zZG.tubsturg.ru
 ZZMg.zgszngtiwe.ru
 zZxg.astorevo.ru
+
+# Reference: https://x.com/ShanHolo/status/1881977830978027877
+
+region-businesss-esignals.s3.us-east-1.amazonaws.com
