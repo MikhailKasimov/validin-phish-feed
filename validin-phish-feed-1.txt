@@ -15741,3 +15741,10 @@ nooking.com.br
 test-referer-dwe.pages.dev
 vooking-br.pages.dev
 vooking.com.br
+
+# Reference: https://www.virustotal.com/gui/ip-address/89.117.157.244/relations
+# Reference: https://app.validin.com/detail?find=Booking.com%20Date%20Selector&type=raw&ref_id=43d49136db6#tab=host_pairs
+
+hyperlu.space
+booking.hyperlu.space
+woodenhut.hyperlu.space
