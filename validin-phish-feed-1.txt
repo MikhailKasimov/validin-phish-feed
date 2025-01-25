@@ -13541,6 +13541,7 @@ unhesiss.shop
 unho.unhesiss.shop
 
 # Reference: https://x.com/jiriatvirlab/status/1881100360456229017
+# Reference: https://x.com/skocherhan/status/1883019370991071403
 
 airdrop-gettrumpmemes.com
 bsctrumpmeme.fun
@@ -13590,6 +13591,7 @@ jittercore.art
 macatrumpmeme.pages.dev
 memetrump.org
 swaggy.pages.dev
+trumclaim.org
 trumpclaim.org
 trumpfair.com
 trumpmeme.info
