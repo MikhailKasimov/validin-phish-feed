@@ -15730,3 +15730,14 @@ aabfphuwkn.cfolks.pl
 
 outlook-secure-team.com
 yaahnoo.com
+
+# Reference: https://app.validin.com/detail?find=Booking.com%20%7C%20Site%20oficial%20%7C%20Os%20melhores%20hot%C3%A9is%2C%20voos%2C%20alugu%C3%A9is%20de%20carro%20e%20acomoda%C3%A7%C3%B5es&type=raw&ref_id=43d49136db6#tab=host_pairs
+
+bookking.com.br
+hooking-br.pages.dev
+hooking.com.br
+nooking-br.pages.dev
+nooking.com.br
+test-referer-dwe.pages.dev
+vooking-br.pages.dev
+vooking.com.br
