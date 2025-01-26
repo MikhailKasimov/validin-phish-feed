@@ -15952,3 +15952,7 @@ murads-tokens.com
 muradscoin.xyz
 muststopmurad.top
 plsmuradstop.com
+
+# Reference: https://pilot.validin.com/detail?find=45.61.137.106&type=ip4&ref_id=4a00283576b#tab=resolutions
+
+trxswap.app
