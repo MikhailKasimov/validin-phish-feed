@@ -15941,3 +15941,14 @@ uniswapx.xyz
 v5-uniswap.info
 web3-uniswap-uniswap.net
 web3-uniswap-uniswap.org
+
+# Reference: https://pilot.validin.com/detail?find=%24MURAD%20Presale&type=raw&ref_id=b02d8113af8#tab=host_pairs (# 2025-01-26)
+
+deimos.biz
+communique.deimos.biz
+murad-token.pages.dev
+murads-token.com
+murads-tokens.com
+muradscoin.xyz
+muststopmurad.top
+plsmuradstop.com
