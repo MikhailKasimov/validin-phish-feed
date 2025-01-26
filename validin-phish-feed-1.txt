@@ -15789,3 +15789,7 @@ xrpreward-event.live
 xrpreward-event.org
 xrpreward-promo.com
 xrpreward-promo.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/4992
+
+store-uni-app.com
