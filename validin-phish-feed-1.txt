@@ -15956,3 +15956,7 @@ plsmuradstop.com
 # Reference: https://pilot.validin.com/detail?find=45.61.137.106&type=ip4&ref_id=4a00283576b#tab=resolutions
 
 trxswap.app
+
+# Reference: https://x.com/Slvlombardo/status/1883946544224952366
+
+scoala10gl.ro
