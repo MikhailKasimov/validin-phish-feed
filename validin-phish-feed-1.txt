@@ -15997,3 +15997,7 @@ secure-bitvavo.com
 simkaart-activeren.com
 tubifymail.com
 verificar-acesso.com
+
+# Reference: https://x.com/GenThreatLabs/status/1883976837136802196
+
+stemcommunnuty.com
