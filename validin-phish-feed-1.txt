@@ -22907,3 +22907,19 @@ zzx.6nb.xyz
 activation-certificat.com
 id-certificatlux.com
 ltsme-info-serv.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/147.45.47.46/relations
+
+expire-votre-app.com
+extension-lu-certificat.com
+extension-lu.com
+extension-lux.com
+id-certificatlux.com
+id1923.cfd
+idlux-certificat.com
+ltsme-be-id.com
+ltsme-id.com
+ltsme-idinfo.com
+ltsme-servinfo.com
+ltsme-verificatie.com
+luxtrustid.com
