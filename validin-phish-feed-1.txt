@@ -22901,3 +22901,9 @@ zmxmaj2y.6nb.xyz
 zthel.xyz
 ztx.6nb.xyz
 zzx.6nb.xyz
+
+# Reference: https://www.virustotal.com/gui/ip-address/147.45.47.198/relations
+
+activation-certificat.com
+id-certificatlux.com
+ltsme-info-serv.com
