@@ -23941,3 +23941,9 @@ yf.zelisarnath.ru
 ymwr.ephemeral7.com
 zot8.procrastinatio6.com
 zsnk.velitore.ru
+
+# Reference: https://www.virustotal.com/gui/ip-address/13.48.138.255/relations
+# Reference: https://www.virustotal.com/gui/file/3ec5ba9f89812c6e1a49782243b57e70cf10b7c8c3c2c8c637411caab7af0cbf/detection
+
+polis-shtraf.com
+shtraf-uk.com
