@@ -23947,3 +23947,7 @@ zsnk.velitore.ru
 
 polis-shtraf.com
 shtraf-uk.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5078
+
+kiophsx9.sa.com
