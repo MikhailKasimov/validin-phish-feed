@@ -23967,3 +23967,8 @@ polorecicla.com
 # Reference: https://www.virustotal.com/gui/ip-address/185.56.74.12/relations
 
 mnblaw.co.il
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5094
+
+camerotica.cfd
+webcamsfans.cfd
