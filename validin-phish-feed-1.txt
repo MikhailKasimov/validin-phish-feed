@@ -23963,3 +23963,7 @@ honey-apiv3-dev.com
 nhytasdewe.com
 playmedialtd.com
 polorecicla.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.56.74.12/relations
+
+mnblaw.co.il
