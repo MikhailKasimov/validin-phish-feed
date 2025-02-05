@@ -23951,3 +23951,15 @@ shtraf-uk.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5078
 
 kiophsx9.sa.com
+
+# Reference: https://x.com/seguridadyredes/status/1887088181473886350
+# Reference: https://app.validin.com/detail?find=80.90.191.218&type=ip4&ref_id=946183b389e#tab=resolutions
+
+ferdsn.com
+grdsban.com
+honey-apiv1-dev.com
+honey-apiv2-dev.com
+honey-apiv3-dev.com
+nhytasdewe.com
+playmedialtd.com
+polorecicla.com
