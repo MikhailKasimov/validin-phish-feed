@@ -12853,11 +12853,8 @@ alorastore.xyz
 aorfxs.shop
 appolon.dev
 ariez.wtf
-astroservers.online
 autoplus.gg
 betboost.shop
-biohackinginternational.com
-birp.eu
 boostplaza.us
 boostuniverse.to
 boostup.cc
@@ -12901,7 +12898,6 @@ maxicheats.com
 megaboosts.cc
 moonlygg.com
 multiple-uses.site
-nelsoncybersecurity.com
 ngocdiep.store
 nordicfn.xyz
 novack.dev
@@ -12913,12 +12909,10 @@ oriun.cc
 outent.store
 paraenesis.wtf
 peekrobux.com
-pmgshop.cc
 precisecheats.xyz
 qforms.cc
 quickboosts.gg
 rbxcopy.so
-restrim.fun
 scammeradvisor.com
 scarlet.technology
 securitybot.vip
@@ -12930,12 +12924,10 @@ stophax.ing
 suika.win
 swappy.gg
 swatted.wiki
-sytes.net
 thenexusnetwork.win
 unbound.software
 usehorizon.net
 vantageshops.eu
-vaultcord.gg
 vbucksgenerator.zip
 vercel-dns.com
 verify.starlightzone
@@ -12944,8 +12936,6 @@ whitenigger.site
 x2saddddm.lol
 xd.mk
 zeusshop.cc
-auth.birp.eu
-backup.pmgshop.cc
 bwt.appolon.dev
 cf.dailyadultfolders.com
 cname.vercel-dns.com
@@ -12957,19 +12947,12 @@ mak.kreamy.dev
 mtcm.sytes.net
 restore.autoplus.gg
 support.securitybot.vip
-svn.astroservers.online
 tawashi-verify.sytes.net
-test.vaultcord.gg
 test1.kreamy.dev
-test333.nelsoncybersecurity.com
 test4.kreamy.dev
 v.dvv.one
 v.macrov3.support
 ver1.dexverify.cc
-verify-biohackerlounge.biohackinginternational.com
-verify-grinders.biohackinginternational.com
-verify-nootropics.biohackinginternational.com
-verify-transhumanism.biohackinginternational.com
 verify.8rp.xyz
 verify.agentchairs.xyz
 verify.aimr.dev
@@ -12977,7 +12960,6 @@ verify.alorastore.xyz
 verify.aorfxs.shop
 verify.ariez.wtf
 verify.betboost.shop
-verify.birp.eu
 verify.boostplaza.us
 verify.boostuniverse.to
 verify.boostup.cc
@@ -13049,7 +13031,6 @@ verify.xd.mk
 verify1.keyauth.com
 verifytenance.zeusshop.cc
 weryfikacja.nudesy.fun
-weryfikacja.restrim.fun
 zero0day.ddns.net
 
 # Reference: https://www.secureworks.com/blog/nickel-tapestry-infrastructure-associated-with-crowdfunding-scheme
