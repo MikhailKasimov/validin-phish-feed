@@ -24390,3 +24390,11 @@ l1ve.larrainvials.net
 chile.larrainvials.net
 account.larrainvials.net
 family-enterprise.larrainvials.org
+
+# Reference: https://x.com/GetWinEvent_/status/1886903482655105217
+# Reference: https://www.virustotal.com/gui/ip-address/102.165.46.225/relations
+
+http://102.165.46.225
+102.165.46.225:443
+atualizacao-bolsafam.org
+regulariza-bolsafam.org
