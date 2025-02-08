@@ -24302,3 +24302,7 @@ ms3650ffice-share.top
 ms365office.icu
 secure-auth-ms3650ffice.sbs
 secure-auth-ms3650ffice.top
+
+# Reference: https://app.validin.com/detail?find=5.230.252.185&type=ip4&ref_id=4bb4010734d#tab=resolutions
+
+titannewvyork.com
