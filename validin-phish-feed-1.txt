@@ -24627,3 +24627,9 @@ yunsoso.net
 zbsj12.com
 zelfstandiz.net
 zuonen.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5149
+
+revancedmusic.com
+vanced-official.com
+ytvancedpro.com
