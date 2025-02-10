@@ -24633,3 +24633,7 @@ zuonen.com
 revancedmusic.com
 vanced-official.com
 ytvancedpro.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5151
+
+tikinew.club
