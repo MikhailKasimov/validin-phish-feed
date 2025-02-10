@@ -24637,3 +24637,7 @@ ytvancedpro.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5151
 
 tikinew.club
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5159
+
+taramatikarou.com
