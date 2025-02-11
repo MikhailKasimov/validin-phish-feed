@@ -24641,3 +24641,7 @@ tikinew.club
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5159
 
 taramatikarou.com
+
+# Reference: https://www.virustotal.com/gui/file/0001204a1bdfcf1ec1ad72ad0c4a4f1f8949ab3deccd8b16269f0fad4e6afda6/detection
+
+23hbajwd1.monster
