@@ -26948,3 +26948,7 @@ securitytoken-salesforce.com
 token-salesforce.com
 tokenreset-salesforce.com
 tokenupdate-salesforce.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5174
+
+providedexcitingcritical.pro
