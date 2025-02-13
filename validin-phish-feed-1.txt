@@ -26952,3 +26952,7 @@ tokenupdate-salesforce.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5174
 
 providedexcitingcritical.pro
+
+# Reference: https://x.com/illegalFawn/status/1889703750534631815
+
+area-volksbank.com
