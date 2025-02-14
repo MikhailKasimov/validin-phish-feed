@@ -24253,6 +24253,7 @@ tenhisuse567.ru
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5108
 
 commerztan.com
+commerztans.com
 
 # Reference: https://x.com/Slvlombardo/status/1887822343713534422
 
