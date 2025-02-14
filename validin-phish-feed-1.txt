@@ -2603,10 +2603,19 @@ sb99.club
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/4768
 
+capostcanadacapams.cfd
+capostcanadacapist.cfd
+helpcentre-postcanada.info
+post-postcanadacs.cfd
+post-postcanadaes.cfd
+postcanada-delivery-sl.com
+postcanada-redirect.com
 postcanadaaawi.top
 postcanadaabo.top
 postcanadaacnb.top
+postcanadaassistance.com
 postcanadaavpzv.top
+postcanadab.top
 postcanadabrgr.top
 postcanadabsgw.top
 postcanadabwh.top
@@ -2824,6 +2833,7 @@ postcanadaseqx.top
 postcanadaserb.top
 postcanadaserg.top
 postcanadaserj.top
+postcanadaservice.org
 postcanadasesd.top
 postcanadasesw.top
 postcanadasesx.top
@@ -2861,6 +2871,7 @@ postcanadaykaop.top
 postcanadayntps.top
 postcanadayufhv.top
 postcanadayxdaa.top
+postcanadaz.top
 postcanadazde.top
 postcanadaznsru.top
 postcanadaznv.top
