@@ -26960,3 +26960,8 @@ area-volksbank.com
 # Reference: https://x.com/JAMESWT_MHT/status/1889947632572981740
 
 authline-checksysapprov.com.de
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5149#issuecomment-2660090295
+
+revancedyoutube.com
+youtuberevanced.app
