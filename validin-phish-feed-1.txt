@@ -27093,8 +27093,14 @@ business.metasecuritycheck.com
 
 # Reference: https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/
 
+172.86.68.88.sslip.io
 afpi-sec.com
+az-pin-up.lat
+az-pin-up.pro
 chromeelevationservice.com
-connect-71q.pages.dev
 comms-net.com
+connect-71q.pages.dev
+endpointmapperprocess.com
+homegrouplistener.com
 sen-comms.com
+threadordering.com
