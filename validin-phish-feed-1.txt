@@ -27090,3 +27090,11 @@ wie-funktioniert-phototan.info
 
 metasecuritycheck.com
 business.metasecuritycheck.com
+
+# Reference: https://www.volexity.com/blog/2025/02/13/multiple-russian-threat-actors-targeting-microsoft-device-code-authentication/
+
+afpi-sec.com
+chromeelevationservice.com
+connect-71q.pages.dev
+comms-net.com
+sen-comms.com
