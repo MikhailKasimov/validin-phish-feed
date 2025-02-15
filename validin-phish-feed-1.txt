@@ -27048,3 +27048,7 @@ authline-checksysapprov.com.de
 
 revancedyoutube.com
 youtuberevanced.app
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5191
+
+1stfinancefirm.wixsite.com
