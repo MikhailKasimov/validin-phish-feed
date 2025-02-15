@@ -27066,3 +27066,22 @@ gofreeusps.com
 guspswnv.xyz
 helpdesk-usps.online
 helpuspsnow.ru
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5194
+
+commerz-phototan-erneuern.com
+commerz-phototans.com
+db-phototans.com
+dbphototans.com
+de-phototanapp.com
+de-servicephototan.com
+phototan-cdirect.info
+phototan-erneueren.com
+phototan-erneuern.net
+phototan-unterstutzung.win
+phototan.net
+phototan2025.com
+phototanapp.com
+phototans.com
+phototanzertifikat.net
+wie-funktioniert-phototan.info
