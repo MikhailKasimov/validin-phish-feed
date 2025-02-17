@@ -27924,3 +27924,7 @@ virefy-coinbase.com
 # Reference: https://x.com/KesaGataMe0/status/1891308040768327863
 
 osnakjsiow.com
+
+# Reference: https://x.com/__0XYC__/status/1891380009966674291
+
+2b240c37-4333-4a5d-93eb-69bb3f82b2c7.us-east-1.cloud.genez.io
