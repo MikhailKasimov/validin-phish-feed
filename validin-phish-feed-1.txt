@@ -27919,3 +27919,7 @@ ref9069-coinbase.com
 securitycheck-coinbase.com
 upgradesmart-coinbase.com
 virefy-coinbase.com
+
+# Reference: https://x.com/KesaGataMe0/status/1891308040768327863
+
+osnakjsiow.com
