@@ -27935,3 +27935,19 @@ habiler.shop
 shoppings.help
 shops.rest
 tlegram.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5220
+
+airteltower.com
+alphatowercompany.in
+bsnltower5g.in
+bsntowoff.com
+gtlinfrastructurelimited.com
+gtltelecomgroup.in
+gtltower.com
+hindustantowergroupltd.com
+industower.org
+tatatowers.com
+tower5ginstallation.com
+toweragency.in
+towerdepartment.com
