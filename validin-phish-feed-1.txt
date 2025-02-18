@@ -27951,3 +27951,10 @@ tatatowers.com
 tower5ginstallation.com
 toweragency.in
 towerdepartment.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5231
+
+dresseloves.com
+dressesloves.com
+dresseslovesootd.com
+edecher.com
