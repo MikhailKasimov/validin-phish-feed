@@ -28267,3 +28267,7 @@ weiws.site
 wiev.xyz
 wiew.in
 xpsdigi.solutions
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5262
+
+player-qr.com
