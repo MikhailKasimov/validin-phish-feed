@@ -28828,3 +28828,7 @@ yvghbjn.com
 zaerffd.shop
 zareet.online
 zertikolaru.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/174.138.5.51/detection
+
+soyneurodivergente.com
