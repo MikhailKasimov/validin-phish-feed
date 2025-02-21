@@ -28832,3 +28832,7 @@ zertikolaru.com
 # Reference: https://www.virustotal.com/gui/ip-address/174.138.5.51/detection
 
 soyneurodivergente.com
+
+# Reference: https://x.com/RobaHearts/status/1892971767716520413
+
+businesshelp-suite.com
