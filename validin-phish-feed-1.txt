@@ -28867,3 +28867,8 @@ sms-netflix-fr.com
 
 org-txtagstorefrontaab.xin
 txtag.org-txtagstorefrontaab.xin
+
+# Reference: https://x.com/JCyberSec_/status/1893413213502312654
+
+org-payyourbillr.life
+mass.org-payyourbillr.life
