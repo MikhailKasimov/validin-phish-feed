@@ -28862,3 +28862,8 @@ chronopost-mail-service.com
 chronopost-service-mail.com
 mail-service-netflix.com
 sms-netflix-fr.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5320
+
+org-txtagstorefrontaab.xin
+txtag.org-txtagstorefrontaab.xin
