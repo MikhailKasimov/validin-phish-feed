@@ -28872,3 +28872,9 @@ txtag.org-txtagstorefrontaab.xin
 
 org-payyourbillr.life
 mass.org-payyourbillr.life
+
+# Reference: https://x.com/CreateFileInt_/status/1894014555358986311
+
+http://195.177.95.197
+195.177.95.197:443
+netflix-billingau.com
