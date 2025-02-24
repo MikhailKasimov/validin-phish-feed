@@ -28854,3 +28854,11 @@ b3.piaridi.workers.dev
 
 informationpolicy.cloud
 signwdocu.com
+
+# Reference: https://app.validin.com/detail?find=45.88.186.38&type=ip4&ref_id=5b72edd9a4e#tab=resolutions (# 2025-02-24)
+
+chronopost-lapost-fr.com
+chronopost-mail-service.com
+chronopost-service-mail.com
+mail-service-netflix.com
+sms-netflix-fr.com
