@@ -28849,3 +28849,8 @@ pixzxmq.workers.dev
 2337.piurace.workers.dev
 6a.pigxjvq.workers.dev
 b3.piaridi.workers.dev
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5308
+
+informationpolicy.cloud
+signwdocu.com
