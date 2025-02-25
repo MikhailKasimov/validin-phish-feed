@@ -28882,3 +28882,9 @@ netflix-billingau.com
 # Reference: https://x.com/Merlax_/status/1894132694713602197
 
 gravityparkargentina.online
+
+# Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-02-21-IOCs-for-tunneling-platforms-for-phishing-sites.txt
+
+attached-together-illustrated-packaging.trycloudflare.com
+donna-depends-mls-referring.trycloudflare.com
+paypalsecu.ngrok.dev
