@@ -28888,3 +28888,20 @@ gravityparkargentina.online
 attached-together-illustrated-packaging.trycloudflare.com
 donna-depends-mls-referring.trycloudflare.com
 paypalsecu.ngrok.dev
+
+# Reference: https://x.com/TLP_R3D/status/1894395968398782752
+
+fertug.com
+govukaccts.com
+govukemployment.com
+govukemploystatus.com
+govukmessagecenter.com
+hmrcmessagecenter.com
+hmrcnotificationcenter.com
+uk-accountants-payable.com
+gov.uk-accountants-payable.com
+govuk.hmrcmessagecenter.com
+hmrc.fertug.com
+hmrc.govukaccts.com
+hmrc.govukemploystatus.com
+hmrc.govukmessagecenter.com
