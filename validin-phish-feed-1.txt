@@ -28905,3 +28905,32 @@ hmrc.fertug.com
 hmrc.govukaccts.com
 hmrc.govukemploystatus.com
 hmrc.govukmessagecenter.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5328
+# Reference: https://www.virustotal.com/gui/ip-address/77.81.121.112/relations
+
+96down.com
+cdkeyreplacer.com
+coupondetect.com
+demo2play.com
+freesteamplay.com
+get-cracked.com
+kolake.com
+phoneweal.com
+topcdkeys.com
+validcdkeys.com
+validsteamkeys.com
+wixirix.loan
+wp-update-server.com
+77-81-121-112.cprapid.com
+cdkeys.validcdkeys.com
+codes.validcdkeys.com
+demo2play.validcdkeys.com
+ipv6.77-81-121-112.cprapid.com
+mail.77-81-121-112.cprapid.com
+ns1.validcdkeys.com
+ns2.validcdkeys.com
+phoneweal.validcdkeys.com
+play.validcdkeys.com
+resources.validcdkeys.com
+topcdkeys.validcdkeys.com
