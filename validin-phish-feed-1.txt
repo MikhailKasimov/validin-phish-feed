@@ -28936,7 +28936,6 @@ resources.validcdkeys.com
 topcdkeys.validcdkeys.com
 
 # Reference: https://x.com/P4nd3m1cb0y/status/1894318839552205019
-# Reference: https://x.com/P4nd3m1cb0y/status/1894318839552205019
 
 20-anos-jm.site
 adquira-jm-turne.site
@@ -28951,6 +28950,7 @@ cr-agora.site
 cr-brasil.site
 cr-online.site
 emissao-cac-ofc.site
+emisso-cac-ofc-uhb.site
 emissao-cr-online.site
 emitir-cr-ofc.site
 emitir-passaporte-ofc.site
