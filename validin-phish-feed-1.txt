@@ -28990,3 +28990,16 @@ xn--emisso-cac-ofc-uhb.site
 # Reference: https://app.validin.com/detail?find=91.222.173.30&type=ip4&ref_id=f1e16727e17#tab=resolutions (# 2025-02-26)
 
 walletsupport.publicvm.com
+
+# Reference: https://x.com/CreateFileInt_/status/1894780738983055823
+
+api1.minerdapifoda.xyz
+buscacorreios.site
+buscacorreios0.site
+buscacorreios3.site
+buscacorreios5.site
+buscacorreios7.site
+buscar-los.info
+buscarapido.com
+liberacaochat.shop
+taxas-correios.com
