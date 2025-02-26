@@ -28986,3 +28986,7 @@ srv659010.hstgr.cloud
 svr-portal.site
 transparencia-cr.site
 xn--emisso-cac-ofc-uhb.site
+
+# Reference: https://app.validin.com/detail?find=91.222.173.30&type=ip4&ref_id=f1e16727e17#tab=resolutions (# 2025-02-26)
+
+walletsupport.publicvm.com
