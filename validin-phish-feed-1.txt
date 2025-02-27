@@ -29578,3 +29578,9 @@ zabadoni.com
 zamour.in
 zenzbowl.com
 zoopkirana.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5347
+
+iagadvanced.com
+pay.iagadvanced.com
+porkbunrr.web.app
