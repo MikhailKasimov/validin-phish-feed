@@ -29584,3 +29584,18 @@ zoopkirana.com
 iagadvanced.com
 pay.iagadvanced.com
 porkbunrr.web.app
+
+# Reference: https://www.virustotal.com/gui/ip-address/34.203.114.142/relations
+
+adelm-ccu.com
+altwi-zgs.com
+calli-ydq.com
+cloth-jqq.com
+fabri-qwi.com
+khurs-xkt.com
+morda-qni.com
+muire-jkd.com
+panth-cmg.com
+plout-itn.com
+verda-mun.com
+store.altwi-zgs.com
