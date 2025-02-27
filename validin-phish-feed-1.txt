@@ -29603,3 +29603,7 @@ store.altwi-zgs.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5336
 
 new2.gdtot.sbs
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5334
+
+new.gdot.me
