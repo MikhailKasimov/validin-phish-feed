@@ -29599,3 +29599,7 @@ panth-cmg.com
 plout-itn.com
 verda-mun.com
 store.altwi-zgs.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5336
+
+new2.gdtot.sbs
