@@ -29607,3 +29607,15 @@ new2.gdtot.sbs
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5334
 
 new.gdot.me
+
+# Reference: https://x.com/ShanHolo/status/1895395559546212586
+# Reference: https://app.validin.com/detail?find=3cd1fa10103694954133565f8da69224&type=hash&ref_id=437a37e750f#tab=host_pairs
+
+b1824.help
+b7683.help
+c1337.top
+c9184.help
+ihatejews.top
+s98292.click
+x1837.top
+x9148.help
