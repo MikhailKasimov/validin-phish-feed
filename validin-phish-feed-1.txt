@@ -29693,3 +29693,7 @@ solana-airdrop.shop
 surpitre.lol
 surpitre.shop
 tronuse.shop
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5378
+
+whitewebcams.fun
