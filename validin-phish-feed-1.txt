@@ -29697,3 +29697,8 @@ tronuse.shop
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5378
 
 whitewebcams.fun
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5389
+
+sanla-tan.net
+uchy.online
