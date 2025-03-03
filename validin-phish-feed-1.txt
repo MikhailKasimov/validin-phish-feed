@@ -30278,3 +30278,10 @@ streamcommuniiity.ru
 streamcommunty.ru
 streancommunity.ru
 ssl.steamcommunltuy.com
+
+# Reference: https://x.com/smica83/status/1896304627093840142
+# Reference: https://www.virustotal.com/gui/file/9eb09fdee0fdf572030cbb80df9fd7885b8ff5307524c8b4e6f884515724257f/detection
+# Reference: https://www.virustotal.com/gui/file/718d0a47fc9458edb98b59fb8757a407803da3169bf9a9639b879f388b4c78a0/detection
+# Reference: https://www.virustotal.com/gui/file/35212117c58c1e98bf9f0343588b7ab4791f8995797217e684c9ebf3051b55dc/detection
+
+claudiuspeter.com
