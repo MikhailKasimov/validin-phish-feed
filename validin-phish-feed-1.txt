@@ -30626,3 +30626,8 @@ trezorhardwaresecure.com
 ubank-review-portal.com
 verifique-diretamente.com
 walletbit-trade.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5419
+# Reference: https://discourse.ubuntu.com/t/warning-ubuntu-one-password-reset-emails/56457/3
+
+ubnuntu.com
