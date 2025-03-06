@@ -30896,3 +30896,8 @@ verificatie2025.net
 vietnam-login.com
 vietnambinance.asia
 viewbenefit-mygov.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/147.45.60.20/relations
+
+brandmauertop.life
+mta01.brandmauertop.life
