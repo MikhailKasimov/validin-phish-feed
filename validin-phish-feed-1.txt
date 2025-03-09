@@ -81194,3 +81194,18 @@ upservice-eu.com
 upsworldversand.com
 varilusa-info.com
 youthful-torvalds.91-202-233-143.plesk.page
+
+# Reference: https://app.validin.com/detail?find=%D0%94%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%20%D0%B2%D1%96%D0%B4%20%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D1%96%D1%97%20%D0%9D%D0%BE%D0%B2%D0%B0%20%D0%9F%D0%BE%D1%88%D1%82%D0%B0&type=raw&ref_id=c278f146afd#tab=host_pairs (# 2025-03-09)
+
+dopomoganova.s-host.net
+novadop.s-host.net
+novadopom.s-host.net
+novapo.s-host.net
+akto.website
+annom.website
+bako.buzz
+bitee.website
+a.akto.website
+a.bako.buzz
+a.bitee.website
+web.annom.website
