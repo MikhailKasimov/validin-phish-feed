@@ -81074,3 +81074,15 @@ wedomink.xyz
 # Reference: https://app.validin.com/detail?find=193.143.1.19&type=ip4&ref_id=03067bc8650#tab=resolutions
 
 plating-civic-curtsy.shop
+
+# Reference: https://app.validin.com/detail?type=raw&find=%D0%92%D0%B8%D0%BF%D0%BB%D0%B0%D1%82%D0%B0#tab=host_pairs (# 2025-03-09)
+
+direct-zelensky.top
+payment-universal24.top
+paymentuniversal24.top
+ua-zelengo.top
+ua-zelengo24.top
+ua24-zelengo.top
+ukraines-go.top
+zelensk-official.top
+zelenuagou.top
