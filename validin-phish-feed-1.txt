@@ -81631,3 +81631,8 @@ lp3.7d6.myftpupload.com
 arub77200.page.link
 monthly-billing.com
 aruba.monthly-billing.com
+
+# Reference: https://www.virustotal.com/gui/file/fddb5b79f11aa64fe8ba6c36ba40ff3ac5cf54ad99f40a3017d803dd6f1f7857/detection
+# Reference: https://www.virustotal.com/gui/file/0ec2dae3d7967a162928a9825b8220804387f8aa85dcaaebd4866810b36a8ba9/detection
+
+download-adobe.net
