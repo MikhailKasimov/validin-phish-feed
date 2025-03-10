@@ -81639,6 +81639,11 @@ aruba.monthly-billing.com
 download-adobe.net
 
 # Reference: https://app.validin.com/detail?find=152.89.61.96&type=ip4&ref_id=1471c1fd4e5#tab=resolutions
+# Reference: https://app.validin.com/detail?find=8cff77f5ee8b8eff.css&type=dom&ref_id=c7d0d764d37#tab=host_pairs
 
+a--m-c.com
 netfilx-online.com
+pastnames.com
+gmgn.a--m-c.com
 telegramlookup.com
+telegram-7qa.pages.dev
