@@ -2209,6 +2209,7 @@ ceonline.store
 # Reference: https://app.validin.com/lookalikes?limit=1000&lookback=90&depth=2&find=%2F%5E%5B0-9%5D%2B-coinbase%5C.com%24%2F (# 2025-01-03)
 
 001-coinbase.com
+009382-coinbase.com
 092301-coinbase.com
 098723-coinbase.com
 104295-coinbase.com
