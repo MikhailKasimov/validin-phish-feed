@@ -81636,3 +81636,8 @@ aruba.monthly-billing.com
 # Reference: https://www.virustotal.com/gui/file/0ec2dae3d7967a162928a9825b8220804387f8aa85dcaaebd4866810b36a8ba9/detection
 
 download-adobe.net
+
+# Reference: https://app.validin.com/detail?find=152.89.61.96&type=ip4&ref_id=1471c1fd4e5#tab=resolutions
+
+netfilx-online.com
+telegramlookup.com
