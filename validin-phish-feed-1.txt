@@ -81647,3 +81647,8 @@ pastnames.com
 gmgn.a--m-c.com
 telegramlookup.com
 telegram-7qa.pages.dev
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5481
+
+funds-receive.cyou
+kleinanzeigen.funds-receive.cyou
