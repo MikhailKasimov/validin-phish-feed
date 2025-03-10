@@ -81652,3 +81652,9 @@ telegram-7qa.pages.dev
 
 funds-receive.cyou
 kleinanzeigen.funds-receive.cyou
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5482
+
+confirm542351.info
+ware-bezahlt.info
+klelnanzeigen-deutch.confirm542351.info
