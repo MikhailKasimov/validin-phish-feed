@@ -81695,3 +81695,9 @@ taxasalfandegarias-correios.com
 diplomatekoop.com
 vaarbewijskopen.com
 valsgeldnederland.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5495
+
+distryct.shop
+stellasummer.com
+outarshop.fi
