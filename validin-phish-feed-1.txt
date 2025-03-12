@@ -81732,3 +81732,7 @@ regularizevisa.sbs
 regularizzei.com
 regularze.shop
 siteseguroentregasregulares.online
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5500
+
+ojlkimed.vip
