@@ -81736,3 +81736,44 @@ siteseguroentregasregulares.online
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5500
 
 ojlkimed.vip
+
+# Reference: https://x.com/CreateFileInt_/status/1899799859294564715
+# Reference: https://www.cisoadvisor.com.br/cibercrime-cria-4500-dominios-com-br-para-golpe-de-pix/
+
+br114bet.com.br
+br187bet.com.br
+br193bet.com.br
+br258bet.com.br
+br333bet.com.br
+br44bet.com.br
+br457bet.com.br
+br529bet.com.br
+br52bet.com.br
+br54bet.com.br
+br5500bet.com.br
+br552bet.com.br
+br555bet.com.br
+br592bet.com.br
+br622bet.com.br
+br6292bet.com.br
+br62bet.com.br
+br655bet.com.br
+br663bet.com.br
+br664bet.com.br
+br666bet.com.br
+br669bet.com.br
+br675bet.com.br
+br70bet.com.br
+br744bet.com.br
+br7722bet.com.br
+br7733bet.com.br
+br7788bet.com.br
+br870bet.com.br
+br888win.com.br
+br8899bet.com.br
+br889bet.com.br
+br956bet.com.br
+br979bet.com.br
+br9bet99.com.br
+br9dbet.com.br
+brapix1.com.br
