@@ -82027,3 +82027,7 @@ va-ez.net
 # Reference: https://www.virustotal.com/gui/ip-address/45.155.249.55/relations
 
 eflow-penaltytollpayment.com
+
+# Reference: https://x.com/illegalFawn/status/1900466319025131858
+
+eu-adesione.com
