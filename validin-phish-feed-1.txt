@@ -81994,3 +81994,32 @@ zaidi-stroy.ru
 zolotoe-zernyshko56.ru
 zomitran.ru
 zwuufruv.ru
+
+# Reference: https://x.com/BlinkzSec/status/1900631612103995798
+# Reference: https://www.virustotal.com/gui/ip-address/46.8.71.143/relations
+
+az-park.com
+cuglobal.net
+ds-sandiego.com
+express-toll.com
+ez-va.net
+ezpass-oh.com
+ezpass-oh.org
+ezpassmaine.net
+geauxpass-la.com
+geauxpass-la.org
+goodtogo-wa.org
+houtxparking.com
+htxpark.org
+ntta-toll.net
+oh-platepay.com
+ohezpass.org
+okllahoma-plate.com
+park-oh.net
+river-links.com
+riverslinks.com
+secure-portal02.com
+sunpass-fl.net
+tx-tags.com
+txtagstoll.com
+va-ez.net
