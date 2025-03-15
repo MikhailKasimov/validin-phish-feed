@@ -82845,3 +82845,7 @@ xpdiapayment-confirmation.82736.store
 xtyu.rest
 zenithcheckin.site
 zlme.rest
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5534
+
+certified-sale.com
