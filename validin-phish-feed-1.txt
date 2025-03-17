@@ -84592,3 +84592,12 @@ zahlung-update.com
 # Reference: https://x.com/Slvlombardo/status/1901247975591940200
 
 zimbra--it.weebly.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5552
+
+bestpriceonline.store
+big-sale-warehouse.com
+ebarrels4.store
+greatoffersnow.com
+promotion40-form.com
+rozomii.info
