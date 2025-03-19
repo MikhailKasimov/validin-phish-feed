@@ -84684,6 +84684,7 @@ cloudfilesxchange.playhouse.it.com
 
 # Reference: https://app.validin.com/detail?find=b5903cdd0f6c15ebaa7891d70f1145b1&type=hash#tab=host_pairs (# 2025-03-19)
 
+binance-assistenza-live.com
 bergersingerman.us.com
 csx-online.com
 csx-securesign.com
