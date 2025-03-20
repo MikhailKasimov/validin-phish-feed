@@ -84712,3 +84712,24 @@ bolsa-cadastrar.org
 regulariize-cadastros.org
 regularizar-cadastros.org
 regularizarr-cadastros.org
+
+# Reference: https://www.malwarebytes.com/blog/news/2025/03/semrush-impersonation-scam-hits-google-ads
+
+ads-semrush.com
+adsense-word.com
+seemruush.com
+sem-ruush.com
+sem-rushh.com
+sem-rushhh.com
+sem-russhh.com
+semrush-auth.com
+semrush-pro.click
+semrush-pro.co
+semrush.click
+semrush.help
+semrush.tech
+semrush.works
+semrussh.sbs
+auth.seem-rush.com
+auth.sem-ruush.com
+auth.semrush.help
