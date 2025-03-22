@@ -87257,3 +87257,21 @@ zpmt.kcrjdrxxs.es
 zr.hfjqitpw.es
 zz.faegyabt.ru
 zzs.fatcd.es
+
+# Reference: https://x.com/solostalking/status/1902938653782945859
+
+http://38.242.148.140
+38.242.148.140:15000
+38.242.148.140:30004
+38.242.148.140:3000
+38.242.148.140:5000
+38.242.148.140:9000
+38.242.148.140:9003
+luxusdb.xyz
+redundancia.shop
+soldatabase.io
+api.luxusdb.xyz
+api.redundancia.shop
+api2.redundancia.shop
+chat.heca.lol
+panel.redundancia.shop
