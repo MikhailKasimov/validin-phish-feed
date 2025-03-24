@@ -87411,3 +87411,19 @@ zo.farioting.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5633
 
 security-meta.pages.app.br
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5632
+
+food-network.fwh.is
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5631
+
+best-torrents.com
+displaymovies.pl
+ex-torrenty.org
+filmo.agency
+filmy24.cc
+find-vod.com
+showplax.com
+vodlist.com
+zobaczfilm.com
