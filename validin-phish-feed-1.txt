@@ -87428,7 +87428,7 @@ showplax.com
 vodlist.com
 zobaczfilm.com
 
-# Reference:
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5636
 
 all-tube.pl
 bajeczki.org.pl
