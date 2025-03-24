@@ -87407,3 +87407,7 @@ yqtb.morkil5vp.com
 yw.ajpslwqc.ru
 z4m.iveroniqu.ru
 zo.farioting.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5633
+
+security-meta.pages.app.br
