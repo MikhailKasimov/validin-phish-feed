@@ -88439,3 +88439,7 @@ yellowtasty550.weebly.com
 # Reference: https://x.com/OwnerProcessID_/status/1904506716395303304
 
 asvendasonline.github.io
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5649
+
+upnews.me
