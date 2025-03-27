@@ -88443,3 +88443,7 @@ asvendasonline.github.io
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5649
 
 upnews.me
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5654
+
+x2em.com
