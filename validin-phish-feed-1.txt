@@ -88451,3 +88451,7 @@ x2em.com
 # Reference: https://x.com/illegalFawn/status/1905219558870221240
 
 credem-app.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5671
+
+photo-reaktivieren.org
