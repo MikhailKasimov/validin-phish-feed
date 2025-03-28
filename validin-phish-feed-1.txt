@@ -88914,3 +88914,22 @@ zbazrcmg.blob.core.windows.net
 zbqmo1z42axv0q.blob.core.windows.net
 zrg54zr1r1rtg.blob.core.windows.net
 zuretsy.blob.core.windows.net
+
+# Reference: https://x.com/DaveLikesMalwre/status/1896650655953272845
+
+104-237-151-155.cprapid.com
+bia-settlements.com
+client-exchange-io.com
+dsp2-glady.com
+ipv6.104-237-151-155.cprapid.com
+ipv6.54-166-161-228.cprapid.com
+loginhelp-mygov.com
+mail.52-91-99-80.cprapid.com
+mail.voterblockfiv.org
+new-inbox-my.services
+quicklinks-online.com
+remarkable-starship-29ce807.netlify.app
+stopmytrea.com
+subwaybooks.com
+thebookscrolls.com
+voterblockfiv.org
