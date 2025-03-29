@@ -89324,3 +89324,16 @@ winnerfit.online
 ypfinfo.click
 ypfinfo.com
 ypfinfo.online
+
+# Reference: https://app.validin.com/detail?find=185.238.171.148&type=ip4&ref_id=9f45623646a
+
+eni-it.info
+eniit.info
+immbot.site
+immedevex.org
+inversiones-ute.info
+it-eni.info
+plataforma-ute.info
+progetto-en.info
+proyecto-ute.info
+theforceclickhubb.online
