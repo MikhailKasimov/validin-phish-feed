@@ -286,7 +286,6 @@
 9e.connect-app.online
 9f.connect-app.online
 9lcloud.com
-_dmarc.icloud.com.pk
 a0.connect-app.online
 a1.connect-app.online
 a2.connect-app.online
