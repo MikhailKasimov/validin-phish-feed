@@ -90343,3 +90343,31 @@ zinnoi.com
 zoniom.com
 zusojy.com
 virustoal.com
+
+
+# Reference: https://app.validin.com/detail?find=46.32.181.73&type=ip4&ref_id=149dea21e3e#tab=resolutions
+# Reference: https://app.validin.com/detail?find=46.32.183.144&type=ip4&ref_id=149dea21e3e#tab=resolutions
+# Reference: https://www.virustotal.com/gui/file/0f2182067729f7e1e4e2bef53ad3b81db36435bd94f892c304e1c5524bfbf9eb/detection
+
+1xbet-py.com
+1xlite-028823.top
+1xlite-035204.top
+1xlite-086334.top
+1xlite-237055.top
+1xlite-238339.top
+1xlite-266755.top
+1xlite-276034.top
+1xlite-350810.top
+1xlite-509249.top
+1xlite-521479.top
+1xlite-560296.top
+1xlite-651579.top
+1xlite-721714.top
+1xlite-813089.top
+1xlite-819117.top
+1xlite-824746.top
+1xlite-931124.top
+1xlite-932524.top
+winwin-978557.top
+cldirplarimo.com
+click-v4.cldirplarimo.com
