@@ -89989,3 +89989,20 @@ kineomager.net
 payment-sendgrid.com
 secure-sendgrld.com
 services-sendgrid.com
+
+# Reference: https://x.com/OwnerProcessID_/status/1906730220998005051
+# Reference: https://app.validin.com/detail?find=DataGet%20API%20-%20Consulta%20de%20CPF&type=raw&ref_id=9c526be955e#tab=host_pairs (# 2025-03-31)
+
+atendimento-caixa.cfd
+atendimento-portal-caixa.cfd
+chat-servatendimentos.site
+cnh-regularize-2025.online
+cnh-regularize-2025.shop
+cnh-regularize-2025.site
+cnh-regularize-2025.xyz
+datagetapi.online
+governofederal.pro
+pagamentolliberado.site
+receitafederalbr.online
+suporte-livel0resgat.com
+zapget.online
