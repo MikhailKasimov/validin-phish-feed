@@ -93164,4 +93164,5 @@ zo5.jpxhfeynk.ru
 # Reference: https://x.com/suyog41/status/1907312671877411160
 
 excellencesinfo.com
+tens.excellencesinfo.com
 test.excellencesinfo.com
