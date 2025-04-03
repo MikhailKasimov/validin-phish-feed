@@ -93286,3 +93286,7 @@ VirusTotal
 vknews.top
 wordfind.fun
 yynews.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5758
+
+nopae.top
