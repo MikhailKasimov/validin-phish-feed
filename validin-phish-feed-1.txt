@@ -95427,3 +95427,17 @@ whitelist-vault-coinbase.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5813
 
 anacondanz.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/89.44.9.186/relations
+
+anylots.pw
+climateactionincentive-secure.info
+costcowholesale-securepay.com
+interac-securepayment.info
+neftlixupdate.com
+rbcclientid.com
+rbcclients.com
+stoletenberg.com
+12ykhyh2khx2ky1hhhyihhbaozyx.anylots.pw
+aznazno6nqsvqsz9zv6vsguwqasqfrl.anylots.pw
+e7e7802x0yz870ezie8ge7frrnnrx.anylots.pw
