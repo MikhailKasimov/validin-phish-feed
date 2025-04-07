@@ -95423,3 +95423,7 @@ ticket-support-coinbase.com
 vault-setup-coinbase.com
 wallet-setup-coinbase.com
 whitelist-vault-coinbase.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5813
+
+anacondanz.com
