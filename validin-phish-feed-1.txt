@@ -95441,3 +95441,12 @@ stoletenberg.com
 12ykhyh2khx2ky1hhhyihhbaozyx.anylots.pw
 aznazno6nqsvqsz9zv6vsguwqasqfrl.anylots.pw
 e7e7802x0yz870ezie8ge7frrnnrx.anylots.pw
+
+# Reference: https://www.virustotal.com/gui/ip-address/37.120.239.187/relations
+
+login-securtityweb.com
+online-securitylock.com
+web-onlinelock.com
+bmo.login-securtityweb.com
+bmo.online-securitylock.com
+bmo.web-onlinelock.com
