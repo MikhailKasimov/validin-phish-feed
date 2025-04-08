@@ -96237,3 +96237,9 @@ coinbaseiie.com
 getcoinbasehelp.com
 helpcoinbasenft.com
 payments-coinbase.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5833
+
+zdwtixh.xyz
+usapsv.zdwtixh.xyz
+yma.zdwtixh.xyz
