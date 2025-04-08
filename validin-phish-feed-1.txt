@@ -95526,3 +95526,7 @@ seuspedidosregular.com
 validaratendimentoprr.shop
 vennoxpagamentos.site
 vivasortepremiadapagamento.online
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5823
+
+turtleclient.xyz
