@@ -95530,3 +95530,23 @@ vivasortepremiadapagamento.online
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5823
 
 turtleclient.xyz
+
+# Reference: https://x.com/OwnerProcessID_/status/1909343112687997376
+
+0394378-coinbase.com
+142953coinbase.com
+23423coinbase.com
+27483003-coinbase.com
+603910-coinbase.com
+625322coinbase.com
+catcoinbase.top
+coinbase-413901.com
+coinbase-blockchain.com
+coinbase-server.com
+coinbase33.com
+coinbasedeffisupport.link
+coinbasehelpdesk.online
+coinbaseiie.com
+getcoinbasehelp.com
+helpcoinbasenft.com
+payments-coinbase.com
