@@ -96243,3 +96243,7 @@ payments-coinbase.com
 zdwtixh.xyz
 usapsv.zdwtixh.xyz
 yma.zdwtixh.xyz
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5845
+
+vip100.cc
