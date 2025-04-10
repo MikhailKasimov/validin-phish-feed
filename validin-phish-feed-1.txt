@@ -96347,3 +96347,8 @@ mesdec.com
 photodemariage.org
 sbpaksmm.online
 xn--cafslin-dya.online
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5849
+
+doh-gov.com
+doh-gov.ph
