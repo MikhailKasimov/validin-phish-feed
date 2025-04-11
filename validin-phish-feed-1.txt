@@ -100775,5 +100775,7 @@ pagamulas.online
 pagarmultas.online
 
 # Reference: https://x.com/mbec03/status/1907166223131136128
+# Reference: https://app.validin.com/detail?find=Pagar%20Multas%20en%20Chile%20Tesorer%C3%ADa%20General%20de%20la%20Republica%20%26%238211%3B%20Pagar%20Multas%20en%20Chile%20Tesorer%C3%ADa%20General%20de%20la%20Republica&type=raw&ref_id=f0473541e1b#tab=host_pairs
 
+pagarmultasenlinea.cl
 pagarmultasenlinea.com
