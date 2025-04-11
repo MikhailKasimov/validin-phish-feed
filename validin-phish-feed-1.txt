@@ -100779,3 +100779,7 @@ pagarmultas.online
 
 pagarmultasenlinea.cl
 pagarmultasenlinea.com
+
+# Reference: https://x.com/mbec03/status/1909677449274655132
+
+soatseguroenlineeasura.com
