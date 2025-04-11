@@ -100768,3 +100768,8 @@ dk9zc9.pro
 dhl.dk9zc9.pro
 quoka.dk9zc9.pro
 vinted.dk9zc9.pro
+
+# Reference: https://x.com/mbec03/status/1909667840426381732
+
+pagamulas.online
+pagarmultas.online
