@@ -100761,3 +100761,10 @@ www-claro.top
 yhvxm.icu
 yurticikargoy.cyou
 za-post-word.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5867
+
+dk9zc9.pro
+dhl.dk9zc9.pro
+quoka.dk9zc9.pro
+vinted.dk9zc9.pro
