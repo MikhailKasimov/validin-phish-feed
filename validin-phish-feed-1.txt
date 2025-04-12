@@ -101072,3 +101072,7 @@ z5.olnnuu.com
 zbe.helincenath.ru
 zd.llifluo.com
 znn.ktqistadhb.ru
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5874
+
+phonecamerasun.com
