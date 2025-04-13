@@ -101076,3 +101076,26 @@ znn.ktqistadhb.ru
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5874
 
 phonecamerasun.com
+
+# Reference: https://x.com/skocherhan/status/1911194842052296810
+
+c1usdt.com
+caiduoww.com
+coet.pw
+coinn.me
+coinp.me
+coinp.pro
+fygusdc.com
+kuby.pw
+mtcusdt.com
+mupfp.com
+superr65.com
+supertrw.com
+tkpusdc.com
+tqrj.pw
+usdboost.com
+usdt-expond.vip
+usdt446.com
+wqkx.pw
+xrzln.com
+ysdr.pw
