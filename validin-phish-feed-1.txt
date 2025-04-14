@@ -101119,3 +101119,8 @@ webmail.newshelp.miy.link
 clarolo.top
 correoparaguayoi.top
 tigoblg.top
+
+# Reference: https://x.com/skocherhan/status/1911420459624571224
+
+cloudfiledirectory.com
+online-cloudstorage.com
