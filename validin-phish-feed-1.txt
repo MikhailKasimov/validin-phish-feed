@@ -101128,3 +101128,36 @@ online-cloudstorage.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5899
 
 webcamstream.sbs
+
+# Reference: https://app.validin.com/lookalikes?limit=10000&lookback=180&depth=2&find=%2F%5Econfirmation-id%5B0-9%5D%2B%5C.com%24%2F (# 2025-04-14)
+
+confirmation-id1265198.com
+confirmation-id1647.com
+confirmation-id180274.com
+confirmation-id21647.com
+confirmation-id2183.com
+confirmation-id2283.com
+confirmation-id23476.com
+confirmation-id2383.com
+confirmation-id2483.com
+confirmation-id25879.com
+confirmation-id34297.com
+confirmation-id3483.com
+confirmation-id34897.com
+confirmation-id41647.com
+confirmation-id4183.com
+confirmation-id4283.com
+confirmation-id4285.com
+confirmation-id4637.com
+confirmation-id5283.com
+confirmation-id5284.com
+confirmation-id6521.com
+confirmation-id6583.com
+confirmation-id68741.com
+confirmation-id7524.com
+confirmation-id7583.com
+confirmation-id8294.com
+confirmation-id8583.com
+confirmation-id88237.com
+confirmation-id93013.com
+booking.confirmation-id1265198.com
