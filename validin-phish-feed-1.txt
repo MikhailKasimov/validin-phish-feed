@@ -101249,3 +101249,20 @@ polygon-tokensync.top
 tbsyd.com
 veridian-capital.co.uk
 wll-us.com
+
+# Reference: https://app.validin.com/detail?find=df0bdf7a6709e3ce5b07e495d80400b6&type=hash&ref_id=e24beae8cae#tab=host_pairs (# 2025-04-15)
+
+adventurewordsmiths.co.uk
+bdjsakbjkfas.online
+brandblitzmedia.online
+healthllinx.com
+himanshuraghuvanshi.com
+jasmindevelopments.com
+luxodash.com
+ogrencidestek.shop
+pureordertruth.com
+saudebemmaiscomvoce.online
+umbrellacorp.store
+vannidigital.tech
+viradamilionaria.net
+viralmewd.com
