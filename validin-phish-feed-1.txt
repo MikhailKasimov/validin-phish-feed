@@ -101266,3 +101266,19 @@ umbrellacorp.store
 vannidigital.tech
 viradamilionaria.net
 viralmewd.com
+
+# Reference: https://app.validin.com/detail?find=739c3a349dee6d668513ecc8cf42d110&type=hash&ref_id=e24beae8cae#tab=host_pairs (# 2025-04-15)
+
+alianzafundoinvest.online
+bestmillion.store
+bodaesteryalan.com
+catchjohnfischer.com
+frankwavemart.in
+mescash.net
+pureordertruth.com
+theayurvedicatta.in
+tornadohost.xyz
+traffordbrews.com
+whytelamb.com
+mail.frankwavemart.in
+node1.tornadohost.xyz
