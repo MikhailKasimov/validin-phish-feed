@@ -101217,3 +101217,23 @@ postnlposts-nl.cfd
 postnords-dk.cfd
 serviciopostalgob-ecs.cfd
 serviciopostallagob-ec.cfd
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5904
+# Reference: https://app.validin.com/detail?find=Elon%20Musk%20%E2%80%94%20Official%20BTC%2C%20ETH%20%26%20DOGE%20Giveaway!&type=raw&ref_id=09486ef5deb#tab=host_pairs (# 2025-04-15)
+
+134-122-45-170.cprapid.com
+elon-doge.info
+elon-donations.com
+elon-prize.info
+elon-x-event.info
+em2025.net
+event-doge.info
+event-musk.info
+eventmusk-x.com
+iottechco.com
+mail.134-122-45-170.cprapid.com
+musk-doge.info
+rfmcentral.com
+stutter.onzs.ca
+x-elonmusk.info
+x-event.info
