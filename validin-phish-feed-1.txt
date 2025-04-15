@@ -101317,3 +101317,7 @@ votre-forfaitprime.info
 votre-renouvellement.info
 votreabo.fr
 votreaboprime.info
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.40.86.132/relations
+
+zoom-meeting-conference.com
