@@ -101284,27 +101284,36 @@ mail.frankwavemart.in
 node1.tornadohost.xyz
 
 # Reference: https://app.validin.com/detail?find=smartgadets.shop&type=dom&ref_id=1fe66be204d#tab=host_pairs (# 2025-04-15)
+# Reference: https://www.virustotal.com/gui/ip-address/195.85.114.12/relations
 
 abonnementpm.fr
+abonnementrn.com
 abosignature.fr
 adhesionabo.info
 adhesionprime.info
+advangoswizy.fr
+azahousing.com
 buildsubscribe.fr
 dogsecuritylink.info
 emailredirect.fr
 getyourprime.info
 granatsecurelink.info
 hikanozomi.fr
+hikaripush.com
+lpoffre.fr
 moresubonprime.info
 paysubprime.info
 productsubscription.fr
+pushyourlink.fr
 recouvrement-prime.info
 redirectionemail.fr
 renouvellementprime.fr
 renovprime.info
 reviewabonnement.info
+startyourlink.com
 subbyswizy.info
 swizybyprime.info
 votre-forfaitprime.info
 votre-renouvellement.info
+votreabo.fr
 votreaboprime.info
