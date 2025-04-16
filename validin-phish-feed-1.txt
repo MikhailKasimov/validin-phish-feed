@@ -101795,3 +101795,7 @@ tyelcel.top
 tyelcel.vip
 tyelcel.xyz
 ubbking.world
+
+# Reference: https://x.com/TeamDreier/status/1912245061540053004
+
+borgertekniskportal.com
