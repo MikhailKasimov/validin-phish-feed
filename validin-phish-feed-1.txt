@@ -103069,3 +103069,8 @@ zu.esmexw.es
 zu.ioniouscar.ru
 zwh.nxpzyebxni.es
 zzq.fomirane.ru
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5935
+
+eslgrandscup.com
+relaxcsvote.shop
