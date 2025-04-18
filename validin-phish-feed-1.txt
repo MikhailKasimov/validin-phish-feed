@@ -104457,3 +104457,7 @@ kjtcw.com
 kuduw.com
 tinsd.com
 wzltm.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5948
+
+muiivad.com
