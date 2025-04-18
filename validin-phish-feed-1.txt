@@ -104213,3 +104213,8 @@ pub-ffc17d046aa641cb8414ea1e366ef46d.r2.dev
 pub-ffd72139758b424eb4998a167bbe09bc.r2.dev
 pub-ffd8da8fbf114655b2756fb0362255e6.r2.dev
 pub-ffdcfcefd4504deca2f6c4a8e00616e6.r2.dev
+
+# Reference; https://app.validin.com/detail?find=5.101.152.161&type=ip4&ref_id=39f3058af19#tab=resolutions (# 2025-04-18)
+
+newukraine.space
+ukrrich.club
