@@ -104987,5 +104987,6 @@ zixishism.top
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5954
 
+mulllvad.org
 mullllvad.org
 mullvaad.net
