@@ -104450,13 +104450,27 @@ yeezycoin.live
 # Reference: https://x.com/skocherhan/status/1913123020626964484
 
 bmstw.com
+bzzdh.com
 ctsma.com
 dxtkd.com
+fmpwj.com
+fvvpy.com
+gzaoc.com
 hkhst.com
 kjtcw.com
+knbts.com
 kuduw.com
+nsnmt.com
+owbvc.com
+piadv.com
+qkdsw.com
 tinsd.com
+ulmrg.com
+vostz.com
+wdowv.com
 wzltm.com
+yimyg.com
+ynaml.com
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5948
 
