@@ -104984,3 +104984,8 @@ uk-evri.bond
 ukevri.one
 verace.top
 zixishism.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5954
+
+mullllvad.org
+mullvaad.net
