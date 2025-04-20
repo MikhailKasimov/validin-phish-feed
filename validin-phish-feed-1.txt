@@ -105344,3 +105344,7 @@ yzd.aneraleche.ru
 zau.ltbqftw.es
 zq.vexilon.ru
 zrue.hztwaaoldb.es
+
+# Reference: https://community.emergingthreats.net/t/ruleset-update-summary-2025-03-19-v10886/2541
+
+e-zpasslus.com
