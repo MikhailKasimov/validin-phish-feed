@@ -105352,3 +105352,7 @@ e-zpasslus.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5980
 
 onemuffblind.digital
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/5982
+
+laterrhymeascertain.world
