@@ -105356,3 +105356,13 @@ onemuffblind.digital
 # Reference: https://github.com/hagezi/dns-blocklists/issues/5982
 
 laterrhymeascertain.world
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6001
+
+edingstonbirect.com
+glessorgoum.com
+mobifever.co
+rehaursailte.com
+sunnybreeze16.live
+tzsxqxxjvzfeq.one
+ucgfvdrdbqajh.club
