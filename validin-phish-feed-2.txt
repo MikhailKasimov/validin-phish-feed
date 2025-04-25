@@ -1,0 +1,113 @@
+#################################################################
+#		Validin Threat Intelligence Platform		#
+#								#
+#	DNS history to track and discover digital threats	#
+#								#
+#			Feed of phish-domains			#
+#								#
+#								#
+#	Site: https://validin.com				#
+#	Platform: https://app.validin.com/portal		#
+#								#
+#								#
+#################################################################
+
+# Note: Continuation of /validin-phish-feed.txt and /validin-phish-feed-1.txt
+
+# Reference: https://x.com/mbec03/status/1915771428957286833
+
+cl-pasastesinitag.cfd
+cl-pasastesinitag.sbs
+cl-pasastesinitag.top
+cl-pasastesinltag.cfd
+cl-pasastesinltag.sbs
+cl-pasastesinltag.top
+pasastesinata.top
+pasastesinatag-cl.cfd
+pasastesinatag-cl.help
+pasastesinatag-cl.sbs
+pasastesinatag-cl.top
+pasastesincta.top
+pasastesinctag-cl.cfd
+pasastesinctag-cl.sbs
+pasastesingeta.top
+pasastesingita.top
+pasastesinitag-cl.cfd
+pasastesinitag-cl.sbs
+pasastesinitag-cl.top
+pasastesintaacg.life
+pasastesintacg.top
+pasastesintacl.com
+pasastesintaeg.lol
+pasastesintaeg.top
+pasastesintag-cl.cfd
+pasastesintag-cl.com
+pasastesintag-cl.help
+pasastesintag-cl.sbs
+pasastesintag-cl.top
+pasastesintag.cfd
+pasastesintag.com
+pasastesintag.life
+pasastesintag.lol
+pasastesintag.top
+pasastesintagaix.cfd
+pasastesintaganw.cfd
+pasastesintagbill.com
+pasastesintagcl.com
+pasastesintagclpay.com
+pasastesintagcost.com
+pasastesintage.lol
+pasastesintagetc.com
+pasastesintagfrg.cfd
+pasastesintaggql.cfd
+pasastesintagham.cfd
+pasastesintagi.com
+pasastesintagipk.cfd
+pasastesintagisq.cfd
+pasastesintagkpq.cfd
+pasastesintagktb.cfd
+pasastesintagkvu.cfd
+pasastesintaglap.cfd
+pasastesintagltw.cfd
+pasastesintagmta.cfd
+pasastesintagnit.cfd
+pasastesintago.com
+pasastesintagofa.cfd
+pasastesintagojs.cfd
+pasastesintagpay.com
+pasastesintagpch.cfd
+pasastesintagptt.cfd
+pasastesintagqiz.cfd
+pasastesintagrlz.cfd
+pasastesintagrmh.cfd
+pasastesintags.lol
+pasastesintagswm.cfd
+pasastesintagsy.com
+pasastesintagtkk.cfd
+pasastesintagtsp.cfd
+pasastesintagtul.cfd
+pasastesintagudh.cfd
+pasastesintagunz.cfd
+pasastesintaguow.cfd
+pasastesintagvnd.cfd
+pasastesintagwkt.cfd
+pasastesintagxbg.cfd
+pasastesintagxsz.cfd
+pasastesintagzgt.cfd
+pasastesintagzhy.cfd
+pasastesintagzit.cfd
+pasastesintagzkq.cfd
+pasastesintcexg.top
+pasastesintcg.life
+pasastesinteag.lol
+pasastesinteg.life
+pasastesinteg.top
+pasastesintig.life
+pasastesintig.top
+pasastesintlg.life
+pasastesintmg.life
+pasastesintng.life
+pasastesintog.life
+pasastesinvtag-cl.cfd
+pasastesinvtag-cl.sbs
+pasastesinvtag-cl.top
