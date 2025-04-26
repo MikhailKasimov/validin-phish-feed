@@ -111,3 +111,8 @@ pasastesintog.life
 pasastesinvtag-cl.cfd
 pasastesinvtag-cl.sbs
 pasastesinvtag-cl.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6025
+
+password-internal.com
+1.password-internal.com
