@@ -6634,3 +6634,18 @@ paypal.zahlung-prozess.com
 # Reference: https://x.com/JAMESWT_WT/status/1917198971920933257
 
 eventmedya.com
+
+# Reference: https://app.validin.com/detail?type=ip&find=79.110.49.57#tab=resolutions (# 2025-04-29)
+
+deutschexpresspaket.de
+dhlexpresspackage.de
+dhlmagyarorszag.com
+eon-rolunk-hungaria.com
+itemsearch-elta-gr.net
+miies-and-more-kartenabrechnung.de
+mile-and-more-kartenabrechnung.de
+miles-and-more-kartenabrechnug.com
+miles-and-more-kartenabrechnung-de.com
+miles-und-more-kreditkarte.de
+posta-zrt.com
+postbankconnect.de
