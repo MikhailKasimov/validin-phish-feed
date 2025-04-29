@@ -6217,3 +6217,12 @@ wallet-web3.ing
 # Reference: https://x.com/smica83/status/1917107247919882439
 
 magyarorszag.does-it.net
+
+# Reference: https://app.validin.com/detail?find=b5903cdd0f6c15ebaa7891d70f1145b1&type=hash&ref_id=8609365112d#tab=host_pairs (# 2025-04-29)
+
+inedx.com
+tradama-kalam.xyz
+zahlung-prozess.com
+paypal.inedx.com
+paypal.tradama-kalam.xyz
+paypal.zahlung-prozess.com
