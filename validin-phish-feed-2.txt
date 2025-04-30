@@ -8052,3 +8052,13 @@ sbi.teinbecku.com
 sbi.tetsuvelin.com
 sbi.vickueuole.com
 sbi.wusananer.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/176.65.137.44/relations
+
+phototan-update.cfd
+tan-sicherheit.info
+tan-update.info
+db.tan-update.info
+dbmobile.tan-update.info
+spk.tan-sicherheit.info
+spk.tan-update.info
