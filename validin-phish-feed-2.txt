@@ -9188,3 +9188,7 @@ fasteudopomoha.cfd
 # Reference: https://x.com/Slvlombardo/status/1918598814438473938
 
 bieberbeliever.store
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6128
+
+dein-rundfunkbeitrag.de
