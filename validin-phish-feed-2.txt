@@ -9310,3 +9310,12 @@ zyqgwo.es
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6130
 
 post-nachsenden.de
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.154.98.252/relations
+
+checktrackingpaketstatus.com
+indianapolisdentalimplant.com
+informandotentn24.info
+mesinfosmajeur.com
+nachsorgedienst-dhl.com
+trackmypaketonline.com
