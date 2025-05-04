@@ -9306,3 +9306,7 @@ zoinanousti.com
 zonifarne.ru
 zypac.es
 zyqgwo.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6130
+
+post-nachsenden.de
