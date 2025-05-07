@@ -9817,3 +9817,7 @@ teodoroautopecas.com
 
 deel.za.com
 login-deel.app
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6161
+
+app1.ftrans01.com
