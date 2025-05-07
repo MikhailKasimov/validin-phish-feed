@@ -9802,3 +9802,13 @@ webmail2024.com
 webmail2025.com
 home.webmail2024.com
 verificacao.webmail2025.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6160
+
+estiloserena.com.br
+homelarr.com.br
+houselar.com.br
+lorenzettibrasil-vendas.com
+nobrerefino.com
+stiloautoparts.online
+teodoroautopecas.com
