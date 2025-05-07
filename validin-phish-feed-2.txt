@@ -9794,3 +9794,11 @@ a.yqrlbqojbyl.es
 a.zcichkmn.es
 a.zfjvds.es
 a.zsqzoyi.es
+
+# Reference: https://app.validin.com/detail?find=Verifica%C3%A7%C3%A3o%20de%20Acesso&type=raw&ref_id=40b2f5f4b2a#tab=host_pairs (# 2025-05-07)
+
+vacinasvaccine.com.br
+webmail2024.com
+webmail2025.com
+home.webmail2024.com
+verificacao.webmail2025.com
