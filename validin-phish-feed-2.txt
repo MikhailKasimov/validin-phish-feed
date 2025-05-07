@@ -9611,3 +9611,7 @@ banortekoi.cc
 banortekoi.com
 banortute.cc
 banortute.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/62.60.227.65/relations
+
+www-slbc.com
