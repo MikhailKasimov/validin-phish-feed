@@ -9812,3 +9812,8 @@ lorenzettibrasil-vendas.com
 nobrerefino.com
 stiloautoparts.online
 teodoroautopecas.com
+
+# Reference: https://www.linkedin.com/posts/jeromesegura_malvertising-phishing-activity-7318757041949351936-XqRm
+
+deel.za.com
+login-deel.app
