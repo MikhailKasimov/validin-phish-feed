@@ -9821,3 +9821,11 @@ login-deel.app
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6161
 
 app1.ftrans01.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6162
+
+auth-kunden.wii930.my.id
+delivery.zenithbank.com
+uhu20f30.s3.amazonaws.com
+uhu30cfa.s3.amazonaws.com
+uhu5b78b.s3.amazonaws.com
