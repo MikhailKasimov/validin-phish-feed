@@ -46183,3 +46183,8 @@ wltlzr67erlivehsfjfd.azurewebsites.net
 woleatcoebs34livwlt.azurewebsites.net
 zen-ledger-error.azurewebsites.net
 zenledgerscoinsweb.azurewebsites.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6173
+
+io-dashboards.net
+ethena.io-dashboards.net
