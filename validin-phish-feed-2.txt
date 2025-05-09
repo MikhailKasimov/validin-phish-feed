@@ -46201,3 +46201,7 @@ trezcr.llc
 
 io-l2.org
 eigenlayer.io-l2.org
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6174
+
+dexsceerner.org
