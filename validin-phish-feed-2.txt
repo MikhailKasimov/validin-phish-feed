@@ -46192,3 +46192,7 @@ ethena.io-dashboards.net
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6178
 
 tronscan.llc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6176
+
+trezcr.llc
