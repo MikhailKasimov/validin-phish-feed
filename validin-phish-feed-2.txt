@@ -46730,3 +46730,24 @@ stweb3.pro
 stweb3.xyz
 usdtmember.org
 usdtst6.com
+
+# Reference: https://x.com/skocherhan/status/1920790568336003295
+
+global-eboost.com
+global-ebooster.com
+global-edirect.com
+global-emarket.com
+global-eplatform.com
+global-esocial.com
+global-extra.com
+globale-boost.com
+globale-boosting.com
+globale-database.com
+globale-ecommerce.com
+globale-epromoter.com
+globale-partner.com
+globale-partnership.com
+globale-platform.com
+globale-service.com
+globale-social.com
+globale-user.com
