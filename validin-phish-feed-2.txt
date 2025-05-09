@@ -46196,3 +46196,8 @@ tronscan.llc
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6176
 
 trezcr.llc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6175
+
+io-l2.org
+eigenlayer.io-l2.org
