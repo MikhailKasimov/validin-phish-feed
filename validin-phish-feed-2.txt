@@ -46299,3 +46299,8 @@ zjcrgvqadkgg.ru
 zoziogf.es
 zpxifucvuhu.es
 zzswufa.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6182
+
+uusilemmikki.com
+vindhuisdieren.com
