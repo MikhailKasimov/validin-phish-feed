@@ -46938,3 +46938,7 @@ geminnp.cc
 geminxf.cc
 geminxn.cc
 geminzw.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6191
+
+fuehrungszeugnis-service.de
