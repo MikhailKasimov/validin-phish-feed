@@ -46942,3 +46942,7 @@ geminzw.cc
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6191
 
 fuehrungszeugnis-service.de
+
+# Reference: https://www.virustotal.com/gui/domain/eyestore.tebex.io/relations
+
+eyestore.tebex.io
