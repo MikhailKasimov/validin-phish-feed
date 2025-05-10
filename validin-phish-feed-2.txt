@@ -46946,3 +46946,36 @@ fuehrungszeugnis-service.de
 # Reference: https://www.virustotal.com/gui/domain/eyestore.tebex.io/relations
 
 eyestore.tebex.io
+
+# Reference: https://x.com/setThreatTitle/status/1921170317654761861
+
+acessobrgovbr.xyz
+acessocidadaogovbr.xyz
+acessogovbr.xyz
+acessogovbra.xyz
+andamentogovbr.xyz
+brasilgovbr-darf.xyz
+cidadao-cpfgovbr.xyz
+cnh-govbr.xyz
+consultagovbr.xyz
+cpfbr-govbr.xyz
+cpfbrasil-govbr.xyz
+cpfregular-govbr.xyz
+dadosdogovbr.xyz
+darfpagamentosgovbr.org
+detran-govbr.xyz
+detrancnh-infracaogovbr.org
+detrandigitalgovbr.xyz
+emailgovbr.com
+govbr-aws.xyz
+govbr-detran.app
+govbrasil-indeniza.online
+govbrcidadao.xyz
+govbrdetran.xyz
+govbrportal-cnh.xyz
+govbrportal.xyz
+govbrregular.xyz
+infracao-govbr.xyz
+pagamentododaf-govbr.xyz
+receita-federal-govbr.app
+regularizedetrangovbr.com
