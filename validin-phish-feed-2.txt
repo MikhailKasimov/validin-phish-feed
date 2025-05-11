@@ -47170,3 +47170,7 @@ yqyxxt.ru
 ytzgwcd.es
 yxjhls.es
 zgfxzb.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6207
+
+us99.pro
