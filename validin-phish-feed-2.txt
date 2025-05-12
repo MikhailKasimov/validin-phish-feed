@@ -47174,3 +47174,7 @@ zgfxzb.es
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6207
 
 us99.pro
+
+# Reference: https://x.com/Slvlombardo/status/1921634912395743660
+
+unveilingmerveille.club
