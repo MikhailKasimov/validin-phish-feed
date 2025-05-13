@@ -47330,3 +47330,7 @@ bitdefender-download.com
 # Reference: https://x.com/setThreatTitle/status/1922249347867025834
 
 nao-sei-clonar-pagina-sou-fracassado.netlify.app
+
+# Reference: https://x.com/GenThreatLabs/status/1922267350771826828
+
+aspireglobalplc.com
