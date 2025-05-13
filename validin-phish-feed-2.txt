@@ -47334,3 +47334,4 @@ nao-sei-clonar-pagina-sou-fracassado.netlify.app
 # Reference: https://x.com/GenThreatLabs/status/1922267350771826828
 
 aspireglobalplc.com
+batalia-dansul.com
