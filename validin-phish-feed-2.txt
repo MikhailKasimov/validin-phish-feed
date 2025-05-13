@@ -47326,3 +47326,7 @@ wozudollar.online
 # Reference: https://x.com/setThreatTitle/status/1922004037655793777
 
 bitdefender-download.com
+
+# Reference: https://x.com/setThreatTitle/status/1922249347867025834
+
+nao-sei-clonar-pagina-sou-fracassado.netlify.app
