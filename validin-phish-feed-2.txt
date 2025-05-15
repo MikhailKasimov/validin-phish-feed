@@ -48375,3 +48375,8 @@ wbkgshizligcsode.com
 
 servicefrance-info.com
 connection-securise.servicefrance-info.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6242
+
+gr-dse.top
+gov.gr-dse.top
