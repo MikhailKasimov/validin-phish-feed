@@ -101126,9 +101126,11 @@ ysdr.pw
 # Reference: https://pilot.validin.com/detail?find=%D0%94%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%86%D1%8F%D0%BC%F0%9F%94%B0&type=raw&ref_id=fa71627237c#tab=host_pairs (# 2025-04-13)
 
 dopomogaaaaa.xyz
+news-help.site
 newshelp.site
 newshelps.site
 newshelp.miy.link
+mail.news-help.site
 mail.newshelp.site
 mail.newshelps.site
 webmail.dopomogaaaaa.xyz
