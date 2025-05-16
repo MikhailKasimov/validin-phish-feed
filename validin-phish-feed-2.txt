@@ -49152,3 +49152,8 @@ yrxfsp.es
 zemitarn.ru
 zruwbdgf.ru
 zyrgjicmh.es
+
+# Reference: https://unit42.paloaltonetworks.com/iranian-attackers-impersonate-model-agency/
+
+64.72.205.32:443
+megamodelstudio.com
