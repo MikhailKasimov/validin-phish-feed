@@ -51386,3 +51386,13 @@ safenewpagamentos2.site
 # Reference: https://x.com/skocherhan/status/1924646899266564303
 
 pub-e924fe82df3740d4ace2d3c27cfc411c.r2.dev
+
+# Reference: https://x.com/SpiderLabs/status/1924486856902586689
+
+4839794398349343-g4eydqdkguhcdvgs.z02.azurefd.net
+783784387348438743-fkhghccdfzc8e8cd.z02.azurefd.net
+9kp6wgtaqr.cloudflareemail2109399.workers.dev
+alt-bq-4o27qr9a.workers.dev
+cloudflareemail2109399.workers.dev
+microsftmailonlinenyukmvdx2t.lgotsna.es
+sdnxk0t5-q.alt-bq-4o27qr9a.workers.dev
