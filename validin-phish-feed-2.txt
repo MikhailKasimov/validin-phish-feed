@@ -51645,3 +51645,17 @@ confirm-id7210.quest
 confirm-id7594.com
 confirm-id9594.com
 confirm-id959493827.com
+
+# Reference: https://x.com/skocherhan/status/1925201906168648191
+
+amlpremium.top
+amlpro.top
+amlprobot.top
+amlreviewbot.top
+amlverify.top
+bybit-partners.top
+bybit-trading.top
+mindnetworkpro.top
+mindnetworks.top
+pancakelite.top
+validatorsnode.top
