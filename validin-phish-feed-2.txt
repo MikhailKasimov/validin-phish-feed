@@ -51659,3 +51659,15 @@ mindnetworkpro.top
 mindnetworks.top
 pancakelite.top
 validatorsnode.top
+
+# Reference: https://x.com/skocherhan/status/1925193739548373255
+
+echec-domicile.com
+logistique-transit.com
+pb-logistique.com
+pbs-logistique.com
+pbs-reception.com
+prbs-logistique.com
+reception-pb.com
+suivi-logistique.com
+transit-logistique.com
