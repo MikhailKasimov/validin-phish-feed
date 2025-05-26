@@ -62998,3 +62998,16 @@ booking.confirmation-id94425.com
 booking.confirmation-id94706.com
 booking.confirmation-id981721.com
 booking.confirmation-id987933.com
+
+# Reference: https://x.com/setThreatTitle/status/1925907398704742895
+
+encontreopedido89.shop
+encontreopedido90.shop
+encontreopedido91.shop
+encontreopedido92.shop
+encontreopedido93.shop
+encontreopedido94.shop
+encontreopedido95.shop
+encontreopedido96.shop
+encontreopedido97.shop
+pedidoatual.shop
