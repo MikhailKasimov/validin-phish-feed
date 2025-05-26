@@ -63090,3 +63090,7 @@ encontreopedido97.shop
 encontreopedido98.shop
 encontreopedido99.shop
 pedidoatual.shop
+
+# Reference: https://x.com/skocherhan/status/1927005543253561549
+
+btcmining1.com
