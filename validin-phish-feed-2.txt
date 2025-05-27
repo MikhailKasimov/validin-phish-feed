@@ -63323,3 +63323,22 @@ zaisanmobvnj.es
 zjdlrx.es
 zjnzkt.es
 zlkqwgpwf.es
+
+# Reference: https://www.virustotal.com/gui/ip-address/196.251.81.229/relations
+
+amendes-gouv.art
+amendes-gouv.cfd
+amendes-gouv.click
+amendes-gouv.mom
+amendes-gouv.one
+amendes.online
+chronopost-frfr.click
+laposte-br.help
+laposte-fr.club
+lapostebr.blog
+lapostebr.info
+lapostefr.bar
+lapostefr.info
+lapostefr.online
+lapostegr.blog
+telcel-com.cfd
