@@ -63149,3 +63149,9 @@ keepaas-manager.com
 keepass-manager.com
 keepass-security.com
 keepassmanager.com
+
+# Reference: https://x.com/setThreatTitle/status/1926965908171272290
+
+microsofft.click
+microsofft.net
+microsofft.ovh
