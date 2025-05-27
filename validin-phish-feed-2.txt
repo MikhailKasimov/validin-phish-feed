@@ -63140,3 +63140,11 @@ unlock-marketplacehelpcenter.click
 # Reference: https://x.com/skocherhan/status/1927266519890715115
 
 justmoneykartalbddk68.duckdns.org
+
+# Reference: https://www.linkedin.com/posts/jeromesegura_this-fraudulent-website-keepass-security-activity-7332885661865181184-gHMU
+# Reference: https://app.validin.com/detail?find=KeePPass%20Consultancy%20Nexus%20-%20%27Empowering%20Digital%20Security%20for%20Businesses%20and%20Individuals%27&type=raw&ref_id=ff179b6ee6b#tab=host_pairs (# 2025-05-26)
+
+keepaas-manager.com
+keepass-manager.com
+keepass-security.com
+keepassmanager.com
