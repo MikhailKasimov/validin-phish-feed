@@ -65031,6 +65031,20 @@ mobilework-stores.net
 universal-market-place.net
 workmobilestore.net
 
+# Reference: https://x.com/setThreatTitle/status/1927709521255792841
+
+acesso-confirmado.shop
+acesso-facilitado.site
+acesso-inscricao.cfd
+acesso-inscricao.click
+acesso-inscricao.cyou
+acesso-inscricao.help
+acesso-inscricao.info
+acesso-inscricao.lat
+acesso-inscricao.pro
+acesso-inscricao.sbs
+acesso-inscricao.site
+
 # Misc.
 
 mountainandsea4.online
