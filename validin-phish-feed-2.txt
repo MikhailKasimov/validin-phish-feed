@@ -65096,6 +65096,35 @@ www-garantibbva-kredibasvuru.cloud
 www-garantibbva-krediler.cloud
 www-garantibbva.cloud
 
+# Reference: https://x.com/skocherhan/status/1927125899859616028
+
+kat7.asia
+match7.asia
+mate7.click
+mate7news.click
+mate7news.mom
+mates.mom
+mates7.lol
+mates7.top
+we-njie.click
+we-njie.mom
+wenjiehoikuen.top
+wenjm.top
+wenjs.lol
+qq.com.kat7.asia
+qq.com.match7.asia
+qq.com.mate7.click
+qq.com.mate7news.click
+qq.com.mate7news.mom
+qq.com.mates.mom
+qq.com.mates7.lol
+qq.com.mates7.top
+qq.com.we-njie.click
+qq.com.we-njie.mom
+qq.com.wenjiehoikuen.top
+qq.com.wenjm.top
+qq.com.wenjs.lol
+
 # Misc.
 
 mountainandsea4.online
