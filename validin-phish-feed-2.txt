@@ -66141,6 +66141,10 @@ usps.pankage-zdp.cc
 usps.pankage-zec.cc
 usps.pankage-zhp.cc
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6358
+
+show-moreinfo.help
+
 # Misc.
 
 mountainandsea4.online
