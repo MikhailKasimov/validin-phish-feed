@@ -66302,6 +66302,11 @@ solution.ionexusa.com
 
 csirt.cl
 
+# Reference: https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/phaas-the-secrets-the-hidden-ties-between-tycoon2fa-and-dadsecs-operations/
+
+ticiperfe.com
+sc3s.ticiperfe.com
+
 # Misc.
 
 mountainandsea4.online
