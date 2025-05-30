@@ -66307,6 +66307,11 @@ csirt.cl
 ticiperfe.com
 sc3s.ticiperfe.com
 
+# Reference: https://x.com/JAMESWT_WT/status/1928418972472353139
+
+fran-cisco.site
+francescafialdini.fran-cisco.site
+
 # Misc.
 
 mountainandsea4.online
