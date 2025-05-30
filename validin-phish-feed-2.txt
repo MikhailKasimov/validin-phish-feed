@@ -66310,7 +66310,15 @@ sc3s.ticiperfe.com
 # Reference: https://x.com/JAMESWT_WT/status/1928418972472353139
 
 fran-cisco.site
+andrey.fran-cisco.site
+attualita-diretta.fran-cisco.site
+cronaca-vera.fran-cisco.site
 francescafialdini.fran-cisco.site
+giovanniferrero.fran-cisco.site
+italia-oggi.fran-cisco.site
+massimomoratti-italy.fran-cisco.site
+massimomoratti.fran-cisco.site
+voce-popolare.fran-cisco.site
 
 # Misc.
 
