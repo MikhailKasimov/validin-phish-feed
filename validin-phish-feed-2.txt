@@ -66294,6 +66294,10 @@ yfekcaqf.es
 zbqkso.es
 zbsjuz.es
 
+# Reference: https://www.virustotal.com/gui/ip-address/144.172.96.28/relations
+
+solution.ionexusa.com
+
 # Misc.
 
 mountainandsea4.online
