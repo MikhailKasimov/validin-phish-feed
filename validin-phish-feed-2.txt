@@ -66222,6 +66222,12 @@ zvcwdtt.es
 
 sunnyholiday.shop
 
+# Reference: https://malfors.com/reports/2025-05-russian-intelligence-phishing-actors-1.pdf
+# Reference: https://www.virustotal.com/gui/ip-address/87.120.117.52/relations
+
+hochuzhit.tech
+legionliberty.space
+
 # Misc.
 
 mountainandsea4.online
