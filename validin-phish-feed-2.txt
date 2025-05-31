@@ -67195,6 +67195,10 @@ booking.zero-item.com
 
 cleanovaps.com
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6368
+
+auroralive.sbs
+
 # Misc.
 
 mountainandsea4.online
