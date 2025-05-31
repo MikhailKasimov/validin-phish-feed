@@ -67191,6 +67191,10 @@ booking.www-75949.com
 booking.zen-lens.com
 booking.zero-item.com
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6367
+
+cleanovaps.com
+
 # Misc.
 
 mountainandsea4.online
