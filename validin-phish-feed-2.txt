@@ -69932,6 +69932,10 @@ zhnji.es
 zjjyjmbch.es
 znmtnp.es
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6386
+
+verified-sellers.world
+
 # Misc.
 
 mountainandsea4.online
