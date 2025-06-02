@@ -69936,6 +69936,10 @@ znmtnp.es
 
 verified-sellers.world
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6392
+
+seller-verification.com
+
 # Misc.
 
 mountainandsea4.online
