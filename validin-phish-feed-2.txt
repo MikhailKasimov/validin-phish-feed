@@ -69945,6 +69945,10 @@ seller-verification.com
 fttvrr.com
 help.fttvrr.com
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6399
+
+verify-acc.help
+
 # Misc.
 
 mountainandsea4.online
