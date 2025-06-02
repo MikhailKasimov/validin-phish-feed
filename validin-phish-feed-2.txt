@@ -69940,6 +69940,11 @@ verified-sellers.world
 
 seller-verification.com
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6391
+
+fttvrr.com
+help.fttvrr.com
+
 # Misc.
 
 mountainandsea4.online
