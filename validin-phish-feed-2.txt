@@ -69982,6 +69982,13 @@ vundara.es
 wxpcbma.es
 zotrix5mw.com
 
+# Reference: https://x.com/1ZRR4H/status/1929535505017844115
+
+banchile-ext.cl
+contraloriagob.cl
+ext1-bancochile.cl
+ministeriointerior.cl
+
 # Misc.
 
 mountainandsea4.online
