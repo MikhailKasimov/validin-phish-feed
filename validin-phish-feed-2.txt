@@ -69989,6 +69989,10 @@ contraloriagob.cl
 ext1-bancochile.cl
 ministeriointerior.cl
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6402
+
+verif-order.help
+
 # Misc.
 
 mountainandsea4.online
