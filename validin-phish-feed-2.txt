@@ -69993,6 +69993,19 @@ ministeriointerior.cl
 
 verif-order.help
 
+# Reference: https://app.validin.com/detail?find=Diia%20Digital%20SSI%20Project&type=raw&ref_id=98c372c4b7a#tab=host_pairs (# 2025-06-03)
+
+diia-gov-ua.com
+edopomoga-ua.cfd
+edopomogaua.xyz
+gov-ua-edopomoga.com
+gov-ua.email
+gov-ua.vip
+gov-ua.win
+gov-ual.com
+gov-uavb.cfd
+gov-uax.top
+
 # Misc.
 
 mountainandsea4.online
