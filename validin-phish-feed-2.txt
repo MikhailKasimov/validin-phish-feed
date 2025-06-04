@@ -70069,6 +70069,11 @@ vtqbtoxo.es
 xgeutwlknk.es
 ydeguteh.es
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6409
+
+gov-krsp.life
+wisconsindot.gov-krsp.life
+
 # Misc.
 
 mountainandsea4.online
