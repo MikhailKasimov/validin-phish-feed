@@ -70146,6 +70146,16 @@ suppter-logisco.shop
 supter-logins.shop
 tiktokae.shop
 
+# Reference: https://x.com/setThreatTitle/status/1930425196667662578
+
+bidencash.buzz
+bidencash.cloud
+bidencash.net
+bidencash.online
+bidencash.org
+bidencashe.com
+www-bidencash.asia
+
 # Misc.
 
 mountainandsea4.online
