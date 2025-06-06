@@ -70644,6 +70644,11 @@ useinvitcode.click
 # Reference: https://www.virustotal.com/gui/file/ccdeffcb79ed62985f1532e39c717688c77b707706598b13cc74c670ae3dd6a3/detection
 # Reference: https://www.virustotal.com/gui/file/3b50c4986023d274b1c8c518b63d0b04936886a1eea90a7240181789c2c0b139/detection
 
+apr08queen.cloud
+mariainfotech1.cloud
+mariainfotechs.cloud
+pkcoment.cloud
+plnishah21.cloud
 taniyaxcloud-t81x.com
 
 # Misc.
