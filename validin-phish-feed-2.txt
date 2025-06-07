@@ -70918,6 +70918,11 @@ verfy-res-en.icu
 verifcation-reserv-872651.com
 view-my-form.com
 
+# Reference: https://x.com/skocherhan/status/1931416769576534325
+
+itstep.click
+booking.itstep.click
+
 # Misc.
 
 mountainandsea4.online
