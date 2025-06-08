@@ -70947,6 +70947,10 @@ searchaustralianjobs.com
 thechatgptjobs.info
 usajobscentral.com
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6443
+
+bera-company.com
+
 # Misc.
 
 mountainandsea4.online
