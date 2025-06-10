@@ -76347,6 +76347,10 @@ zcjziy.es
 zfxichyn.es
 zkhzrdxkrg.es
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6447
+
+spinfortune.vip
+
 # Misc.
 
 mountainandsea4.online
