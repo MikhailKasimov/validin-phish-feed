@@ -80482,6 +80482,11 @@ login-microsoft-mail-85458965op.iiinf.com
 
 isybank.app
 
+# Reference: https://x.com/SpiderLabs/status/1932844577355939890
+
+caravelglobaltrade.com
+estracomer.com
+
 # Misc.
 
 mountainandsea4.online
