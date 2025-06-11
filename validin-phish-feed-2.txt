@@ -80491,6 +80491,12 @@ estracomer.com
 
 wwdc25.com
 
+# Reference: https://www.virustotal.com/gui/ip-address/20.83.47.82/relations
+
+documentresourcefiles.com
+officeresourcedocuments.com
+email.documentresourcefiles.com
+
 # Misc.
 
 mountainandsea4.online
