@@ -80487,6 +80487,10 @@ isybank.app
 caravelglobaltrade.com
 estracomer.com
 
+# Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2025-06-10-IOCs-for-cryptocurrency-scam-impersonating-WWDC25.txt
+
+wwdc25.com
+
 # Misc.
 
 mountainandsea4.online
