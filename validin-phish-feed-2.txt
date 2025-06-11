@@ -76400,11 +76400,14 @@ opendata-mvs.online
 rvdstart.click
 
 # Reference: https://x.com/ShadowOpCode/status/1932459993405501523
+# Reference: https://x.com/ShadowOpCode/status/1932748093243744610
 
 faithfully.sbs
 ourhomeflow.com
+zcentryos.com
 wackywidgets909.com
 hapo.wackywidgets909.com
+tefuya.zcentryos.com
 
 # Reference: https://app.validin.com/detail?find=ece012cc000708a44f02&type=hash&ref_id=c1872e75aca#tab=host_pairs (# 2025-06-11)
 
