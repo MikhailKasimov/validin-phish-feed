@@ -79930,6 +79930,12 @@ zyskgraq.top
 zzueasy.click
 zzupoint.click
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6405
+
+trezo-suite.com
+trzaxer.42web.io
+welcome-doc-bridge.github.io
+
 # Misc.
 
 mountainandsea4.online
