@@ -76399,6 +76399,13 @@ extremelyf.lat
 opendata-mvs.online
 rvdstart.click
 
+# Reference: https://x.com/ShadowOpCode/status/1932459993405501523
+
+faithfully.sbs
+ourhomeflow.com
+wackywidgets909.com
+hapo.wackywidgets909.com
+
 # Misc.
 
 mountainandsea4.online
