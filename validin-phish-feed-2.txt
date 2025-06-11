@@ -80477,6 +80477,10 @@ gov-request.info
 iiinf.com
 login-microsoft-mail-85458965op.iiinf.com
 
+# Reference: https://x.com/skocherhan/status/1932815269673529820
+
+isybank.app
+
 # Misc.
 
 mountainandsea4.online
