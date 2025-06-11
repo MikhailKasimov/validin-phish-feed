@@ -80472,6 +80472,11 @@ gov-fbi.info
 gov-lk.info
 gov-request.info
 
+# Reference: https://x.com/skocherhan/status/1932758422295867428
+
+iiinf.com
+login-microsoft-mail-85458965op.iiinf.com
+
 # Misc.
 
 mountainandsea4.online
