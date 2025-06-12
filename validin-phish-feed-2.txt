@@ -81903,6 +81903,15 @@ octorate-confirm.com
 stayconfirm-6429.com
 vodafone-confirmation-order.cfd
 
+# Reference: https://www.virustotal.com/gui/ip-address/91.92.248.53/relations
+
+bahrain-bn.top
+jordan-post-law.top
+oman-post-om.top
+oman-posto.top
+omanposton.com
+omanpostonsite.top
+
 # Misc.
 
 mountainandsea4.online
