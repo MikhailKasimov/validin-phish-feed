@@ -81917,6 +81917,11 @@ oman-posto.top
 omanposton.com
 omanpostonsite.top
 
+# Reference: https://x.com/ShadowOpCode/status/1933188857903681675
+
+happy-token.com
+hithertoderisory.online
+
 # Misc.
 
 mountainandsea4.online
