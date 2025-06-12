@@ -81572,6 +81572,64 @@ verifyguets97678-booking.com
 
 douekyj.cyou
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6466
+# Reference: https://www.virustotal.com/gui/ip-address/8.208.83.22/relations
+
+indaiocl.xyz
+jccamzn.icu
+jcchsh.icu
+jccmsah.icu
+jccmsak.com
+jccmsal.icu
+jccmshaz.icu
+jccmshz.icu
+jccmsms.icu
+jccmsnz.icu
+jccsgah.icu
+jccshah.icu
+jccshajz.top
+jccsham.icu
+jccsmahs.icu
+jccsmahs.top
+jccsmaisl.icu
+jccsmal.icu
+jccsmam.com
+jccsmari.icu
+jccsmatk.icu
+jccsmtsja.com
+jccsmwha.icu
+jccsmzn.icu
+masclub.icu
+mascubls.top
+mashzhsa.icu
+masjhg.icu
+maspst.com
+masreads.top
+masrewad.top
+masrwpt.com
+maswinpts.top
+maswinred.top
+masznbs.top
+petailin.top
+petcjsha.com
+pethxz.com
+petlsina.icu
+petltds.com
+petnzbbs.com
+petolins.top
+petrewad.com
+petroltd.io
+petsgaj.com
+petshahz.com
+petshgas.com
+petshzb.icu
+petshzn.com
+petsmz.com
+petzhgs.com
+ptsclubs.com
+rewardpts.com
+rewardscy.com
+
 # Misc.
 
 mountainandsea4.online
