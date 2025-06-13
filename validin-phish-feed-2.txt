@@ -81946,6 +81946,12 @@ tkmuf.es
 ycsproxk.es
 zdrmqijrh.es
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6469
+
+mobiilitiedot.com
+mobiilitiedot.org
+mp.mobiilitiedot.com
+
 # Misc.
 
 mountainandsea4.online
