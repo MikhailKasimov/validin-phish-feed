@@ -82017,6 +82017,10 @@ onlinemaisilaoisnonlineaccoutabsiausoaas.top
 onloaismaisolaisoalasas.top
 seconddomain.su
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6478
+
+totalpacotes.com
+
 # Misc.
 
 mountainandsea4.online
