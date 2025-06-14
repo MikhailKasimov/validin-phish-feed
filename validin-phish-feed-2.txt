@@ -81979,6 +81979,19 @@ postofficec.sbs
 postofficecc.sbs
 postofficecz.sbs
 
+# Reference: https://www.virustotal.com/gui/ip-address/94.103.125.155/relations
+
+epgov-govcc-pk.cc
+epgov-govcc-pk.click
+epgov-govco-pk.cc
+epgov-govv-pk.cc
+epgovgovccgk.cc
+epgovgovcopkmusic.cc
+epgovgovvpk.cc
+israelpostdds-cox.cc
+israelpostdds-cox.click
+israelpostddscox.cc
+
 # Misc.
 
 mountainandsea4.online
