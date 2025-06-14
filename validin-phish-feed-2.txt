@@ -81969,6 +81969,16 @@ mobiilitiedot.com
 mobiilitiedot.org
 mp.mobiilitiedot.com
 
+# Reference: https://x.com/skocherhan/status/1933434512538533962
+
+phlpostgovp.sbs
+phlpostgovv.shop
+phlpostgovx.sbs
+phlpostgovz.sbs
+postofficec.sbs
+postofficecc.sbs
+postofficecz.sbs
+
 # Misc.
 
 mountainandsea4.online
