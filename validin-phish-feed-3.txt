@@ -2910,3 +2910,10 @@ ykemya.com
 # Reference: https://x.com/skocherhan/status/1935662126086992216
 
 deutschebankuk.com
+
+# Reference: https://www.linkedin.com/posts/roman-h%C3%BCssy-278b94213_vorsicht-vor-phishing-im-namen-der-schweizerischen-activity-7341418905149566980-56BQ
+# Reference: https://www.virustotal.com/gui/ip-address/206.123.145.242/relations
+
+ch-adminsro.click
+ger-ch-admin.click
+impecran-echap.online
