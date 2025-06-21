@@ -3021,3 +3021,7 @@ xjrqdddx.es
 ytwzcxnfy.es
 zjghweovntid.ru
 ztmthcmcwy.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6535
+
+tabdocklight.com
