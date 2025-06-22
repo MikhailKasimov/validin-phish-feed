@@ -3025,3 +3025,22 @@ ztmthcmcwy.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6535
 
 tabdocklight.com
+
+# Reference: https://x.com/NoMorePhis/status/1936818586556764539
+
+afvcmauncr.es
+bnsbxpbc.es
+dwvdueu.es
+eoiiwal.es
+eqywtg.es
+hruxhcsslo.es
+hxjgwka.es
+iafwq.es
+ilgmilw.es
+pjvezqi.es
+pzczykebrpba.es
+rpmkezwze.es
+vntjskz.es
+yhwiybpt.es
+yzmgkkf.es
+zubunwnyz.es
