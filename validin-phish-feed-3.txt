@@ -3258,3 +3258,8 @@ zjfxfgc.es
 # Reference: https://app.validin.com/detail?find=23.254.247.53&type=ip4&ref_id=42e45eb3439#tab=resolutions
 
 factura4757.myddns.me
+
+# Reference: https://x.com/ankit_anubhav/status/1937835440847143405
+
+confirmation-id2983.com
+booking.confirmation-id2983.com
