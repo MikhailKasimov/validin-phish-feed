@@ -3254,3 +3254,7 @@ lmiixak.es
 qtgzirrpy.es
 yjzkqbs.es
 zjfxfgc.es
+
+# Reference: https://app.validin.com/detail?find=23.254.247.53&type=ip4&ref_id=42e45eb3439#tab=resolutions
+
+factura4757.myddns.me
