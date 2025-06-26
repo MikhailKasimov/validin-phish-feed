@@ -4086,3 +4086,8 @@ a.grom.website
 nato-summit-2025.com
 natosolana.com
 sso.nato-summit-2025.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.90.152/relations
+
+wefilestransfer.online
+documents.wefilestransfer.online
