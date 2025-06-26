@@ -4080,3 +4080,8 @@ a.bunya.website
 a.dreni.website
 a.gorm.website
 a.grom.website
+
+# Reference: https://app.validin.com/detail?find=NATO%20Summit%202025&type=raw&ref_id=0acf61e5311#tab=host_pairs
+
+nato-summit-2025.com
+natosolana.com
