@@ -5065,3 +5065,8 @@ westernunion-safereceiving.icu
 westernunion-transaction.icu
 willisau-br.com
 youandthesea-id8842.world
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6576
+
+digisingl.ru
+warehousingapprenticeship.co.uk
