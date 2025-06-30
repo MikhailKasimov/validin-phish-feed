@@ -6204,3 +6204,7 @@ zekiyildirim.com.tr
 zeniq.net
 ziyvn.com
 zpdumka.in
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6586
+
+my-tracknl.com
