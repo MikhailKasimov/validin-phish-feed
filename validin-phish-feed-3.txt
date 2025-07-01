@@ -6267,3 +6267,8 @@ quantumtradesolutionss.com
 # Reference: https://app.validin.com/detail?find=91.92.46.181&type=ip4&ref_id=2da4ef55172#tab=resolutions
 
 checkguests-via-booking.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6597
+
+cheapgpt.store
+cheapgpts.selly.store
