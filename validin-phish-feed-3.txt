@@ -6902,3 +6902,7 @@ emmnmhdf.es
 icvdm.es
 kfyubol.es
 lovagcvwydkx.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6607
+
+noroxbet.com
