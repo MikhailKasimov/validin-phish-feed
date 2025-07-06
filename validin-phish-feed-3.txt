@@ -7110,3 +7110,7 @@ wilmingtonmu.edu.eu
 winncollege.edu.eu
 wpunu.edu.eu
 wsu.edu.eu
+
+# Reference: https://www.virustotal.com/gui/domain/enscys.ink/detection
+
+enscys.ink
