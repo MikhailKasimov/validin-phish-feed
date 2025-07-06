@@ -7125,3 +7125,7 @@ mongomerybank.com
 securinterntbank.org
 botweb2321.securinterntbank.org
 web4.securinterntbank.org
+
+# Reference: https://x.com/skocherhan/status/1941865917807292710
+
+opendatahsc-gov-ua.online
