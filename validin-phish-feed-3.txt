@@ -7117,11 +7117,13 @@ enscys.ink
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6629
 # Reference: https://www.virustotal.com/gui/ip-address/193.143.1.180/relations
+# Reference: https://app.validin.com/detail?find=G-QKRG48VYB6&type=raw&ref_id=f5a46ad47c5#tab=host_pairs (# 2025-07-06)
 
 abo-cafeyn.com
 abo-tfoumax.com
 fish-lane.com
 mongomerybank.com
+montgomerybank.com
 securinterntbank.org
 botweb2321.securinterntbank.org
 web4.securinterntbank.org
