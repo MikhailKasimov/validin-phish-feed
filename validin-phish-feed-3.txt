@@ -7114,3 +7114,14 @@ wsu.edu.eu
 # Reference: https://www.virustotal.com/gui/domain/enscys.ink/detection
 
 enscys.ink
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6629
+# Reference: https://www.virustotal.com/gui/ip-address/193.143.1.180/relations
+
+abo-cafeyn.com
+abo-tfoumax.com
+fish-lane.com
+mongomerybank.com
+securinterntbank.org
+botweb2321.securinterntbank.org
+web4.securinterntbank.org
