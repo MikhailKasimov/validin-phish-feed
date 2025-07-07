@@ -7146,3 +7146,7 @@ xbsvtclqt.es
 xnzehyq.es
 yomnmw.es
 zlitlzklwbjm.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6631
+
+flow-distributor.com
