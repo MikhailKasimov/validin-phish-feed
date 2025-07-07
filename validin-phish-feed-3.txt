@@ -7150,3 +7150,8 @@ zlitlzklwbjm.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6631
 
 flow-distributor.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6635
+
+atiylu.live
+myhermes.atiylu.live
