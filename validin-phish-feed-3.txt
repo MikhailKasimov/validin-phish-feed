@@ -7393,3 +7393,7 @@ zopwet.za.com
 zumtek.ru.com
 zunbik.sa.com
 zuvhex.za.com
+
+# Reference: https://x.com/skocherhan/status/1942425256989208902
+
+whatsappdown.net
