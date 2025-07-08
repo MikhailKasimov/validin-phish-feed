@@ -7397,3 +7397,11 @@ zuvhex.za.com
 # Reference: https://x.com/skocherhan/status/1942425256989208902
 
 whatsappdown.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.155.69.5/relations
+# Reference: https://www.virustotal.com/gui/file/e12a8bd6aff798580664b0565e79c318299860c4bd3508aaa367fe2ed77ce397/detection
+
+lak21nas.com
+mel6got.com
+mp3starz.com
+tem3min.com
