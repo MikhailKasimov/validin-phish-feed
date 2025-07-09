@@ -7415,3 +7415,7 @@ qpdpfsnjeodt.es
 uphivusxd.com
 usvrfkyn.es
 velvetmyode.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6654
+
+comupdate.de
