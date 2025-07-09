@@ -7432,3 +7432,14 @@ perexodnik-bankid.top
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6657
 
 clientsboots.com.es
+
+# Reference: https://www.virustotal.com/gui/ip-address/67.43.234.48/relations
+
+annual-rebates.com
+bestcookbook.info
+etransfer-deposit.net
+rebates-costcowholesale.com
+royalbank-canada.com
+royalbank-client.ca
+transfer-accept.ca
+zodiacook.org
