@@ -7419,3 +7419,8 @@ velvetmyode.es
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6654
 
 comupdate.de
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6655
+
+new-access.info
+royalmail.new-access.info
