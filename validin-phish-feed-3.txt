@@ -7487,3 +7487,8 @@ c.untwitter.com
 c.unyoutube.net
 click.darktheme.net
 click.videocontrolls.com
+
+# Reference: https://app.validin.com/detail?find=One%20platform%20to%20connect%20%7C%20Zoom&type=raw&ref_id=eb00115529b#tab=host_pairs (# 2025-07-10)
+
+craftiq.cloud
+zoonn-platform.com
