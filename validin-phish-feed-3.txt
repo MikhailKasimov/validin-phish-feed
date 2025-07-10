@@ -7460,3 +7460,8 @@ syyxmr.es
 tvzuwx.es
 uvycjg.es
 xmgeyv.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6658
+
+kafala.info
+limited-official.com
