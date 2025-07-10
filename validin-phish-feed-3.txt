@@ -7465,3 +7465,25 @@ xmgeyv.es
 
 kafala.info
 limited-official.com
+
+# Reference: https://blog.koi.security/google-and-microsoft-trusted-them-2-3-million-users-installed-them-they-were-malware-fb4ed4f40ff5 (# RedDirection campaign)
+
+abmitab.com
+addmitad.com
+admiitad.com
+admitab.com
+admitclick.net
+admitlink.net
+darktheme.net
+edmitab.com
+jermikro.com
+undiscord.com
+untwitter.com
+unyoutube.net
+videocontrolls.com
+c.jermikro.com
+c.undiscord.com
+c.untwitter.com
+c.unyoutube.net
+click.darktheme.net
+click.videocontrolls.com
