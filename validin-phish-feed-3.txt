@@ -7947,3 +7947,22 @@ yppdzpj.es
 zacni.es
 zwqekpyfwxxc.com
 zxxbadcxhoy.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6672
+# Reference: https://www.virustotal.com/gui/ip-address/45.135.232.98/relations
+
+45-135-232-98.plesk.page
+friendly-newton.45-135-232-98.plesk.page
+adminfree.cyou
+adminone.cyou
+advidner.xyz
+aespweb.icu
+aradepwor4n.cyou
+cninaspwebprn.icu
+cninaspwebvpn.icu
+cnspwebprn.icu
+cnspwebvpn.icu
+inadepwor4n.cyou
+inspweb.icu
+pish-lane.com
+waxutu453npsebvd34p.cyou
