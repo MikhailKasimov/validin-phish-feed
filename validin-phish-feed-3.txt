@@ -9589,3 +9589,9 @@ enelcl.info
 gobmx.cfd
 posta-info.cfd
 ups-app.cfd
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6686
+# Reference: https://www.virustotal.com/gui/ip-address/85.90.208.108/relations
+
+cafeadele.fi
+watchxxx.top
