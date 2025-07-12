@@ -9573,3 +9573,19 @@ vkdiwaswa.cyou
 vkdiwaswa.icu
 vkdiwaswa.qpon
 vkdiwaswa.shop
+
+# Reference: https://www.virustotal.com/gui/ip-address/196.251.71.173/relations
+
+correos-es.info
+correosclinfo.cfd
+correoses.info
+ctt-info.org
+cttpt.info
+dhl-es.info
+dhl-home.info
+dhl-mx.info
+dhl-org.info
+enelcl.info
+gobmx.cfd
+posta-info.cfd
+ups-app.cfd
