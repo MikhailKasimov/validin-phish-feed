@@ -12297,3 +12297,8 @@ rotacnu.site
 # Reference: https://x.com/skocherhan/status/1944476750227902938
 
 tciflusa.org
+
+# Reference: https://x.com/soursecc/status/1944804178364084276
+
+valorantidn.duckdns.org
+valorantid.ikwb.com
