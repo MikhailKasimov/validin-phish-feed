@@ -17436,3 +17436,8 @@ paypal.jetztige-annahme.de
 germanywork.org
 airbus.germanywork.org
 boeing.germanywork.org
+
+# Reference: https://x.com/johnk3r/status/1945193478264082681
+# Reference: https://app.validin.com/detail?type=ip&find=185.168.208.55#tab=resolutions
+
+mf-autosales.com
