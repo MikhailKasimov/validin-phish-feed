@@ -12306,3 +12306,7 @@ valorantid.ikwb.com
 # Reference: https://x.com/malpulse/status/1944766445662961998
 
 infoduct.info
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6710
+
+fatewex.com
