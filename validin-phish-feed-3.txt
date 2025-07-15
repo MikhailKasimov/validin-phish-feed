@@ -12350,3 +12350,7 @@ zrntoldwtv.es
 # Reference: https://www.virustotal.com/gui/ip-address/179.43.176.77/relations
 
 ameli-renouvelement.fr
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.207.148.168/relations
+
+cjxloader.site
