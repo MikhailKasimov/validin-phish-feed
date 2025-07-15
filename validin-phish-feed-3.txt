@@ -17430,3 +17430,9 @@ hier-akzeptieren.de
 jetztige-annahme.de
 paypal.hier-akzeptieren.de
 paypal.jetztige-annahme.de
+
+# Reference: https://x.com/ShanHolo/status/1945045818961993976
+
+germanywork.org
+airbus.germanywork.org
+boeing.germanywork.org
