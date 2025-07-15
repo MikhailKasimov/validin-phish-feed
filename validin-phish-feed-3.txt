@@ -12346,3 +12346,7 @@ xmzvsp.es
 yfjkwsw.es
 yxfbynit.es
 zrntoldwtv.es
+
+# Reference: https://www.virustotal.com/gui/ip-address/179.43.176.77/relations
+
+ameli-renouvelement.fr
