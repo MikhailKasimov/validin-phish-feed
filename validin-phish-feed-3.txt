@@ -17423,3 +17423,10 @@ verifloginvancity.com
 verifyservus.com
 verifywealthsimple.com
 yu856qa06.sbs
+
+# Reference: https://app.validin.com/detail?find=b5903cdd0f6c15ebaa7891d70f1145b1&type=hash&ref_id=d63dab0ab34#tab=host_pairs (# 2025-07-15)
+
+hier-akzeptieren.de
+jetztige-annahme.de
+paypal.hier-akzeptieren.de
+paypal.jetztige-annahme.de
