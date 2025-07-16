@@ -17484,5 +17484,8 @@ yqckwlh.es
 zdpoxs.es
 
 # Reference: https://x.com/Dinosn/status/1945123845377040390
+# Reference: https://app.validin.com/detail?find=04c81504a70e9223477624d584c42bcf&type=hash&ref_id=eda4cef60b0#tab=host_pairs (# 2025-07-16)
 
 caiendar-redirect.xyz
+caiendiy-auth.xyz
+redirector-api.xyz
