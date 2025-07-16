@@ -17704,3 +17704,7 @@ http://54.175.184.74
 
 renewalserviceplatform.com
 renewalservicespanel.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6733
+
+rarbg-official.com
