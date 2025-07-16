@@ -17708,3 +17708,7 @@ renewalservicespanel.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6733
 
 rarbg-official.com
+yifyproxies.com
+yifytv-official.site
+yts-official.app
+yts-official.mx
