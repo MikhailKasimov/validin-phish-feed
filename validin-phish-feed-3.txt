@@ -17698,3 +17698,9 @@ http://208.113.133.120
 http://35.234.172.162
 http://51.210.151.63
 http://54.175.184.74
+
+# Reference: https://x.com/JAMESWT_WT/status/1945438419577975207
+# Reference: https://app.validin.com/detail?find=193.57.33.140&type=ip4&ref_id=1b6b9f12df2#tab=resolutions
+
+renewalserviceplatform.com
+renewalservicespanel.com
