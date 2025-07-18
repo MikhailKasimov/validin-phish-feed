@@ -17856,3 +17856,8 @@ openifera.com
 owdestage.ru
 tytprngxckyk.es
 zomitex.ru
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6748
+
+courier-as.party
+elta.courier-as.party
