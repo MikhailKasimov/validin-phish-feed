@@ -17874,3 +17874,9 @@ ulantoroce.ru
 # Reference: https://x.com/TeamDreier/status/1946239897725009995
 
 mobilepaydenmarks.online
+
+# Reference: https://x.com/BlinkzSec/status/1946487148820975802
+
+bitgetwallet.onepage.website
+bitstamlogi.com
+metamask.directual.app
