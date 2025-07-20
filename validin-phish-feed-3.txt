@@ -19003,6 +19003,27 @@ zombsrvc.cc
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6767
 # Reference: https://github.com/uBlockOrigin/uAssets/issues/27800
+# Reference: https://pilot.validin.com/detail?type=raw&find=TLauncher+*#tab=host_pairs (# 2025-07-20)
 
+bigminecraft.net
+devkaz.space
+tl.xx3.kz
+tlancher.ru
+tlauncher-legacy.ru
+tlauncher.en.softonic.com
 tlauncher.org
+tlauncher.ru
+tlauncher.softonic-ar.com
+tlauncher.softonic.cn
+tlauncher.softonic.com.br
+tlauncher.softonic.kr
+tlauncher.softonic.nl
+tlauncher.softonic.pl
+tlauncher.softonic.ru
 tlauncher.ua
+tlaunchermc.com
+tlauncherorg.download-windows.org
+tlauncherorg.install-download.net
+tlaunchers.org
+tlaunchertutorials.com
+tlauncherz.com
