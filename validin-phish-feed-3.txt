@@ -19000,3 +19000,9 @@ xn--doctolib-sant-info-nwb.com
 xn--erreur-rception-inb.com
 yeastarcoin.info
 zombsrvc.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6767
+# Reference: https://github.com/uBlockOrigin/uAssets/issues/27800
+
+tlauncher.org
+tlauncher.ua
