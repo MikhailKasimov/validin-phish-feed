@@ -19046,3 +19046,7 @@ magicstyle.site
 magicstyle.space
 photo-mir.shop
 mail.magicstyle.online
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.195.240.123/relations
+
+pkgov-update.click
