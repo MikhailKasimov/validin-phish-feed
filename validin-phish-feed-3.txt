@@ -19034,3 +19034,15 @@ tlauncherz.com
 # Reference: https://www.virustotal.com/gui/ip-address/45.14.226.115/relations
 
 00utl00k27.kozow.com
+
+# Reference: https://app.validin.com/detail?find=AI%20Undress%20App&type=raw&ref_id=7404e4d1963#tab=host_pairs (# 2025-07-21)
+
+deepdoge.sbs
+deeppepe.sbs
+krolina.shop
+magic-style.space
+magicstyle.online
+magicstyle.site
+magicstyle.space
+photo-mir.shop
+mail.magicstyle.online
