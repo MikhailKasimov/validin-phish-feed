@@ -19030,3 +19030,7 @@ tlauncherorg.install-download.net
 tlaunchers.org
 tlaunchertutorials.com
 tlauncherz.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.14.226.115/relations
+
+00utl00k27.kozow.com
