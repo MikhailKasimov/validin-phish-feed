@@ -19050,3 +19050,28 @@ mail.magicstyle.online
 # Reference: https://www.virustotal.com/gui/ip-address/91.195.240.123/relations
 
 pkgov-update.click
+
+# Reference: https://app.validin.com/detail?find=2b2acb8b8450a92aff2d1c82b287d71f&type=hash&ref_id=40a316237a8#tab=host_pairs (# 2025-07-22)
+
+belrooom.com
+blissbeamstudios.com
+cadaicoteam.uno
+designateddrivergolf.com
+digenzo.xyz
+eurografikaks.com
+hamzify.shop
+ikmedia.es
+jerryinnovations.site
+joshiindonesia.store
+kurierdienste-schlatter.ch
+miraivistos.com
+mirzakhani.site
+moonshotshooters.com
+naiphtalinedigital.org
+neslemystore.com
+steamysins.net
+victorstrongwell.com
+weed420store.shop
+wheresansem.com
+wincowind0w.com
+wizcric.store
