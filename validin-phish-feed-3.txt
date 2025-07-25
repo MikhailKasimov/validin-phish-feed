@@ -19100,3 +19100,8 @@ bccnerty.com
 iuudyd.com
 weathly.com
 yuaonew.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6814
+
+cloudstepsuomi.com
+marimekkoofficial.com
