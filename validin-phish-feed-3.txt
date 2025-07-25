@@ -19234,3 +19234,7 @@ xyjvmquje.es
 yjwkly.es
 yskkmn.es
 zvydc.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6818
+
+ledger-check-securitys.com
