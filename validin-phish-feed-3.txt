@@ -19238,3 +19238,16 @@ zvydc.es
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6818
 
 ledger-check-securitys.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6827
+
+kima-laserkosmetik.de
+antai-connexion.kima-laserkosmetik.de
+aregnta-connexion.kima-laserkosmetik.de
+argenta-app.kima-laserkosmetik.de
+chooslanhdplikdpfjqjdepedd.hosted.phplist.com
+leboncoin-login.kima-laserkosmetik.de
+login.kima-laserkosmetik.de
+mycss-login.kima-laserkosmetik.de
+nickel-identifiant-app.kima-laserkosmetik.de
+www1-argenta.kima-laserkosmetik.de
