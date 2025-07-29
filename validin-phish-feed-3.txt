@@ -19374,3 +19374,8 @@ tradingview-download.net
 binonelola.com
 tt07.biz
 xepozejuto.binonelola.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6862
+
+nuuas.top
+socae.top
