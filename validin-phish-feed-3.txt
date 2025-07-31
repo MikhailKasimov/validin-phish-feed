@@ -20006,3 +20006,8 @@ staging.d29htir4a98b41.amplifyapp.com
 suchen.mobile.de.meine-fahrzeug.de
 tiger.sspl.com.au
 visualizations.eips.com.au
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6870
+
+flwzen.com
+gjseep.com
