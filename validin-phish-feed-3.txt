@@ -20038,3 +20038,8 @@ ghczyzsttmudspezbhnmcwiv.com
 # Reference: https://x.com/skocherhan/status/1951004708207759745
 
 manageswiftuberthe-file.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6876
+
+aussiecarsupplies.com
+watteimall.com
