@@ -32646,3 +32646,8 @@ trezrwa-let.com
 # Reference: https://x.com/JAMESWT_WT/status/1951220278073168172
 
 staff-area.ddns.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6885
+
+syd-fx.io
+sydneyfx.io
