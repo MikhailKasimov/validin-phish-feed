@@ -32636,3 +32636,10 @@ zzincsd.online
 zzllv.asia
 zzngygoepe6.cc
 zzpq.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6883
+
+ldgerw-allet.com
+sf-epal.com
+thetrust-wal-et.com
+trezrwa-let.com
