@@ -20043,3 +20043,26 @@ manageswiftuberthe-file.top
 
 aussiecarsupplies.com
 watteimall.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6880
+# Reference: https://pilot.validin.com/detail?find=87.120.222.33&type=ip4&ref_id=ece320c2013#tab=resolutions
+
+aanvraag-starten.sbs
+aanvraag-update.sbs
+contain-secure.com
+homedecomastery.com
+security-enabling.com
+security-firmware-update.com
+security-firmware-update.sbs
+veilig-aanvragen.sbs
+security-firmware-update.com
+security-firmware-update.sbs
+digipas.aanvraag-starten.sbs
+digipas.veilig-aanvragen.sbs
+nieuwe-digipas.aanvraag-starten.sbs
+safepal-wallet.security-firmware-update.com
+safepal-wallets.security-firmware-update.com
+safepal.security-firmware-update.com
+safepal.security-firmware-update.sbs
+trezor-updates.security-enabling.com
+veilig-digipas.aanvraag-update.sbs
