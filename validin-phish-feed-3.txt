@@ -32670,3 +32670,9 @@ gov-xtu.cc
 
 pedirlanches.shop
 pedirlanchesapp.shop
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6890
+
+sun-sun.org
+sunwsap.net
+app.sunwsap.net
