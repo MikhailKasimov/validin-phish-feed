@@ -32668,6 +32668,8 @@ gov-xtu.cc
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6891
 # Reference: https://www.virustotal.com/gui/ip-address/31.97.80.119/relations
 
+cardapiobrasanobre.com
+pediirlanchesapp.shop
 pedirlanches.shop
 pedirlanchesapp.shop
 
