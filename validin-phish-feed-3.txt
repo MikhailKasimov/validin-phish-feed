@@ -32655,3 +32655,12 @@ sydneyfx.io
 # Reference: https://x.com/NoMorePhis/status/1951425656190873923
 
 psksxup.es
+
+# Reference: https://github.com/MikhailKasimov/validin-phish-feed/issues/9#issuecomment-3145825125
+
+gov-bzc.cc
+gov-cmj.cc
+gov-jfs.cc
+gov-laa.cc
+gov-tgw.cc
+gov-xtu.cc
