@@ -32686,3 +32686,10 @@ revolut.so
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6909
 
 47215.world
+
+# Reference: https://x.com/NoMorePhis/status/1952018374336111032
+
+bgojspfn.es
+evnxpapsu.es
+xszraiag.es
+zyuqnfn.es
