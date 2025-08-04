@@ -32682,3 +32682,7 @@ app.sunwsap.net
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6897
 
 revolut.so
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6909
+
+47215.world
