@@ -32697,3 +32697,7 @@ zyuqnfn.es
 # Reference: https://x.com/JAMESWT_WT/status/1952263030152048824
 
 ww2-mi-connecto-app.somzenazazrakov.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6914
+
+tiedonhaku.fi
