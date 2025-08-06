@@ -32720,3 +32720,11 @@ desoracks.com.mx
 
 sestima-ingsing.s3.eu-north-1.amazonaws.com
 sso-ingaccount-sistema.mixcatering.nl
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6930
+
+libgen.ad
+libgen.cc
+libgen.mx
+libgen.plus
+libgenesis.net
