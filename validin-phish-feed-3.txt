@@ -32715,3 +32715,8 @@ desoracks.com.mx
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6924
 
 # pangeawanderers.com
+
+# Reference: https://x.com/JAMESWT_WT/status/1953014474551570888
+
+sestima-ingsing.s3.eu-north-1.amazonaws.com
+sso-ingaccount-sistema.mixcatering.nl
