@@ -32728,3 +32728,10 @@ libgen.cc
 libgen.mx
 libgen.plus
 libgenesis.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6932
+# Reference: https://urlscan.io/result/01988061-3fc1-75fd-b0b2-91c7a9e3e5fd/
+
+exceiientdates.net
+unemaisondansladrome.fr
+llozqb.exceiientdates.net
