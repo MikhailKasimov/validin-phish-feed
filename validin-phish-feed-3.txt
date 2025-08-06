@@ -32714,4 +32714,4 @@ desoracks.com.mx
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6924
 
-pangeawanderers.com
+# pangeawanderers.com
