@@ -32738,5 +32738,15 @@ llozqb.exceiientdates.net
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6943
 # Reference: https://urlscan.io/result/019888e5-256d-721f-83f0-2f2ce5c94200/
+# Reference: https://www.virustotal.com/gui/ip-address/148.113.206.243/relations
 
+browsererror.com
+jolytraff.com
+luckywarp.com
+magaredirect.com
+optimusgangs.com
+repairwrld.com
+safarintrouble.com
+safarisup.com
+warphelsing.com
 yaresources.com
