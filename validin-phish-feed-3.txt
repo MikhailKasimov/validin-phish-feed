@@ -32735,3 +32735,8 @@ libgenesis.net
 exceiientdates.net
 unemaisondansladrome.fr
 llozqb.exceiientdates.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6943
+# Reference: https://urlscan.io/result/019888e5-256d-721f-83f0-2f2ce5c94200/
+
+yaresources.com
