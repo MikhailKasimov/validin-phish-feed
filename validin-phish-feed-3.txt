@@ -32750,3 +32750,7 @@ safarintrouble.com
 safarisup.com
 warphelsing.com
 yaresources.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/694
+
+d-ortelle.eu
