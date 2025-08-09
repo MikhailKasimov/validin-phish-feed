@@ -32754,3 +32754,12 @@ yaresources.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/694
 
 d-ortelle.eu
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6951
+
+6-q-r-s.com
+d-a-i-d.com
+e-2-r-1.com
+f-1-g-h.com
+k-2-j-d.com
+y-7-3-i.com
