@@ -32766,3 +32766,8 @@ i-z-2-c.com
 k-2-j-d.com
 x-y-2-z.com
 y-7-3-i.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6955
+
+textbinvault.com
+xoutput.net
