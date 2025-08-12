@@ -50946,3 +50946,7 @@ web-jupiterswap.com
 web-orbliter.fi
 web3.pancake.run
 zh-trust.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6973
+
+starrysip.com
