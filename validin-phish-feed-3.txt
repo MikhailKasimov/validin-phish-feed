@@ -50961,3 +50961,8 @@ id-verification-12912.us
 umpquabank.id-verification-12912.us
 verification-celsiusclaims.com
 verifications-celsiusclaims.com
+
+# Referecne: https://github.com/hagezi/dns-blocklists/issues/6976
+
+kams-alchouagi.com
+marketbid-os2.com
