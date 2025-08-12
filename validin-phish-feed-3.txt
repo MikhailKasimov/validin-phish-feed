@@ -50950,3 +50950,14 @@ zh-trust.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6973
 
 starrysip.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.112.1/relations
+
+audius-verification.xyz
+booking-guest-verification.info
+chase-verification01.xyz
+hubs-verification.xyz
+id-verification-12912.us
+umpquabank.id-verification-12912.us
+verification-celsiusclaims.com
+verifications-celsiusclaims.com
