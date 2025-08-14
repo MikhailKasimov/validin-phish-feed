@@ -56945,3 +56945,8 @@ zyberthonics.xyz
 # Reference: https://github.com/hagezi/dns-blocklists/issues/6986
 
 electrum.org.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6984
+
+dollar-bank.net
+kjcuu.com
