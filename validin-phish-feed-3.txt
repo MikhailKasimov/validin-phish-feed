@@ -56941,3 +56941,7 @@ zphc.us
 zssbecker.info
 zuprox.com
 zyberthonics.xyz
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/6986
+
+electrum.org.es
