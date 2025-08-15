@@ -58267,3 +58267,7 @@ zebamedi.com
 zestscreentalent.com
 zeuscgroup.com
 ziaanglers.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7000
+
+thebathory.online
