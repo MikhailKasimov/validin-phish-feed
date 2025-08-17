@@ -63458,3 +63458,7 @@ tuzlaaci.com
 vincolabs.com
 zanettiniarquitetura.com
 zoroscript.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7013
+
+piplslovers.ru
