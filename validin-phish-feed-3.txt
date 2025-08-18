@@ -63462,3 +63462,14 @@ zoroscript.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7013
 
 piplslovers.ru
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7026
+
+app.sunwsap.guru
+en-trezor.cc
+io-app.run
+suite-trezorsuite.com
+suite.en-trezor.cc
+sun-sun.cc
+sunwsap.guru
+trezor.io-app.run
