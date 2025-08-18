@@ -63483,3 +63483,7 @@ fmhy.pro
 fmhy-net.s3.amazonaws.com
 fmhy-it-com.s3.amazonaws.com
 fmhy.bitbucket.io
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7020
+
+merova-shop.com
