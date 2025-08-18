@@ -63473,3 +63473,13 @@ suite.en-trezor.cc
 sun-sun.cc
 sunwsap.guru
 trezor.io-app.run
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7024
+
+fmhy.mom
+fmhy.rest
+fmhy.lat
+fmhy.pro
+fmhy-net.s3.amazonaws.com
+fmhy-it-com.s3.amazonaws.com
+fmhy.bitbucket.io
