@@ -67300,3 +67300,9 @@ zsxxhg.com
 zyh1363.icu
 zzjj7.com
 zzmytop.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7041
+
+ideophone.site
+lemondropprintshop.com
+paperhangers.info
