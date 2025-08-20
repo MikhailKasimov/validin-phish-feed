@@ -71188,3 +71188,11 @@ yurticikargoe.top
 zaba.homes
 zabc.homes
 zabf.homes
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7054
+
+bsnltower.org
+bsntoff.co.in
+astertowers.co.in
+towernetworksolutions.com
+towerinstallationcompany.co.in
