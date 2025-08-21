@@ -72185,3 +72185,7 @@ reaktcore.xyz
 saastopankki.online
 unlimproxies.net
 yoptavpn.live
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7069
+
+sterlingedgemarkets.com
