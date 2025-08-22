@@ -72189,3 +72189,7 @@ yoptavpn.live
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7069
 
 sterlingedgemarkets.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7091
+
+mullvadd.com
