@@ -72193,3 +72193,8 @@ sterlingedgemarkets.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7091
 
 mullvadd.com
+
+# Reference: https://www.malwarebytes.com/blog/news/2025/08/netflix-scammers-target-jobseekers-to-trick-them-into-handing-over-their-facebook-logins
+
+growwithusnetflix.com
+hiring.growwithusnetflix.com
