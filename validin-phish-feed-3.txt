@@ -73515,3 +73515,8 @@ pay.qrgene.shop
 # Reference: https://x.com/skocherhan/status/1959364808005878181
 
 barclaystrades.com
+
+# Reference: https://x.com/JAMESWT_WT/status/1959281541097328888
+
+espuma-sdp.com
+regalo-oggi.com
