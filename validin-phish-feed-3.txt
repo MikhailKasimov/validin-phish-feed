@@ -74567,3 +74567,7 @@ pedidosalfandega.servebbs.com
 receita-federal.servebbs.com
 receitafederal-irpf.gotdns.com
 receitafederal-irpf.servebbs.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7107
+
+dronelupa.fi
