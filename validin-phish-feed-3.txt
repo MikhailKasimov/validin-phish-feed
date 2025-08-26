@@ -75029,3 +75029,7 @@ gobs.top
 israelpostn.cyou
 miportal-entel.com
 miportal-entel.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7126
+
+bsnltowerindia.com
