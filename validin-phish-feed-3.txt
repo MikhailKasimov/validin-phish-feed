@@ -75018,3 +75018,14 @@ vip-honey.org
 vip-malaysia.org
 viphoney.my
 vipprimeroots.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.245.254.76/relations
+
+correos3.icu
+egypost.icu
+egyptpostol.icu
+fullcopec3.icu
+gobs.top
+israelpostn.cyou
+miportal-entel.com
+miportal-entel.net
