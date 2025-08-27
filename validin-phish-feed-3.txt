@@ -75033,3 +75033,7 @@ miportal-entel.net
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7126
 
 bsnltowerindia.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/172.210.58.69/relations
+
+arroyocloud.com
