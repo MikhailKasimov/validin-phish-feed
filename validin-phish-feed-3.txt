@@ -75126,3 +75126,7 @@ vorgang-annehmen.de
 paypal.akzept-u12848212.com
 paypal.akzeptieren-jetzt.de
 paypal.vorgang-annehmen.de
+
+# Reference: https://x.com/JAMESWT_WT/status/1961445772676804931
+
+areariservata-ing.info
