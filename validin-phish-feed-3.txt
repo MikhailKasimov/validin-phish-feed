@@ -75130,3 +75130,8 @@ paypal.vorgang-annehmen.de
 # Reference: https://x.com/JAMESWT_WT/status/1961445772676804931
 
 areariservata-ing.info
+
+# Reference: https://x.com/JAMESWT_WT/status/1961448088410693857
+
+bedramatreez.store
+superduperince.ru
