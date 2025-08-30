@@ -75117,3 +75117,12 @@ voxmirt.com
 woocomproduct.com
 zeltrixser.com
 ziblora.com
+
+# Reference: https://app.validin.com/detail?find=b5903cdd0f6c15ebaa7891d70f1145b1&type=hash&ref_id=783b2eca622#tab=host_pairs (# 2025-08-30)
+
+akzept-u12848212.com
+akzeptieren-jetzt.de
+vorgang-annehmen.de
+paypal.akzept-u12848212.com
+paypal.akzeptieren-jetzt.de
+paypal.vorgang-annehmen.de
