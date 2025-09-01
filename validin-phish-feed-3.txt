@@ -76113,3 +76113,7 @@ postquik.com
 tradlockup.site
 ns1.bt-etrade.com
 ns2.bt-etrade.com
+
+# Reference: https://x.com/TeamDreier/status/1962245165382345168
+
+mitid-sikkerhed.com
