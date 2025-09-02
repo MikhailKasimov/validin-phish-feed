@@ -85089,3 +85089,8 @@ cdn3.thunderpeakq.cfd
 cdn3.twilightcrestq.cfd
 cdn3.twilightridgeq.cfd
 cdn3.wildgaleq.cfd
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7197
+
+dogehype.com
+nezhna.com
