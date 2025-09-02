@@ -85098,3 +85098,6 @@ nezhna.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7204
 
 dpd-de70.icu
+dpd-de99.help
+dpdd-79.help
+dpdd-79.top
