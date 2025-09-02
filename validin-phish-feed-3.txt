@@ -85094,3 +85094,7 @@ cdn3.wildgaleq.cfd
 
 dogehype.com
 nezhna.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7204
+
+dpd-de70.icu
