@@ -85224,3 +85224,7 @@ splendidfinancial.xyz
 
 msp-found.com
 viplaty-gov-ua.com
+
+# Reference: https://www.catonetworks.com/blog/cato-ctrl-threat-actors-abuse-simplified-ai-to-steal-microsoft-365-credentials/
+
+pub-6ea00088375b43ef869e692a8b2770d2.r2.dev
