@@ -85228,3 +85228,22 @@ viplaty-gov-ua.com
 # Reference: https://www.catonetworks.com/blog/cato-ctrl-threat-actors-abuse-simplified-ai-to-steal-microsoft-365-credentials/
 
 pub-6ea00088375b43ef869e692a8b2770d2.r2.dev
+
+# Reference: https://app.validin.com/detail?find=91.202.233.132&type=ip4&ref_id=d88122448c9#tab=resolutions (# 2025-09-05)
+
+account-ch.info
+connexion-securise.com
+cuentadeseguridad.com
+direction-opposition.com
+disneypiusteam.com
+disneyplusteam.info
+nfxcustomer.com
+postfl-fi.com
+postrial.com
+seguridad-asistencia.com
+service-opposition.org
+sledenjepaket.com
+traffyque.dev
+traffyque.io
+traffyque.top
+zed-af.com
