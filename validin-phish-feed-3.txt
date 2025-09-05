@@ -85352,3 +85352,8 @@ conformation65.shop
 conformation66.shop
 conformation67.shop
 olx-dostawa.conformation100.shop
+
+# Reference: https://app.validin.com/detail?find=6f6c17ef8302f90df0ef7156f0a0bea8&type=hash&ref_id=0d8a9efd53c#tab=host_pairs (# 2025-09-05)
+
+autryjones.com
+gabesworld.com
