@@ -85361,3 +85361,8 @@ gabesworld.com
 # Reference: https://x.com/luc4m/status/1963219326355247489
 
 5140390597.cyou
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7257
+
+zupz.store
+zupzstore.com
