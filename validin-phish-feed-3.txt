@@ -85377,3 +85377,17 @@ yakeafoo.ru
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7264
 
 ghrc.io
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7247
+
+astertowercompany.in
+astortower.in
+atcnetworktower.com
+bhartitowerservices.com
+gtlinfraltd.com
+industelecomtowergroup.com
+jiodigitaltower.com
+mobiletowerservices.co.in
+new5gmobiletower.com
+telecompany.in
+universalcommunicationindia.com
