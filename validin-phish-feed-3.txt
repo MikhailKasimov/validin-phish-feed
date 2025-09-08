@@ -85373,3 +85373,7 @@ ecormzpido.es
 ibxqxz.es
 lqqyvoei.es
 yakeafoo.ru
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7264
+
+ghrc.io
