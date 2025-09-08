@@ -85666,3 +85666,16 @@ mobiletowerservices.co.in
 new5gmobiletower.com
 telecompany.in
 universalcommunicationindia.com
+
+# Reference: https://app.validin.com/detail?find=GlobalX%20DeFi%20Liquidity%20Pools%20on%20Ethereum%20Mainnet&type=raw&ref_id=36576061594#tab=host_pairs (# 2025-09-08)
+
+dappforge.cyou
+eigenlayer.store
+g1obalxblockworks.com
+globalweb3navigator.com
+rockatpool.qpon
+stakawise.qpon
+tdgxmarkets.com
+tdgxweb3.com
+web3globalxzone.com
+web3vault.top
