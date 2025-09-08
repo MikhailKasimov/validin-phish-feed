@@ -85679,3 +85679,7 @@ tdgxmarkets.com
 tdgxweb3.com
 web3globalxzone.com
 web3vault.top
+
+# Reference: https://x.com/WhichbufferArda/status/1965130927061008745
+
+npmjs.help
