@@ -85683,3 +85683,9 @@ web3vault.top
 # Reference: https://x.com/WhichbufferArda/status/1965130927061008745
 
 npmjs.help
+
+# Reference: https://www.validin.com/blog/pivots_revisited/#phishing_redirectors
+
+mailrdx.com
+ml-pro-trckr.com
+smsecuring.com
