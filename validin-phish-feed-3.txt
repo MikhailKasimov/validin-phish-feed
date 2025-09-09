@@ -85689,3 +85689,28 @@ npmjs.help
 mailrdx.com
 ml-pro-trckr.com
 smsecuring.com
+
+# Reference: https://www.validin.com/blog/pivots_revisited/#phishing_redirectors
+# Reference: https://app.validin.com/detail?find=rquery.net&type=dom&ref_id=915e7f745d9#tab=reputation (# 2025-09-09)
+
+arelinksrc.com
+coopertimer.com
+cristfind.com
+discofind.net
+easylinkweb.net
+eyeviewsearch.com
+higedown.net
+hightlooklink.com
+loadmatchgo.com
+loadsrctool.com
+lodysource.net
+mainbyload.com
+poloframe.com
+r.ytbypass.com
+sirtonel.com
+sourcefinderpro.com
+srcjourneclick.net
+tripfindsource.com
+urgesrclink.com
+urldata.net
+ytbypass.com
