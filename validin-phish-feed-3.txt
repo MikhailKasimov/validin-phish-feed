@@ -85718,3 +85718,20 @@ ytbypass.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7299
 
 tredix.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7300
+
+9yl.xyz
+amaroteste1.shop
+box-wb.9yl.xyz
+box-wb.m8v.xyz
+box-wb.p3j.xyz
+box-wb.whitelabelforex.pro
+box-wb.y6c.xyz
+bthendi.top
+m8v.xyz
+p3j.xyz
+taro-viktori.store
+whitelabelforex.pro
+winbery.top
+y6c.xyz
