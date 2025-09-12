@@ -85714,3 +85714,10 @@ tripfindsource.com
 urgesrclink.com
 urldata.net
 ytbypass.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7295
+# Reference: https://urlscan.io/result/01993cba-af78-71be-b0aa-dd57f448b6a5/
+
+karmakurama.com
+rack17.karmakurama.com
+rack19.karmakurama.com
