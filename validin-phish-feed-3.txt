@@ -85714,3 +85714,7 @@ tripfindsource.com
 urgesrclink.com
 urldata.net
 ytbypass.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7299
+
+tredix.cc
