@@ -85718,6 +85718,40 @@ ytbypass.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7295
 # Reference: https://urlscan.io/result/01993cba-af78-71be-b0aa-dd57f448b6a5/
 
+appledent.3cx.hu
+bubarindpr.com
+cors-rack17.karmakurama.com
+cors-rack17.lolfile.xyz
+cors-rack19.karmakurama.com
+cors-rack19.lolfile.xyz
+cors-rack19.sankskritidur.com
+cors17-idx1.lolfile.xyz
+faradika.store
+filemoon.xyz
+gdplayer.to
+gdplayer.top
+godliskfsz.shop
 karmakurama.com
+kodomo55.eu.com
+lolfile.xyz
+loveintheholyquran.de.com
+max2013schweiz.club
+r17-idx1.lolfile.xyz
+rack17.bubarindpr.com
+rack17.filemoon.xyz
+rack17.gdplayer.to
 rack17.karmakurama.com
+rack17.lolfile.xyz
+rack17.sankskritidur.com
+rack17v2.filemoon.xyz
+rack19.bubarindpr.com
+rack19.filemoon.xyz
+rack19.gdplayer.to
 rack19.karmakurama.com
+rack19.sankskritidur.com
+rack19v2.filemoon.xyz
+sankskritidur.com
+shkyh.run
+turiyabrucesta.eu.com
+wrom.me
+zinatin.club
