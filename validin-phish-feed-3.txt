@@ -85782,3 +85782,18 @@ trezor-login-us.square.site
 trezor-suite-learn.square.site
 trezor-suite-manage.square.site
 welcome-trzor.typedream.app
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7314
+
+460bet.click
+bkkgaming88.com
+clairefontaine-de.com
+hotgraph88.click
+joker123slot.to
+lucabet888.click
+mgm99win.casino
+pgdragon.org
+pggame365.agency
+pgslot99.app
+tgcsthai.com
+xoslotz.agency
