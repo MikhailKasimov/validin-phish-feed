@@ -85769,3 +85769,16 @@ noxiumcasino.com
 play-garant.com
 ronaldojackpot.com
 vavada7.us
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7313
+
+auth-suite-io.square.site
+en-trezoer.typedream.app
+home-trezr-io.square.site
+suite.trez-app.org
+support-suite.square.site
+tbiodpt0-spsksjd33.s3.eu-north-1.amazonaws.com
+trezor-login-us.square.site
+trezor-suite-learn.square.site
+trezor-suite-manage.square.site
+welcome-trzor.typedream.app
