@@ -85755,3 +85755,7 @@ digitalchango.com
 fromurai.ru
 maarzwxn.es
 uqkijtngimst.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7312
+
+lumwax.com
