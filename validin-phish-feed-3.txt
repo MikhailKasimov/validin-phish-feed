@@ -85797,3 +85797,8 @@ pggame365.agency
 pgslot99.app
 tgcsthai.com
 xoslotz.agency
+
+# Reference: https://blog.rust-lang.org/2025/09/12/crates-io-phishing-campaign/
+
+rustfoundation.dev
+github.rustfoundation.dev
