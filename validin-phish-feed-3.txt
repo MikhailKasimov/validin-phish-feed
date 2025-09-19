@@ -85847,3 +85847,8 @@ techtoolslab.net
 
 incognitobikes.sbs
 sli-webmail.github.io
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7360
+
+sports-333.cn
+uqwtkxob.sports-333.cn
