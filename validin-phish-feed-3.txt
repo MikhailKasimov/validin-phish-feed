@@ -105740,3 +105740,7 @@ wtat.news
 wval.news
 xn--actu-auvergne-rhne-alpes-lnc.fr
 Xn--actu-auvergne-rhne-alpes-lnc.fr.normandie-actusinfos.fr
+
+# Reference: https://x.com/banthisguy9349/status/1969401001435140575
+
+citigroup.cyou
