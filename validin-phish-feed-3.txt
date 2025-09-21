@@ -105744,3 +105744,8 @@ Xn--actu-auvergne-rhne-alpes-lnc.fr.normandie-actusinfos.fr
 # Reference: https://x.com/banthisguy9349/status/1969401001435140575
 
 citigroup.cyou
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7376
+
+soyml.top
+tsssm.com
