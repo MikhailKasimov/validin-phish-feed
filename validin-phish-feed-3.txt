@@ -105746,6 +105746,18 @@ Xn--actu-auvergne-rhne-alpes-lnc.fr.normandie-actusinfos.fr
 citigroup.cyou
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7376
+# Reference: https://app.validin.com/detail?find=lrstore&type=raw&ref_id=df2c45a9d54#tab=host_pairs (# 2025-09-21)
 
+bombo.top
+c1899.top
+cbccc.top
+cbnnn.top
+kssyee.top
 soyml.top
+toooym.top
 tsssm.com
+tun-yy.com
+whol.top
+whol1.top
+wiyaton.com
+yooofa.com
