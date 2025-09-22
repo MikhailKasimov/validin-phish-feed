@@ -105783,3 +105783,15 @@ theailab.art
 thefortlauderdaleplumber.com
 vbi-cantonalbank.ch
 ziggia.info
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7394
+# Reference: https://app.validin.com/detail?find=shoply&type=raw&ref_id=e601b3260de#tab=host_pairs (# 2025-09-22)
+
+books88.top
+comcomgo.top
+ezoom.top
+shoply.africa
+shoplystore.net
+shoplytienda.store
+solala.top
+taobaogo.top
