@@ -105768,3 +105768,18 @@ yooofa.com
 bober.uno
 neo.bober.uno
 prestigeloan.bober.uno
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7390
+
+kimi88.com
+n76005v.online
+newaction.n76005v.online
+priz.kimi88.com
+prizeqwdq.n76005v.online
+prizes.n76005v.online
+rf-marketplace.theailab.art
+rf-marketplace.ziggia.info
+theailab.art
+thefortlauderdaleplumber.com
+vbi-cantonalbank.ch
+ziggia.info
