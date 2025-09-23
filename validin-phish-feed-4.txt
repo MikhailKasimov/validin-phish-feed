@@ -23,3 +23,7 @@ vbl2z0mp7atvxhoo23vr8jvoi4hx77hsotj5vppjv90tpxh1dzwywqs7b40xyc2.workers.dev
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7401
 
 l-1password.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7402
+
+servicestelle-bzst.de
