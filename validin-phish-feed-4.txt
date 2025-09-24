@@ -27,3 +27,7 @@ l-1password.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7402
 
 servicestelle-bzst.de
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7407
+
+gitcoin-application.com
