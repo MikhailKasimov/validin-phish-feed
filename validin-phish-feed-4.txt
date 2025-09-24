@@ -31,3 +31,7 @@ servicestelle-bzst.de
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7407
 
 gitcoin-application.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7403
+
+y-comblnator.com
