@@ -766,3 +766,13 @@ novaposhta.ua-a.qpon
 novaposhta.ua-i.qpon
 novaposhta.ujernl.help
 novaposhta.ynaajx.help
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7412
+
+en-ledger-install.com
+en-ledgr.org
+guarda.dev
+guardan.io
+install-ledger.live
+launcher.guarda.ltd
+official-ledger.live
