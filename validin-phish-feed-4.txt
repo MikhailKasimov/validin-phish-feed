@@ -35,3 +35,14 @@ gitcoin-application.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7403
 
 y-comblnator.com
+
+# Reference: https://x.com/KesaGataMe0/status/1970744325970763952
+
+apple-jp1.link
+ku7r37.top
+mzkg2w.top
+sign-jp0.rip
+index-sign12.ku7r37.top
+index-sign12.mzkg2w.top
+japan-aotucheck.index-sign12.ku7r37.top
+japan-aotucheck.index-sign12.mzkg2w.top
