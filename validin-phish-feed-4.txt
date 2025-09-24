@@ -50,3 +50,7 @@ japan-aotucheck.index-sign12.mzkg2w.top
 # Reference: https://x.com/KesaGataMe0/status/1970746387412496503
 
 vpass-ja.com
+
+# Reference: https://x.com/KesaGataMe0/status/1970749421077123498
+
+shigag1n.com
