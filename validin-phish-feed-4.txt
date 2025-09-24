@@ -19262,3 +19262,8 @@ zzwzzw123456.xyz
 zzx-25hkuzp.xyz
 zzy58.com
 zzz554.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7413
+
+melyna92.workers.dev
+trzfstgg67sd45df35443.melyna92.workers.dev
