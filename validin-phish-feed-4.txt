@@ -728,3 +728,23 @@ zxjtsteel.cam
 
 apple-idstor.com
 vbn258.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/194.102.104.79/relations
+
+admin-login.duckdns.org
+cfdocrnom.duckdns.org
+docrnom-login.duckdns.org
+fluviusdienssten.ddns.net
+gmoanoazrn.duckdns.org
+gmoanoazv.duckdns.org
+jabaunrajn.duckdns.org
+jabaunrajna.duckdns.org
+jabaunrajnr.duckdns.org
+jabaunrajnz.duckdns.org
+jabranemusqan.duckdns.org
+jabranemusqanx.duckdns.org
+jafegrhtrmmr.xyz
+javreyurgnr.duckdns.org
+ncbarnknmaer.duckdns.org
+ncbarnknmaera.duckdns.org
+whwende.com
