@@ -31,6 +31,7 @@ v9ek09aqkhqhted3lf450t0mmmazf83h7iyiutpzfx9zj9icbz09ub0lpo.vbl2z0mp7atvxhoo23vr8
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7401
 
 l-1password.com
+www-1password.com
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7402
 
