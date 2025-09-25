@@ -19267,3 +19267,9 @@ zzz554.com
 
 melyna92.workers.dev
 trzfstgg67sd45df35443.melyna92.workers.dev
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7415
+
+trezorsuite-io.com
+trezorwellit.github.io
+trezr-io-support.pages.dev
