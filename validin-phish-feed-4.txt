@@ -19278,3 +19278,15 @@ trezr-io-support.pages.dev
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7414
 
 paradlgm.com
+
+# Reference: https://app.validin.com/detail?find=%D0%94%D1%96%D1%8F&type=raw#tab=host_pairs (# 2025-09-25)
+
+d11.esp.ovh
+d12.esp.ovh
+darkdiya.fun
+diya.noctua.sbs
+msk-ru-1.qsell.cc
+mtasa.online
+noctua.sbs
+pt.qsell.cc
+qsell.cc
