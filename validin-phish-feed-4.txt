@@ -19323,3 +19323,10 @@ security.crowd-job.com
 # Reference: https://www.virustotal.com/gui/ip-address/199.59.243.226/relations
 
 curvefi.cfd
+
+# Reference: https://x.com/BushidoToken/status/1971323328708354219
+# Reference: https://gist.github.com/BushidoUK/daf14c2066cfd530114d9227cf85c328
+
+grecruitingwise.com
+satoshicommands.com
+apply.grecruitingwise.com
