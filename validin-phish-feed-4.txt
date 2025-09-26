@@ -19319,3 +19319,7 @@ sbiinformation.asia
 taotuantuan.com
 tlyiu.bond
 security.crowd-job.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/199.59.243.226/relations
+
+curvefi.cfd
