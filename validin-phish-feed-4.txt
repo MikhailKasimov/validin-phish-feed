@@ -39481,3 +39481,12 @@ soniybank.ux60s3.top
 817342-gemini.com
 817342-ledger.com
 817342-uphold.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7442
+
+1234069.shop
+csenascolipiceno.com
+immersetrading.com
+py8uvsk.online
+7aval.immersetrading.com
+rozetkaua.py8uvsk.online
