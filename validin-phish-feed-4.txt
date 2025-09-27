@@ -39474,3 +39474,10 @@ soniybank.kc5sn9.top
 soniybank.pstnb5.top
 soniybank.trpbg2.top
 soniybank.ux60s3.top
+
+# BODY_SHA1-HOST=0c90ad9910cfb37c9969e14388707ef765ef5e73
+
+817342-binance.com
+817342-gemini.com
+817342-ledger.com
+817342-uphold.com
