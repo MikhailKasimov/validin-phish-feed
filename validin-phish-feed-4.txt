@@ -39528,3 +39528,10 @@ trezor.fun
 trezorsuite.co.com
 tronscan.co.com
 trust-wallet.us.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7459
+
+app-lido-finance-v2.com
+v2lido.bond
+v2-app-lido-finance.cc
+app.v2lido.bond
