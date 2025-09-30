@@ -39535,3 +39535,12 @@ app-lido-finance-v2.com
 v2lido.bond
 v2-app-lido-finance.cc
 app.v2lido.bond
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7464
+# Reference: https://www.virustotal.com/gui/ip-address/43.160.252.215/relations
+
+migrosplus.top
+migrosplus365.top
+migrospraemien24.top
+migrospunkte24.top
+migrosumtausch24.top
