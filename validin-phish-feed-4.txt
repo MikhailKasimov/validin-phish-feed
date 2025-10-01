@@ -40111,3 +40111,7 @@ office.mlcr0soft.com
 sso.mlcr0soft.com
 ssoo.mlcr0soft.com
 ui.ads.mlcr0soft.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7481
+
+ilona-putiikki.com
