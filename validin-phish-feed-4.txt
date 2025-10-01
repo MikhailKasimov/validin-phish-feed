@@ -40115,3 +40115,9 @@ ui.ads.mlcr0soft.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7481
 
 ilona-putiikki.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7482
+
+achievingoeradi.shop
+arnetlo.shop
+taxinexvo.shop
