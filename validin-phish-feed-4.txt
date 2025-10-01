@@ -40095,3 +40095,19 @@ zebra.votou.sa.com
 zenroot-zwk9pnavy.zyplyxio.sa.com
 zkcrq.xflqfkgappq.ru
 zoocreatre.ru
+
+# Reference: https://www.virustotal.com/gui/ip-address/23.227.203.148/relations
+
+mlcr0soft.com
+account.mlcr0soft.com
+ads.mlcr0soft.com
+csp.mlcr0soft.com
+gui.mlcr0soft.com
+log.mlcr0soft.com
+login.mlcr0soft.com
+ns1.mlcr0soft.com
+ns2.mlcr0soft.com
+office.mlcr0soft.com
+sso.mlcr0soft.com
+ssoo.mlcr0soft.com
+ui.ads.mlcr0soft.com
