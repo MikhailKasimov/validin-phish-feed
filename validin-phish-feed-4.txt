@@ -40150,3 +40150,21 @@ paypal-communication.com
 supremepanel64.com
 altar64.supremepanel64.com
 epl.paypal-communication.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7524
+
+ai-atomic.org
+exoduswallet.at
+htex-panel.at
+io-nft.guru
+nft-markets.org
+official-ledger-app.live
+pddeploy.com
+rarible.io-nft.guru
+rarible.nft-markets.org
+setup-ledger.live
+simpleswap.ac
+simpleswap.at
+simpleswap.ltd
+simpleswap.online
+simpleswap.to
