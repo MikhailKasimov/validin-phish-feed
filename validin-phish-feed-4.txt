@@ -40142,3 +40142,11 @@ backoffice-acesso-vr.dev-uex.uex.io
 portal-estabelecimento.com
 superportal-vr.site
 vr-superportal.site
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7509
+
+enamelguildnortheast.org
+paypal-communication.com
+supremepanel64.com
+altar64.supremepanel64.com
+epl.paypal-communication.com
