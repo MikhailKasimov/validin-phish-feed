@@ -40176,3 +40176,8 @@ legder.com.es
 pnc-secureauth-com.at
 us-ledgerlive.us
 v1-ledger.co.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7533
+
+aktivitatsverlauf-uberprufung.de
+cdahdd.cc
