@@ -40168,3 +40168,11 @@ simpleswap.at
 simpleswap.ltd
 simpleswap.online
 simpleswap.to
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7525
+
+download-ledgerlive.us
+legder.com.es
+pnc-secureauth-com.at
+us-ledgerlive.us
+v1-ledger.co.com
