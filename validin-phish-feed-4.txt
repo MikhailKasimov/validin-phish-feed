@@ -40181,3 +40181,9 @@ v1-ledger.co.com
 
 aktivitatsverlauf-uberprufung.de
 cdahdd.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7540
+
+familie-kothe.de
+email.familie-kothe.de
+finanzemai.temp.swtest.ru
