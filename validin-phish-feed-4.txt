@@ -40202,3 +40202,10 @@ u.zgg666.top
 # Reference: https://x.com/banthisguy9349/status/1974790120680333640
 
 usmilitarywefare.digital
+
+# Reference: https://www.virustotal.com/gui/ip-address/185.22.155.62/relations
+
+2025zaim.online
+ftp.2025zaim.online
+pop.2025zaim.online
+smtp.2025zaim.online
