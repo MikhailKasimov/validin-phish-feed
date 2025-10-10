@@ -40582,6 +40582,7 @@ comdi.int-2x.info
 # Reference: https://www.validin.com/blog/consulting_invoice_scam/
 
 11vationconsult.com
+accounting-cintas.com
 anthonyweathersconsult.com
 betaric.com
 brownepowerconsulting.com
@@ -40602,8 +40603,11 @@ rblangconsult.com
 sassysipsconsult.com
 shamrockconsults.com
 sparksflyconsult.com
+sslappsworkmail-outboundprotection-onmsn.com
+ssl-secureappsworkmail-onmsn.com
 teamjandm.com
 teamsparksfly.com
+users-linkedin.com
 
 # Reference: https://zimperium.com/blog/clayrat-a-new-android-spyware-targeting-russia
 # Reference: https://github.com/Zimperium/IOC/blob/master/2025-10-ClayRat/domains.csv
