@@ -40755,3 +40755,8 @@ standwukrain.org
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7612
 
 dkcemeineb.com
+
+# Reference: https://x.com/malwrhunterteam/status/1976939248826958159
+
+northdakotahomebuyer.com
+westvirginiahomebuyer.com
