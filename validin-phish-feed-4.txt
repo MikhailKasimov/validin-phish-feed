@@ -40751,3 +40751,7 @@ toptreehr.com
 
 euromaidanwarszawa.org
 standwukrain.org
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7612
+
+dkcemeineb.com
