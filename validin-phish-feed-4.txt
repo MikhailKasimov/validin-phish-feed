@@ -40866,3 +40866,7 @@ yoozufa.ru.com
 zeapule.ru.com
 ziocriocro.sa.com
 zoumukoo.info
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7615
+
+dachdeko.com
