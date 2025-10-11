@@ -40870,3 +40870,4 @@ zoumukoo.info
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7615
 
 dachdeko.com
+haus-dach-metall-shop.com
