@@ -41069,3 +41069,12 @@ hindustantowers.in
 networkserviceind.in
 towerinstallationservice.com
 towerinstallationservices.com
+
+# Reference: https://www.linkedin.com/posts/activity-7383409691118440448-CYRm
+
+antiriciclaggio-mediobanca.com
+ing-antiriciclaggio-completa.com
+ing-certifica-app.com
+normativa-antiriciclaggio-ing.com
+normativa-questionario-ing.com
+questionario-antiriciclaggio-ing.com
