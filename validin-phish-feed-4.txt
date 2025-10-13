@@ -41059,3 +41059,13 @@ yearendsincomtx-551.top
 yiewie.top
 yorktondealers.com
 zipxpdoc.info
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7635
+
+astertowers.in
+hindustantower.in
+hindustantowerinstallation.com
+hindustantowers.in
+networkserviceind.in
+towerinstallationservice.com
+towerinstallationservices.com
