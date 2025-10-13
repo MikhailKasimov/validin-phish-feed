@@ -41120,3 +41120,7 @@ ytjobssquad.com
 ytjobsteam.com
 ytjobsunit.com
 ytjobsworks.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7639
+
+virewin.com
