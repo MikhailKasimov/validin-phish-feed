@@ -41130,6 +41130,7 @@ virewin.com
 centroanagarcia.com
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7661
+# BANNER_0_HASH-HOST=79ecd77b19c6b751fc24b8b611a4bca6
 # CLASS_0_HASH-HOST=9ea2b7d0105c7fed68f0782e59ece68e
 
 50h-35bf-rbevfd-fbcv-vbd.bridgerealtysc.com
@@ -41141,10 +41142,40 @@ chainlink.icu
 d4a-kfo-deck-wo3.luttes-hybrids.com
 doc1.tic-seminars.com
 enjin-drop.com
+fqbooks.top
+gamehavens.tech
+gamepulseapp.site
+gamerxc.site
+hisaxppsy.info
+hushpxslspamxs.info
+invest-solar.com
+jiuyinguqin.com
+kino4dpola.site
+kino4dpola.space
+kosmikrtp.com
+ksioalxspaspx.info
+kurawamenang.site
+kurawamenang.website
 luttes-hybrids.com
+mailffrodxspotety.info
 mx.bridgerealtysc.com
+naislzoxsppa.info
+norelspamxsp.info
+norelspamxspdps.info
+norelspamxspist.info
+norelspamxspp.info
+norelspamxsppsdf.info
+phimtv.live
+playsrealm.com
+playssphere.space
 proposal.tic-seminars.com
+qiangsheng.info
+rtpkosmik4d.site
+rtpkosmik4d.xyz
 sdf-f0redact-430-ref.luttes.luttes-hybrids.com
+sudp.uno
+thongkegiaidacbiet.vip
 tic-seminars.com
 wallet-secured.cc
+xgsuixksapsssy.info
 xza-3e-aformate-defunct-1224.luttes-hybrids.com
