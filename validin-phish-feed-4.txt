@@ -41130,5 +41130,21 @@ virewin.com
 centroanagarcia.com
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7661
+# CLASS_0_HASH-HOST=9ea2b7d0105c7fed68f0782e59ece68e
 
+50h-35bf-rbevfd-fbcv-vbd.bridgerealtysc.com
+57r035-trth-dfgh-v45435-g.luttes-hybrids.com
 7dizabchichuia.icu
+asteredex.icu
+bridgerealtysc.com
+chainlink.icu
+d4a-kfo-deck-wo3.luttes-hybrids.com
+doc1.tic-seminars.com
+enjin-drop.com
+luttes-hybrids.com
+mx.bridgerealtysc.com
+proposal.tic-seminars.com
+sdf-f0redact-430-ref.luttes.luttes-hybrids.com
+tic-seminars.com
+wallet-secured.cc
+xza-3e-aformate-defunct-1224.luttes-hybrids.com
