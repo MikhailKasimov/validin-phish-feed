@@ -41124,3 +41124,7 @@ ytjobsworks.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7639
 
 virewin.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7657
+
+centroanagarcia.com
