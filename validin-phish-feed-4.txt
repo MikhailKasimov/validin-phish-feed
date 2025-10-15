@@ -41179,3 +41179,7 @@ tic-seminars.com
 wallet-secured.cc
 xgsuixksapsssy.info
 xza-3e-aformate-defunct-1224.luttes-hybrids.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7674
+
+bitwardendesktop.com
