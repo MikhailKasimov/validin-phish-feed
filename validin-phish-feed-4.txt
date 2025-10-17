@@ -62626,3 +62626,14 @@ zalandoworld.pics
 zalandoworld.top
 zalandoworld.xyz
 zalandozet.nl
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7700
+
+web-whatsapps.my.id
+amy-286697.web-whatsapps.my.id
+carmen-479781.web-whatsapps.my.id
+ellie-37005.web-whatsapps.my.id
+layla-71699.web-whatsapps.my.id
+lola-261178.web-whatsapps.my.id
+phoebe-404313.web-whatsapps.my.id
+rowena-565504.web-whatsapps.my.id
