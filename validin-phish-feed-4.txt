@@ -62523,3 +62523,8 @@ zzuoo.space
 zzxdcvb.com
 zzxic.com
 zzxun.space
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7697
+
+recover-verify.com
+supportrecover.s3.eu-north-1.amazonaws.com
