@@ -62637,3 +62637,8 @@ layla-71699.web-whatsapps.my.id
 lola-261178.web-whatsapps.my.id
 phoebe-404313.web-whatsapps.my.id
 rowena-565504.web-whatsapps.my.id
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7703
+
+online-now.biz.id
+eden-241304.online-now.biz.id
