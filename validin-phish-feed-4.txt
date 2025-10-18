@@ -62842,3 +62842,15 @@ uk-dwpzh.icu
 winasdhbasnklsan.cfd
 winsalkdaslkdlasdsa.cfd
 wsamdjasfdjs.cfd
+
+# Reference: https://x.com/volrant136/status/1979599982467613046
+
+qyicp.com
+2abe2ec7.webmail-linux-hrz-tu-darmstadtde.pages.dev
+athens-7lb.pages.dev
+audrey-herve.workers.dev
+files-sogo-uni-konstanz-de.pages.dev 
+sogo-uni-konstanz-mail.pages.dev 
+th-brandenburg.audrey-herve.workers.dev
+univ-nantes-fr.pages.dev
+webmail-linux-hrz-tu-darmstadtde.pages.dev
