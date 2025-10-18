@@ -62642,3 +62642,8 @@ rowena-565504.web-whatsapps.my.id
 
 online-now.biz.id
 eden-241304.online-now.biz.id
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7704
+
+webcamlive808.icu
+caroline-832813.webcamlive808.icu
