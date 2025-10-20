@@ -63225,3 +63225,7 @@ smbc-log.com
 smbcme.com
 smbclubs.com
 smbchelp.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7735
+
+nancie74890.verstehen.one
