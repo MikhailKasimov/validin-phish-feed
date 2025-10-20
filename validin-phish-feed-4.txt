@@ -63124,3 +63124,9 @@ zucrootrea.ru.com
 # Reference: https://app.any.run/tasks/aad25678-8fba-4f6e-a19d-4911899f6a2c
 
 myfilessa.help
+
+# Reference: https://www.virustotal.com/gui/domain/callanfo.site/relations
+
+callanfo.site
+audience.callanfo.site
+recognize.callanfo.site
