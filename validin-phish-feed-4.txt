@@ -63126,7 +63126,11 @@ zucrootrea.ru.com
 myfilessa.help
 
 # Reference: https://www.virustotal.com/gui/domain/callanfo.site/relations
+# BANNER_0_HASH-HOST=0b3b2ad3a0bf736f4d9c4acd3a9d718f
 
+callanfo.com
+callanfo.org
 callanfo.site
+clnfo.com
 audience.callanfo.site
 recognize.callanfo.site
