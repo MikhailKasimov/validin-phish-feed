@@ -63214,3 +63214,14 @@ callanfo.site
 clnfo.com
 audience.callanfo.site
 recognize.callanfo.site
+
+# Reference: https://x.com/KesaGataMe0/status/1980095392378437778
+
+smbcregister.com
+smbcbulk.com
+smbcapps.com
+smbcelife.com
+smbc-log.com
+smbcme.com
+smbclubs.com
+smbchelp.com
