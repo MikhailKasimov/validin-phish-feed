@@ -63229,3 +63229,7 @@ smbchelp.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7735
 
 nancie74890.verstehen.one
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7736
+
+pamelina46801.satisfecho.me
