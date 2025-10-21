@@ -64231,3 +64231,7 @@ zqrdia385.hchbx.cn
 zrnlz.cn
 zshtxfx.cn
 zvwhga881.hchbx.cn
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7755
+
+gekowex.com
