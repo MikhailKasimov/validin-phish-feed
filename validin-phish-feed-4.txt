@@ -64240,6 +64240,10 @@ gekowex.com
 
 spicy-thehotsconnect.com
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7762
+
+fckznx.com
+
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7763
 
 Fake porn site redirect
