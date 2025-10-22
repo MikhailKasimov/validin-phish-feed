@@ -64235,3 +64235,7 @@ zvwhga881.hchbx.cn
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7755
 
 gekowex.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7761
+
+spicy-thehotsconnect.com
