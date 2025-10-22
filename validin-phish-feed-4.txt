@@ -64367,3 +64367,7 @@ smbc-cardjb9.club
 smbc-cardlzn.club
 smbc-cards94.club
 smbc-cardwn2.club
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7769
+
+zonnishop.com
