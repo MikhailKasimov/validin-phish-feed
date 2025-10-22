@@ -64239,3 +64239,7 @@ gekowex.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7761
 
 spicy-thehotsconnect.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7763
+
+Fake porn site redirect
