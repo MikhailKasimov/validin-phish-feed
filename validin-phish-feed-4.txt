@@ -64429,3 +64429,8 @@ trenchantcapital.arbutuscapital.cyou
 web-iq.cyou
 workers-income25-encrypserver38782821-agreement.scanlonchiro.com
 worldwideresourcesinc.rf-controls.cyou
+
+# Reference: https://blog.sekoia.io/sneaky-2fa-exposing-a-new-aitm-phishing-as-a-service/
+
+sneakylog.store
+tesla-apply-job.com
