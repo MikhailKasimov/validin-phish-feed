@@ -64434,3 +64434,9 @@ worldwideresourcesinc.rf-controls.cyou
 
 sneakylog.store
 tesla-apply-job.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/170.130.165.201/relations
+
+netflix-update-profil.top
+voteattack.cyou
+wells-fargo-verification.info
