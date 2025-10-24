@@ -64465,3 +64465,7 @@ sundhedinfos.com
 
 portal-ledger.support
 support-ledger-verify.com
+
+# Reference: https://x.com/TeamDreier/status/1981745063420920046
+
+nykreditbanken.com
