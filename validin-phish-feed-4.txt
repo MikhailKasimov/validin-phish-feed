@@ -64460,3 +64460,8 @@ sundhed-skort.com
 sundhed-web.com
 sundhedinformation-dk.com
 sundhedinfos.com
+
+# Reference: http://github.com/hagezi/dns-blocklists/issues/7799
+
+portal-ledger.support
+support-ledger-verify.com
