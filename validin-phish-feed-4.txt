@@ -79042,3 +79042,14 @@ routertest.life
 service-worker.club
 service-worker.space
 usag1.online
+
+# Reference: https://x.com/AUZombie/status/1983485865595998226
+# Reference: https://cert-agid.gov.it/news/in-corso-uno-smishing-ai-danni-di-autostrade-per-litalia/
+
+170.39.225.141:443
+170-39-225-141.nip.io
+autostiade.com
+money-kart.shop
+pingchang.store
+reedm-booking.com
+admin.money-kart.shop
