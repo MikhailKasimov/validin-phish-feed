@@ -79053,3 +79053,21 @@ money-kart.shop
 pingchang.store
 reedm-booking.com
 admin.money-kart.shop
+
+# Reference: https://www.virustotal.com/gui/ip-address/141.98.82.232/relations
+
+beginmoney-flow.life
+bestpoint-crypto.life
+desiregalactic.com
+desiregalacticnew.com
+flirtywife-finder.com
+heartstry-out.com
+highprofit-spot.life
+loved-girls.life
+naughty-pool.com
+prime-dealplace.life
+rouge-romance.com
+sensesgathering.life
+tryflirter.com
+winner-is-here.life
+your-bestman-here.life
