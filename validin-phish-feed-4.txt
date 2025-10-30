@@ -79071,3 +79071,8 @@ sensesgathering.life
 tryflirter.com
 winner-is-here.life
 your-bestman-here.life
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7860
+
+uberarbeitetesprofil.ha003.t.mydomain.zone
+wes-skipperpaule.helpjuice.com
