@@ -79087,8 +79087,10 @@ sso-forbes.com
 
 # Reference: https://x.com/anyrun_app/status/1984155538951676139
 # Reference: https://any.run/cybersecurity-blog/tykit-technical-analysis/
+# BANNER_0_HASH-HOST=1eb9576f8e9604dfef0b754d0cbfd214
 # CLASS_0_HASH-HOST=4330f46c57c78feeb6c66a292b322515
 
+pnp-api.com
 segy.cc
 segy.shop
 segy.xyz
@@ -79107,6 +79109,9 @@ q1docsefrerfervferregergert.cc
 vi552652561255221445.cc
 w11554844154415848541514.cc
 w22554844132065184848541514.cc
+cloud610409.fastpipe.io
+cloud611056.fastpipe.io
+cloud612464.fastpipe.io
 loginmicr0sft0nlineckl.52632651246148569845521065.cc
 loginmicr0sft0nlinedwiu.52632651246148569845521065.cc
 loginmicr0sft0nlineeckaf.52632651246148569845521065.cc
