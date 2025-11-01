@@ -79195,3 +79195,7 @@ fornymitid.com
 # Reference: https://www.virustotal.com/gui/domain/hnproject.xyz/relations
 
 hnproject.xyz
+
+# Reference: https://www.virustotal.com/gui/domain/fairuseonly.xyz/relations
+
+fairuseonly.xyz
