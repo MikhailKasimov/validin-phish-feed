@@ -80526,3 +80526,11 @@ starhomeoficial.vip
 # Reference: https://x.com/TeamDreier/status/1984953846314029252
 
 sundhedsinfo.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7889
+
+descargapdf.site
+mailerplex.com
+scur.cat
+textcr.store
+textcrafter.online
