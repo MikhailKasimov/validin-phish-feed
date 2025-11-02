@@ -80517,3 +80517,8 @@ zioseye.info
 zitrime.ru.com
 zoovizo.co.za
 zoubiva.email
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7885
+
+starhomebrasil.vip
+starhomeoficial.vip
