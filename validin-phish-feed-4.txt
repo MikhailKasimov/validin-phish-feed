@@ -80532,3 +80532,7 @@ sundhedsinfo.com
 descargapdf.site
 textcr.store
 textcrafter.online
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7903
+
+cryptospannet.com
