@@ -80538,6 +80538,7 @@ textcrafter.online
 cryptospannet.com
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7917
+# Reference: https://www.virustotal.com/gui/ip-address/85.120.81.108/relations
 # Reference: https://www.virustotal.com/gui/ip-address/91.212.166.145/relations
 
 4-72-delivery.com
@@ -80554,6 +80555,8 @@ ameli-macarte-vitale.com
 amende-paiement.com
 amendes-reglement.com
 an-post-shipping.com
+asdcping.com
+beyondblueschools.info
 birsag-pay.com
 bundesbahnen-pass.com
 ch-posttrack.com
@@ -80563,18 +80566,22 @@ cuenta-renovar.com
 cyta-renew.com
 cyta-renew.net
 cyta-subscription.com
+dashboard-subsbill.com
 deustchepost-lieferung.net
 deutsche-parcel.com
 deutsche-post-paket.net
 deutschepost-pkt.net
 deutschepost-sendungs.com
+disney.dashboard-subsbill.com
 dpost-versand.com
+elmhurstjaycees.com
 entrega-servicio.com
 erneuern-abo.com
 espace-ma-sante.com
 garda-payment.com
 gesperrt-abo.com
 gesperrt-konto.net
+helmbacher.com
 hermes-deliverytrack.com
 hermes-paketversand.net
 hermes-parcel.net
@@ -80584,6 +80591,7 @@ ihr-netkonto.net
 inspiring-nash.91-212-166-145.plesk.page
 karte-gesperrt.com
 konto-gesperrt.net
+kyouseisika-site.info
 levering-track.com
 levering-tracking.net
 lieferung-pakets.net
@@ -80591,6 +80599,7 @@ lieferung-ups.net
 livraison-suivi.com
 livraison-ups.com
 loving-cori.91-212-166-145.plesk.page
+lsusouthflorida.com
 mediatv-billing.com
 mediatv-billing.net
 mediatv-payment.com
@@ -80606,6 +80615,7 @@ mijn-pakket.nl
 my-konto.net
 my-paket.info
 my-pakket.com
+myhermes.sendungs-paket.com
 mypackage-help.net
 mypaket.net
 mypakket-help.net
@@ -80627,6 +80637,7 @@ netvod-billing.com
 netvod-renew.com
 ntflx-renovar.com
 odido-subscription.net
+optimistic-burnell.85-120-81-108.plesk.page
 otelo-erneuern.com
 otelo-erneuern.net
 otelo-renew.net
@@ -80655,6 +80666,7 @@ sbb-info.com
 schweiz-parcel.com
 schweiz-versand.com
 schweiz-versendung.com
+scouting120.com
 sendungs-paket.com
 sg-parcell.com
 simon-renew.net
@@ -80664,6 +80676,7 @@ suscripcion-suspendida.com
 suspended-netaccount.com
 swiss-bundesbahnen.com
 swiss-versand.com
+toobees-exotics.com
 tracker-dpost.com
 tracking-magyar.com
 trackship-ups.com
