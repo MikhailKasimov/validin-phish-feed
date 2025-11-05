@@ -80536,3 +80536,7 @@ textcrafter.online
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7903
 
 cryptospannet.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7917
+
+sendungs-paket.com
