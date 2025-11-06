@@ -80726,3 +80726,7 @@ securemyrbcdevice.com
 tangerineaccessrestore.com
 tdreset-business.com
 trackingfed-ex.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7930
+
+icloud.com.gr
