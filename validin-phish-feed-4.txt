@@ -81225,3 +81225,4 @@ lsta.dtt4m9vj6edy1.amplifyapp.com
 212investment.com
 trading-212.de
 web-trader.live
+newdesign.web-trader.live
