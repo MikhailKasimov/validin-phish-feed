@@ -81486,3 +81486,7 @@ listspro.help
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7994
 
 essentapp.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7995
+
+app-turvatimi-fi.com
