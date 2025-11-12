@@ -81482,3 +81482,7 @@ vakinhasalveriobonito.shop
 # Reference: https://x.com/illegalFawn/status/1988569742844559571
 
 listspro.help
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7994
+
+essentapp.com
