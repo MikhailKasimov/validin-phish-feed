@@ -81571,3 +81571,11 @@ zohomailapp.com
 # Reference: https://www.virustotal.com/gui/file/0f079f468a243e4f835cf07f2c81e2d451e5ea107af90376447c951b6aed6ca2/detection
 
 tradingviewstore.com
+
+# Reference: https://app.validin.com/detail?find=tradingviewstore.com&type=dom&ref_id=93cedcc2ef0#tab=host_pairs (# 2025-11-13)
+
+arkada-casino-play82.buzz
+arkada-casino-zsplm.buzz
+arkada9090.casino
+arkadacasino-777.buzz
+arkadacasino345.buzz
