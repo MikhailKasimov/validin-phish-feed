@@ -81567,3 +81567,7 @@ yacht-uniforms.top
 youpinhuigou.com
 your-parent-access-url-here.top
 zohomailapp.com
+
+# Reference: https://www.virustotal.com/gui/file/0f079f468a243e4f835cf07f2c81e2d451e5ea107af90376447c951b6aed6ca2/detection
+
+tradingviewstore.com
