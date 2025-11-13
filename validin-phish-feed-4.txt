@@ -81494,3 +81494,7 @@ app-turvatimi-fi.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/7996
 
 lyraserenahaven.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/7998
+
+nordklover.fi
