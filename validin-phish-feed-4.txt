@@ -81579,22 +81579,38 @@ arkadacasino345.buzz
 # Reference: https://www.silentpush.com/blog/threat-hunting-phishing/
 # Reference: https://www.virustotal.com/gui/ip-address/18.170.99.201/relations
 
+ledger-and-ladder.com
+ledger-and-leaf.com
 ledger-backup-portal.com
 ledger-car-rental.com
+ledger-compte-securite.com
+ledger-connect-support.com
 ledger-customer-verify.com
+ledger-device-check.com
+ledger-device-security.com
+ledger-en-assets.com
 ledger-fr-okta.com
 ledger-genuine-check.com
 ledger-incident-update.com
 ledger-italia-support.com
+ledger-live-io.com
+ledger-live-ledgers.com
+ledger-live-secure.com
 ledger-live-security.com
+ledger-live-tools.com
+ledger-livestart-supportcheck.com
+ledger-ly-accounting.com
 ledger-notice-portal.com
 ledger-notice-support.com
+ledger-of-collapse.com
 ledger-portal-official.com
 ledger-portal-secure.com
 ledger-recover-italia.com
 ledger-recover-notice.com
 ledger-recover-portal.com
+ledger-recover-support.com
 ledger-recovery-app.com
+ledger-recovery-key.com
 ledger-restore-app.com
 ledger-restore-support.com
 ledger-revocer-portal.com
@@ -81602,6 +81618,7 @@ ledger-secure-notice.com
 ledger-secure-portal.com
 ledger-secure-verify.com
 ledger-security-center.com
+ledger-security-firmware.com
 ledger-security-help.com
 ledger-security-info.com
 ledger-security-notice.com
@@ -81617,4 +81634,5 @@ ledger-update-nl.com
 ledger-verification-check.com
 ledger-verify-dmac.com
 ledger-verify-dmarc.com
+ledger-wallet-en.com
 ledger-web-connect.com
