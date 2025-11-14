@@ -81576,8 +81576,45 @@ arkada9090.casino
 arkadacasino-777.buzz
 arkadacasino345.buzz
 
+# Reference: https://www.silentpush.com/blog/threat-hunting-phishing/
 # Reference: https://www.virustotal.com/gui/ip-address/18.170.99.201/relations
 
+ledger-backup-portal.com
+ledger-car-rental.com
+ledger-customer-verify.com
+ledger-fr-okta.com
+ledger-genuine-check.com
+ledger-incident-update.com
+ledger-italia-support.com
+ledger-live-security.com
 ledger-notice-portal.com
+ledger-notice-support.com
+ledger-portal-official.com
+ledger-portal-secure.com
+ledger-recover-italia.com
+ledger-recover-notice.com
+ledger-recover-portal.com
 ledger-recovery-app.com
+ledger-restore-app.com
+ledger-restore-support.com
 ledger-revocer-portal.com
+ledger-secure-notice.com
+ledger-secure-portal.com
+ledger-secure-verify.com
+ledger-security-center.com
+ledger-security-help.com
+ledger-security-info.com
+ledger-security-notice.com
+ledger-security-portal.com
+ledger-startlive-manage.com
+ledger-support-app.com
+ledger-support-center.com
+ledger-support-customer.com
+ledger-support-mail.com
+ledger-support-portal.com
+ledger-support-recover.com
+ledger-update-nl.com
+ledger-verification-check.com
+ledger-verify-dmac.com
+ledger-verify-dmarc.com
+ledger-web-connect.com
