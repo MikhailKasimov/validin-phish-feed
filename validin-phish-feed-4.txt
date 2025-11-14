@@ -81575,3 +81575,9 @@ arkada-casino-zsplm.buzz
 arkada9090.casino
 arkadacasino-777.buzz
 arkadacasino345.buzz
+
+# Reference: https://www.virustotal.com/gui/ip-address/18.170.99.201/relations
+
+ledger-notice-portal.com
+ledger-recovery-app.com
+ledger-revocer-portal.com
