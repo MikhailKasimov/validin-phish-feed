@@ -81913,3 +81913,8 @@ xvjaw.com
 ydsdv.com
 zas.vitahealthy.site
 zjdn.shop
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8041
+
+cespedelespartano.com.ar
+grantohlogistics.com
