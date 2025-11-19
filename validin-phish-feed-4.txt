@@ -81918,3 +81918,26 @@ zjdn.shop
 
 cespedelespartano.com.ar
 grantohlogistics.com
+
+# Reference: https://x.com/silentpush/status/1990733875878756794
+# Reference: https://www.virustotal.com/gui/ip-address/193.24.123.84/relations
+
+193-24-123-84.plesk.page
+admiring-germain.193-24-123-84.plesk.page
+apps-megaeth.com
+apps-xter.io
+claim-cmc.org
+claimtechtakesnft-hp.com
+micdrop-market.io
+mint-rewards-yieldguild.app
+mints-mythical-market.com
+offers-artwork-superrare.com
+pepsicollections.com
+pepsicopensea.com
+referral-gradient.network
+rewards-parsec.app
+seapepsi.com
+stoodio-doodles.app
+stoodio-doodnft.com
+stoodios-doodnft.com
+verification-stokr.io
