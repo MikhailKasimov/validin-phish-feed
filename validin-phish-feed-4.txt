@@ -81941,3 +81941,7 @@ stoodio-doodles.app
 stoodio-doodnft.com
 stoodios-doodnft.com
 verification-stokr.io
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8074
+
+qjewo.buzz
