@@ -84755,3 +84755,10 @@ zxfgg.online
 zxrik.xyz
 zxujt.online
 zxwqt.buzz
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8084
+# Reference: https://www.virustotal.com/gui/ip-address/35.92.221.77/relations
+
+portal-app-ledger.com
+portal-info-ledger.com
+portal-signer-ledger.com
