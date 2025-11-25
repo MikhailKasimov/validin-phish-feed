@@ -84762,3 +84762,9 @@ zxwqt.buzz
 portal-app-ledger.com
 portal-info-ledger.com
 portal-signer-ledger.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8100
+
+aidocs.uz
+newblanco.es
+track.pstmrk.it
