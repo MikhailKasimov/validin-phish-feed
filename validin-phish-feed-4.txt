@@ -86251,3 +86251,19 @@ converts-kits.com
 mailerlite-logs.com
 salesforce-logs.com
 serdgrid.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8171
+
+inglogin.com
+woltarskluwer.com
+wolterskiuwer.net
+woltersklewer.com
+wolterskluwer-ai.com
+wolterskluwer-ai.online
+wolterskluwer-ai.store
+wolterskluwer-pzqvrma.rest
+wolterskluwerai.com
+wolterskluwerai.online
+wolterskluwerai.store
+wolterskluwercloud.nl
+wolterskluwr.shop
