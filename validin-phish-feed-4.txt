@@ -86274,3 +86274,14 @@ warm-bavarois-fdfd79.netlify.app
 # Reference: https://x.com/JAMESWT_WT/status/1996472104418684978
 
 authvesrng.im
+
+# Reference: https://www.seqrite.com/blog/9512-2/
+# Reference: https://www.virustotal.com/gui/ip-address/46.149.71.230/relations
+
+cftec.ru
+ipc-lync.lpc-oil.ru
+lpc-oil.ru
+mail.mz.orb-gov.ru
+meet.lpc-oil.ru
+orb-gov.ru
+webapps.lpc-oil.ru
