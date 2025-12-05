@@ -86294,3 +86294,13 @@ innovationcompaniec.com
 # Reference: https://x.com/JAMESWT_WT/status/1996848782152257950
 
 tg-bot-x9st.vercel.app
+
+# Reference: https://www.volexity.com/blog/2025/12/04/dangerous-invitations-russian-threat-actor-spoofs-european-security-events-in-targeted-phishing-attacks/
+# Reference: https://github.com/volexity/threat-intel/blob/main/2025/2025-12-03%20UTA0355/iocs.csv
+
+brussels-indo-pacific-dialogue.ustrs.com
+brussels-indo-pacific-forum.org
+bsc2025.org
+confirmyourflight-parisaeroport.com
+world-nuclear-exhibition-paris.com
+wne-2025.com
