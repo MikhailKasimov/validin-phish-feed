@@ -86308,3 +86308,122 @@ wne-2025.com
 # Reference: https://x.com/JAMESWT_WT/status/1996849562729042032
 
 sicurezza-5w66u.myftp.org
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8172
+
+roblox.al
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8176
+
+robiox.com.py
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8181
+
+logistik-paketzustellung.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8173
+
+roblox.com.ly
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8188
+
+kejaksanc.cc
+kejakswan.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8187
+
+kendeoada.wpdevcloud.com
+lme.yar.mybluehost.me
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8193
+
+postalrastreamento.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8197
+
+robux60ktapmeb.blogspot.com
+robux60ktapmexu.blogspot.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8196
+
+roblox-robux-rbx-get-40k.blogspot.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8195
+
+iniciomovil.com
+bbva.iniciomovil.com
+corteingles.iniciomovil.com
+ingdirect.iniciomovil.com
+mx.iniciomovil.com
+ns1.iniciomovil.com
+ns2.iniciomovil.com
+santander.iniciomovil.com
+unicaja.iniciomovil.com
+wmenpfra.iniciomovil.com
+zonaseguabeta-viabcp.iniciomovil.com
+zonasegurabeta-viabcp.iniciomovil.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8207
+
+famrestaurantservices.com
+thanksnet.jp
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8214
+
+faqtt.d215b7kl5ui49j.amplifyapp.com
+sd09.workers.dev
+trezor-website-aws-rame-pod-paint-sigma-rolee-324324-psi.vercel.app
+trezr-iostrt.created.app
+tzerio-en.framer.ai
+tzror-345-cs64-354.sd09.workers.dev
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8212
+
+amaya.websitedemo.work
+cliff2018teste.cliffsurfcamp.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8219
+
+app.kodiakifnance.run
+app.uniswaq.org
+at0micwallets.com
+camelot.exc-v3.run
+changenow-io.us
+chicavora.com
+cloudns.to
+dashboard.www.legder.at
+electrum-data.cc
+exodus-wallets.io
+ff-app.to
+ff-exchahge.cyou
+ff-info-online.com
+ff-io.to
+fixedfloat.ac
+fixedfloat.ca
+kodiak-finance-kodiakfinance.com
+kodiak-finance.io-t2.digital
+kodiakfinance-kodiak-finance.com
+kodiakfinance-kodiak-finance.net
+kodiakfinance-kodiak-finance.org
+kodiakfinance.net
+kodiakifnance.run
+legder.at
+ns1.cloudns.to
+ns2.cloudns.to
+sushiswap.to
+trezor.la
+v2-camelot-ex.com
+v2-dexcsreener.net
+v2-dexscreener.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8216
+
+coventgarden-jp.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8222
+
+elster-veri.de
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8226
+
+nbg-gov.com
