@@ -88939,3 +88939,7 @@ zonestreamapp.com
 eu6482942.cfd
 offi3-6-5.cfd
 pay.404ba.cfd
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8291
+
+etamuko.com
