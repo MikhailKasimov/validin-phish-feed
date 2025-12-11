@@ -88932,3 +88932,10 @@ xn--tikto-119a.com
 zanzigtw.com
 zazlouz.info
 zonestreamapp.com
+
+# Reference: https://app.validin.com/detail?find=f3847325696773ab9989a0035a5095ce&type=hash&ref_id=ed7a72ab897#tab=host_pairs (# 2025-12-11)
+
+404ba.cfd
+eu6482942.cfd
+offi3-6-5.cfd
+pay.404ba.cfd
