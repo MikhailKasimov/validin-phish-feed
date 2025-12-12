@@ -88943,3 +88943,7 @@ pay.404ba.cfd
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8291
 
 etamuko.com
+
+# Reference: https://x.com/TeamDreier/status/1999390134035419164
+
+dantechnologies.com
