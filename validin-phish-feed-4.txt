@@ -88967,3 +88967,7 @@ soiflare.fi-v2.to
 suitee-trezorrsuite.com
 sunswap.nexus
 trezorsafety.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8304
+
+eternytime.events
