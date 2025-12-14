@@ -88985,3 +88985,11 @@ simlpeswap.easy-exchange.pro
 simple-swap.dev
 trezorwalletsupport.com
 v3simpleswap.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8319
+
+jonasroedbeauty.com
+jonesnroadbeauty.com
+jonesroadbeautd.com
+jonesroadbeauty.us
+jonesroadssale.com
