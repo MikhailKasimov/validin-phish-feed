@@ -89077,3 +89077,11 @@ ingit-aiutoesupporto.online
 areariservata.ingit-aiutoesupporto.online
 /CP8A17igm-hLPZ7WiO7G-Mgbr37m/index.html
 /CP8A17igm-hLPZ7WiO7G-Mgbr37m/
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8340
+
+bklihaatruags.website
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8341
+
+fclynmebozkyh.space
