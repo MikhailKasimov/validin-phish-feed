@@ -89048,3 +89048,11 @@ app-phantom.co.com
 coinomi.co.com
 trust-download.co.com
 trust-wallet-app.to
+
+# Reference: https://www.virustotal.com/gui/ip-address/208.113.129.5/relations
+# Reference: https://www.virustotal.com/gui/ip-address/208.113.128.225/relations
+# Reference: https://www.virustotal.com/gui/ip-address/208.113.132.232/relations
+
+ua-ipay.com
+diia-gov.ua-ipay.com
+etisalat-plans.ua-ipay.com
