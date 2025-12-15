@@ -89051,8 +89051,13 @@ trust-wallet-app.to
 
 # Reference: https://www.virustotal.com/gui/ip-address/208.113.129.5/relations
 # Reference: https://www.virustotal.com/gui/ip-address/208.113.128.225/relations
+# Reference: https://www.virustotal.com/gui/ip-address/208.113.130.83/relations
+# Reference: https://www.virustotal.com/gui/ip-address/208.113.131.178/relations
 # Reference: https://www.virustotal.com/gui/ip-address/208.113.132.232/relations
 
+diia-gov.com
 ua-ipay.com
 diia-gov.ua-ipay.com
 etisalat-plans.ua-ipay.com
+linkt.diia-gov.com
+linkt-transurban.diia-gov.com
