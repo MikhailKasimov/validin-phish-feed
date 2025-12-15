@@ -88993,3 +88993,7 @@ jonesnroadbeauty.com
 jonesroadbeautd.com
 jonesroadbeauty.us
 jonesroadssale.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8324
+
+browserplaying.live
