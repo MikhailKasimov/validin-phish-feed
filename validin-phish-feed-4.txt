@@ -89061,3 +89061,7 @@ diia-gov.ua-ipay.com
 etisalat-plans.ua-ipay.com
 linkt.diia-gov.com
 linkt-transurban.diia-gov.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8330
+
+consultasrastreio.com
