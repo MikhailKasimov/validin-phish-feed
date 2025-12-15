@@ -89065,3 +89065,8 @@ linkt-transurban.diia-gov.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8330
 
 consultasrastreio.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8334
+
+rastrearpacotes.com
+correios.rastrearpacotes.com
