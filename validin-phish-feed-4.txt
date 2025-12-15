@@ -89040,3 +89040,11 @@ www-spendesk.top
 www-tipalti.co.com
 www-tipalti.top
 www-tipolti.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8329
+
+app-atomic.co.com
+app-phantom.co.com
+coinomi.co.com
+trust-download.co.com
+trust-wallet-app.to
