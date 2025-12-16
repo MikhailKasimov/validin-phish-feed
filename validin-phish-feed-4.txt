@@ -89098,3 +89098,7 @@ skrill-app.top
 trezor-app-suite.co.com
 www-firsthorlzen.top
 www-tipelti.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8347
+
+loslassen.salewa.com
