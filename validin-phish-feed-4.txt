@@ -89106,3 +89106,7 @@ loslassen.salewa.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8354
 
 ampelino.at
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8366
+
+coupongogo.top
