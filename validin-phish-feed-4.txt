@@ -91136,3 +91136,8 @@ u-tronscan.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8413
 
 hypecorewear.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8426
+
+spinania.com
+to24r.com
