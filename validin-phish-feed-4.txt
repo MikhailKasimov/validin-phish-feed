@@ -91169,3 +91169,7 @@ gr-gallery-hornyvideos4free-gr.netlify.app
 
 288exhibition.com
 qr.motul.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8469
+
+contemplatepushed.com
