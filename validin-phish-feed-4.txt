@@ -91177,3 +91177,9 @@ contemplatepushed.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8492
 
 account-dash.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8497
+
+metamansk.com
+2fa.metamansk.com
+red454656566564.metamansk.com
