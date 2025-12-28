@@ -91173,3 +91173,7 @@ qr.motul.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8469
 
 contemplatepushed.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8492
+
+account-dash.com
