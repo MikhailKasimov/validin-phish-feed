@@ -91035,3 +91035,7 @@ sun-dhed-dk.com
 
 bzstapp.de
 raquest.tax
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8382
+
+webkkk.net
