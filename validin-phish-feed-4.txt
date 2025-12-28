@@ -91030,3 +91030,8 @@ danskebanksikkerhed.com
 konto-overblik.com
 mitsundhed-danmark.com
 sun-dhed-dk.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8383
+
+bzstapp.de
+raquest.tax
