@@ -91039,3 +91039,39 @@ raquest.tax
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8382
 
 webkkk.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8381
+
+ad.exodus.build
+app-ledger-desktop.wasmer.app
+appsuites.framer.ai
+apptreezorsuite.github.io
+createwebsite.ghost.io
+eng-treezorsute.framer.ai
+engsuites.ghost.io
+exodus.build
+exodusl.com
+get-treezr-suit-en.framer.media
+get-trezzore.framer.ai
+guide-ledegr.framer.media
+home-leger-desktop.framer.ai
+home-tzersuite.framer.ai
+hub-desktop-ladgr.framer.ai
+ldgerlive.us
+ledger-wallet.gitlab.io
+ledgerapp.created.app
+ledgercom.m-teach.com
+ledgersso.created.app
+live-desktop-ledgr.framer.ai
+live-desktop-leidgr.framer.ai
+started-trezo.framer.ai
+suites-en.framer.ai
+sute-trezr.created.app
+tfjg-rjgu-eeti-zjti-ordg-rfgj.netlify.app
+tfjg-rjgu-egji-zjgi-orjg-rngj.netlify.app
+trezorsuite.at
+trezosuiteapp.vercel.app
+tronssan.github.io
+us-ledgredesktop.framer.ai
+webapp.ghost.io
+webassetsapp.ghost.io
