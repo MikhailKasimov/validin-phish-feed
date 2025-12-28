@@ -91164,3 +91164,8 @@ gvumeap.budal01.xyz
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8451
 
 gr-gallery-hornyvideos4free-gr.netlify.app
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8450
+
+288exhibition.com
+qr.motul.com
