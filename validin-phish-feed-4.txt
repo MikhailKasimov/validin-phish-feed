@@ -91141,3 +91141,9 @@ hypecorewear.com
 
 spinania.com
 to24r.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8433
+
+git.hubp.de
+github.quanx.org
+ithub.global.ssl.fastly.net
