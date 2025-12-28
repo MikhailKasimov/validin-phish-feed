@@ -91132,3 +91132,7 @@ sparrowwallef.com
 srvclouds.com
 stinglebom.cc
 u-tronscan.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8413
+
+hypecorewear.com
