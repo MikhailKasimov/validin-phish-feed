@@ -91151,3 +91151,7 @@ ithub.global.ssl.fastly.net
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8431
 
 filmsuitve.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8436
+
+pizdy.site
