@@ -91147,3 +91147,7 @@ to24r.com
 git.hubp.de
 github.quanx.org
 ithub.global.ssl.fastly.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8431
+
+filmsuitve.com
