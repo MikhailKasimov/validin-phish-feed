@@ -91155,3 +91155,8 @@ filmsuitve.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8436
 
 pizdy.site
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8441
+
+budal01.xyz
+gvumeap.budal01.xyz
