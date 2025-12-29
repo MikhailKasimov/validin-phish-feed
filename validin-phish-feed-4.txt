@@ -91183,3 +91183,8 @@ account-dash.com
 metamansk.com
 2fa.metamansk.com
 red454656566564.metamansk.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8529
+
+xwmjnrk.top
+ehallacn.xwmjnrk.top
