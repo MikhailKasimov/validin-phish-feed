@@ -91222,3 +91222,7 @@ linkedverycase151.site
 linkedverycase8196.site
 linkedverycase856.site
 linkedverycase8896.site
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8549
+
+rgov.com
