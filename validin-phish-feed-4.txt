@@ -91226,3 +91226,9 @@ linkedverycase8896.site
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8549
 
 rgov.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8557
+
+careerseducations.net
+handledbywordpress.com
+tgboxes.co.uk
