@@ -95536,3 +95536,7 @@ wtf2.ferasc.top
 yestafetatg.cc
 zadeliverys.icu
 zapostshome.icu
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8561
+
+trodador.app
