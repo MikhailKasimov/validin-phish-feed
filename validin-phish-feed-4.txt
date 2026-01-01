@@ -98545,3 +98545,13 @@ devpayment.bapendamanokwarikab.online
 gis.bapendamanokwarikab.online
 pad.bapendamanokwarikab.online
 tagihan.bapendamanokwarikab.online
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8576
+
+buyoptimumto.com
+coybu.cn
+jorge-ilegal-riqueza-tradewise.blogspot.com
+luauh.cn
+tuipk.buzz
+vicpz.cn
+yejec.cn
