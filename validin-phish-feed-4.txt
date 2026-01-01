@@ -95549,3 +95549,7 @@ rnisrx.info
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8570
 
 zezwex.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8571
+
+taxwex.com
