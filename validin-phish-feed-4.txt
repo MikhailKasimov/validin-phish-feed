@@ -95545,3 +95545,7 @@ trodador.app
 
 bestfastlink.com
 rnisrx.info
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8570
+
+zezwex.com
