@@ -98535,3 +98535,10 @@ amz-recover-sign.s3.eu-west-1.amazonaws.com
 geonedgia-parquet-files.s3.us-west-1.amazonaws.com
 recover-signe.com
 recover-signer.com
+
+# Reference: https://x.com/WhichbufferArda/status/2003499211149705444
+
+103.109.2.123:443
+bapendamanokwarikab.online
+gis.bapendamanokwarikab.online
+tagihan.bapendamanokwarikab.online
