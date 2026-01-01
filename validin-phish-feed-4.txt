@@ -95540,3 +95540,8 @@ zapostshome.icu
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8561
 
 trodador.app
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8569
+
+bestfastlink.com
+rnisrx.info
