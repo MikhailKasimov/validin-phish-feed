@@ -98667,3 +98667,7 @@ zz.yalla1shoot.xyz
 online-sygeforsikringen-danmark.com
 sygeforsikringendanmark.com
 sygeforsikringendanmark.io
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8587
+
+ledger-recoverysupport.com
