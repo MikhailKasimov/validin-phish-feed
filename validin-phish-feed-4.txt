@@ -98685,3 +98685,10 @@ wrydxq.blogspot.com
 
 recovery-ledgersupport.com
 imnotproudof.s3.us-east-1.amazonaws.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8612
+
+hotgirlswish.com
+matchinlovee.com
+randybelle.com
+skyaid.es
