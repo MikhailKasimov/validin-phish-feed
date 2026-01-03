@@ -98671,3 +98671,12 @@ sygeforsikringendanmark.io
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8587
 
 ledger-recoverysupport.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8599
+
+dirtylk.cc
+sharkboss.top
+wetqq.blogspot.com
+wetqq.blogspot.lu
+wrydxq.blogspot.be
+wrydxq.blogspot.com
