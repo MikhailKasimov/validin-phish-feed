@@ -98692,3 +98692,9 @@ hotgirlswish.com
 matchinlovee.com
 randybelle.com
 skyaid.es
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8615
+
+betr-for-tod.com
+music4vets.nl
+reacct.be
