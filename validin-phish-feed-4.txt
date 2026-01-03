@@ -98684,3 +98684,4 @@ wrydxq.blogspot.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8609
 
 recovery-ledgersupport.com
+imnotproudof.s3.us-east-1.amazonaws.com
