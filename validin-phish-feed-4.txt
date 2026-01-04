@@ -98702,3 +98702,10 @@ reacct.be
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8617
 
 stuhlepromos.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8634
+
+ca2pb.com
+clickyfun.net
+tfc0b3te.com
+mko.aurinkomatkat.fi
