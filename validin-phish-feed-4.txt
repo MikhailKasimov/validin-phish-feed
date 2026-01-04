@@ -98698,3 +98698,7 @@ skyaid.es
 betr-for-tod.com
 music4vets.nl
 reacct.be
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8617
+
+stuhlepromos.com
