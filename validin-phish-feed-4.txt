@@ -98709,3 +98709,7 @@ ca2pb.com
 clickyfun.net
 tfc0b3te.com
 mko.aurinkomatkat.fi
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8642
+
+recovery-ledger-seed.com
