@@ -98713,3 +98713,5 @@ mko.aurinkomatkat.fi
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8642
 
 recovery-ledger-seed.com
+bee-apps.s3.us-east-2.amazonaws.com
+ofkzeokbv.s3.eu-west-1.amazonaws.com
