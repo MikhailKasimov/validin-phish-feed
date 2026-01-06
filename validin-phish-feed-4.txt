@@ -98739,3 +98739,12 @@ totaldriveunlimited.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8664
 
 magistiq.com
+
+# Reference: https://x.com/SwitchToThread/status/2008510975759315119
+
+abrir-janeirodigital.online
+abrir-janeirohoje.online
+abrir-janeiroinfo.online
+abrir-janeiroportal.online
+abrir-janeirovirtual.online
+abrir-janeiroweb.online
