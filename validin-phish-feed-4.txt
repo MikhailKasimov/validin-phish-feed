@@ -116563,3 +116563,8 @@ oportunidadesunicapainel.shop
 oportunidadeunicaola.shop
 oportunidadeunicapainel.shop
 oportunidadeunicaportal.shop
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8680
+
+outdoor-venturesllc.com
+outdoorventureson.com
