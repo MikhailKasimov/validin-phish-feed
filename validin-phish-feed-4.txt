@@ -116584,3 +116584,7 @@ enmrgkf41bifd.x.pipedream.net
 webhook.site/3791f8c0-1308-4c5b-9c82-0dc416aeb9c4
 webhook.site/e8ae3bbd-ab02-46b7-b84c-f5f4baa5d7c7
 webhook.site/ff237e88-cbaf-4b0b-b787-6e2f1f2c926f
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8687
+
+dealmoment.de
