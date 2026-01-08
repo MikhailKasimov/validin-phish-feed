@@ -116572,3 +116572,15 @@ outdoorventureson.com
 # Reference: https://x.com/SwitchToThread/status/2008125226098581832
 
 acessogovbr.digital
+
+# Reference: https://www.recordedfuture.com/research/gru-linked-bluedelta-evolves-credential-harvesting
+
+account-security-googie.my-board.org
+account-security-googie.rf.gd
+account-settings-shsvchx.wuaze.com
+config-settings.kesug.com
+d3ef-2804-37f8-400-2cbf-4996-e46a-4802-5c08.ngrok-free.app
+enmrgkf41bifd.x.pipedream.net
+webhook.site/3791f8c0-1308-4c5b-9c82-0dc416aeb9c4
+webhook.site/e8ae3bbd-ab02-46b7-b84c-f5f4baa5d7c7
+webhook.site/ff237e88-cbaf-4b0b-b787-6e2f1f2c926f
