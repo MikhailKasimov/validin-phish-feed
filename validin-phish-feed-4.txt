@@ -116592,3 +116592,7 @@ dealmoment.de
 # Reference: https://x.com/smica83/status/2009571373383852336
 
 maneger-accouintr-solutieonst.site
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8700
+
+houejeam.com
