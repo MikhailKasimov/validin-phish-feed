@@ -116596,3 +116596,7 @@ maneger-accouintr-solutieonst.site
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8700
 
 houejeam.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8699
+
+anifoamsa.com
