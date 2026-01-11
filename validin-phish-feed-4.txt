@@ -116600,3 +116600,9 @@ houejeam.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8699
 
 anifoamsa.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8719
+# Reference: https://www.virustotal.com/gui/file/d80c49b21ce6acfbaf843844aa1c3f910465b7b18587fb18ebb0c7278e09ba3d/detection
+# Reference: https://www.virustotal.com/gui/file/fb46becfe27732eec3e0f6fe0bff688afe6a17d6ded1df88564b3d2e13e1b369/detection
+
+awlavzstygu.com
