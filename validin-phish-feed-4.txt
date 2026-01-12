@@ -116606,3 +116606,8 @@ anifoamsa.com
 # Reference: https://www.virustotal.com/gui/file/fb46becfe27732eec3e0f6fe0bff688afe6a17d6ded1df88564b3d2e13e1b369/detection
 
 awlavzstygu.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8738
+
+vtghye.live
+xrtdw.net
