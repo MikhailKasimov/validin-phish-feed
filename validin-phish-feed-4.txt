@@ -116881,3 +116881,7 @@ wallet-connect.sbs
 webmail.devlupers.com
 wffqs.com
 xn--versanduntersttzung-jbc.de
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8743
+
+ajanhammasvaasa.net
