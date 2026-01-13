@@ -116885,3 +116885,37 @@ xn--versanduntersttzung-jbc.de
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8743
 
 ajanhammasvaasa.net
+
+# Reference: https://app.validin.com/detail?type=raw&find=%D0%94%D1%96%D1%8F+*#tab=host_pairs (# 2026-01-13)
+
+biouanextreuk.pages.dev
+db-consalting-demo.online
+diia-dp-backend.demo.ukrohost.com
+diiagov.family.blog
+dimap.live
+e-dopomoga.space
+factorium1.online
+jukraon-tablportua.pages.dev
+mandarin-media.net
+netioncua-id8287.pages.dev
+newrecuaofukr.pages.dev
+news.mandarin-media.net
+nextuahelpforukra.pages.dev
+onliuahe-ukra.pages.dev
+onlrequa-ukrafi.pages.dev
+opuareq-id4323456.pages.dev
+reuacreq-inukr.pages.dev
+reuafin-serukr.pages.dev
+sawosijshad.pages.dev
+servicediyahelp-ua.com
+ua1idnextfind.pages.dev
+ua2idfin-bankukra.pages.dev
+uadocnext-uabord.pages.dev
+uaid-9872323.pages.dev
+ualogsukra-nat.pages.dev
+uaornewpast.pages.dev
+uarinet-nextporukra.pages.dev
+uaserc-natinonl.pages.dev
+uatrad-sendukra.pages.dev
+uaturnseukra.pages.dev
+uavilopukrainfr.pages.dev
