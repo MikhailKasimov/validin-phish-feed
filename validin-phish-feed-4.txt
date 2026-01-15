@@ -116962,3 +116962,20 @@ supportmeta-horizon.net
 supportmeta-horizonusa.org
 talentbymetaal.vercel.app
 user-support-business.cfd
+
+# Reference: https://app.validin.com/detail?find=07f980e4f20f7c2ad415c7715d7cd2838f3e3ef2&type=hash&ref_id=b247fbcccfd#tab=host_pairs (# 2026-01-15)
+
+beastmodes.org
+cuentaequipodeflix.com
+designerlink.su
+edxm-kr.com
+edxmarkets-kr.com
+marketskor.com
+mi-cuentasuscripcionflix.com
+micuenta-suscripcionflix.com
+nareswara.tartarian.xyz
+payaccountflix.com
+rescheduleparcelpost.com
+tartarian.xyz
+tucuenta-suscripcionflix.com
+tucuentasuscripcionflix.com
