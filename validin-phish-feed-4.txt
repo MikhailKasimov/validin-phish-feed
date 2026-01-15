@@ -117005,3 +117005,8 @@ fitgirl-repack.com.in
 fitgirl-repacks.in
 fitgirlrepacks.it.com
 fitgirlrepacks.org
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8770
+
+362.mytemp.website
+v1x.362.mytemp.website
