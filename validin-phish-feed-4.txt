@@ -116997,3 +116997,11 @@ tucuentasuscripcionflix.com
 vetatontoh.com
 visionxtechai.com
 weekcustomer.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8768
+
+fastdownload.fit
+fitgirl-repack.com.in
+fitgirl-repacks.in
+fitgirlrepacks.it.com
+fitgirlrepacks.org
