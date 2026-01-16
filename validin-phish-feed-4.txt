@@ -117078,3 +117078,9 @@ hoangkhoifurniture.co
 myvzwsupport.site
 sam4msteel.site
 votmarkting.pro
+
+# Reference: https://app.validin.com/detail?find=a7e51c6103e14b42638b9453a55b3eb0&type=hash&ref_id=d7b3f82cc6e#tab=host_pairs (# 2025-01-16)
+
+keranjangmu.site
+menyalaoren.my.id
+hoplee.compathnion.com
