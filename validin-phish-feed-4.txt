@@ -117089,3 +117089,11 @@ hoplee.compathnion.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8787
 
 reddrivingshool.com
+
+# Reference: https://x.com/g0njxa/status/2012249290127683756
+
+ameriagroupinc.com
+attaleapartners.com
+auroai.xyz
+bluekrypto.com
+habconsultants.com
