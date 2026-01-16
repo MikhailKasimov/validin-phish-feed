@@ -117058,3 +117058,7 @@ punkcase.com
 # Reference: https://x.com/TeamDreier/status/2011132149366190586
 
 sundhedkonto.com
+
+# Reference: https://x.com/TeamDreier/status/2011733535015780464
+
+danskekort.com
