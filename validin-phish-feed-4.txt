@@ -117085,3 +117085,7 @@ votmarkting.pro
 keranjangmu.site
 menyalaoren.my.id
 hoplee.compathnion.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8787
+
+reddrivingshool.com
