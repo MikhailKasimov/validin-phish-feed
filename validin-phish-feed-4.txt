@@ -117050,3 +117050,7 @@ aircosspascual.com
 kamitore.com
 lustefea.my.id
 mphdvh.icu
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8774
+
+punkcase.com
