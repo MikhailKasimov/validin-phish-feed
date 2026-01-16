@@ -117054,3 +117054,7 @@ mphdvh.icu
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8774
 
 punkcase.com
+
+# Reference: https://x.com/TeamDreier/status/2011132149366190586
+
+sundhedkonto.com
