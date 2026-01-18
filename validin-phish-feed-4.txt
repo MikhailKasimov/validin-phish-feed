@@ -117097,3 +117097,8 @@ attaleapartners.com
 auroai.xyz
 bluekrypto.com
 habconsultants.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8790
+
+microg.net
+youtubevanced.tools
