@@ -117122,3 +117122,10 @@ rpcs4.com
 rpcs5.com
 softappsbase.top
 toponlinedeals.click
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8804
+
+cnpj-irregular.com
+cnpjpendente.com
+encargofiscal.com
+pgmeipendente.com
