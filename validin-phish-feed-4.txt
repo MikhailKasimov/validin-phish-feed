@@ -117108,3 +117108,17 @@ youtubevanced.tools
 steam-rip.site
 steamrip.us.com
 steamripzone.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8805
+
+appverification.net
+appzdownloadz.top
+bolxemu.net
+dl1filesbase.top
+dl777filesbase.top
+pcsx5.org
+ps5emux.com
+rpcs4.com
+rpcs5.com
+softappsbase.top
+toponlinedeals.click
