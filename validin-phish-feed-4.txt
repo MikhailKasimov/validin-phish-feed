@@ -117142,3 +117142,7 @@ macgyverintl.com
 2931581-coinbase.com
 3295932-ledger.com
 6099428-ledger.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8817
+
+apunkagames.cfd
