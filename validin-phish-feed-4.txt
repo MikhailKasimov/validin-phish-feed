@@ -117146,3 +117146,7 @@ macgyverintl.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8817
 
 apunkagames.cfd
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8816
+
+steamsunlocked.com
