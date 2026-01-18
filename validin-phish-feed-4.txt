@@ -117102,3 +117102,9 @@ habconsultants.com
 
 microg.net
 youtubevanced.tools
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8797
+
+steam-rip.site
+steamrip.us.com
+steamripzone.com
