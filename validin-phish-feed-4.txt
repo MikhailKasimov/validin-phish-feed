@@ -117129,3 +117129,10 @@ cnpj-irregular.com
 cnpjpendente.com
 encargofiscal.com
 pgmeipendente.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8802
+
+ausrs.com
+fortum-tuki.com
+fortum.fi.ausrs.com
+macgyverintl.com
