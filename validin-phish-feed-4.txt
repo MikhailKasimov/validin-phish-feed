@@ -117150,3 +117150,27 @@ apunkagames.cfd
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8816
 
 steamsunlocked.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8815
+
+vapourdifferenceszealot.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8814
+
+apunkagames.click
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8813
+
+fitgirl-repacks.proxyninja.org
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8812
+
+rpcsx.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8811
+
+rpcsx.org
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8810
+
+achel-xof.com
