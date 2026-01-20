@@ -117185,3 +117185,10 @@ achel-xof.com
 
 fitgirl-repacks.org
 fitgirl-repacks.pk
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8843
+
+arenadanceapparel.com
+digitaalinen-uutiskirje.fi
+marslugs.com
+vero-henkiloasiakkaa.fi.marslugs.com
