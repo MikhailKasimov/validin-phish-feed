@@ -117198,3 +117198,8 @@ vero-henkiloasiakkaa.fi.marslugs.com
 bbautoworks.com
 prbs-trajets.com
 online.bbautoworks.com
+
+# Reference: https://x.com/TeamDreier/status/2013588251404021816
+
+fornyelse-konto-service.com
+hjaelp-fornyelse-sundhedskort.com
