@@ -117211,3 +117211,7 @@ sundhed-opdatering.com
 # Reference: https://x.com/TeamDreier/status/2013343412062203926
 
 opdatering-sundhed.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8848
+
+bizgraanvoorvisch.nl
