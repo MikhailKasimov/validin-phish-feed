@@ -117215,3 +117215,8 @@ opdatering-sundhed.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8848
 
 bizgraanvoorvisch.nl
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8868
+
+co-convxbh.xin
+ee.co-convxbh.xin
