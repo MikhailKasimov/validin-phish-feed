@@ -117228,3 +117228,7 @@ sundhed.site
 # Reference: https://x.com/TeamDreier/status/2014034012726055347
 
 minsundhedskonto.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8870
+
+bmf-online.cc
