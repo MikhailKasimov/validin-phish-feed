@@ -117491,6 +117491,7 @@ your-package-delivery.com
 zamoxnever.com
 
 # Reference: https://x.com/1nt3l_hunt/status/2014480962235617380
+# Reference: https://raw.githubusercontent.com/ChainK1ll/Daily_Intel/refs/heads/main/Phishing-Microsoft
 
 access-group.finconecta.sbs
 accesstab.sbs
