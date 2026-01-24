@@ -117893,3 +117893,8 @@ wss.scanlonchiro.com
 www-origin.seraphimglobal.org
 yukazimani.com
 zoneauth.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8903
+
+vssris8yu8f2lyxenfoxeacjm26fun.s3.eu-west-1.amazonaws.com
+ziniaservicelogins.atlanticbeach.cv
