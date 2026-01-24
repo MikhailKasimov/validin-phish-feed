@@ -117898,3 +117898,7 @@ zoneauth.com
 
 vssris8yu8f2lyxenfoxeacjm26fun.s3.eu-west-1.amazonaws.com
 ziniaservicelogins.atlanticbeach.cv
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8902
+
+service-stadtreinigung.vercel.app
