@@ -118029,3 +118029,32 @@ fullcopecqrzz.top
 fullcopecvip.shop
 itau.best
 itau.one
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8919
+
+gadhortly.store
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8918
+
+cumguns.online
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8917
+
+floridistor.icu
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8915
+
+cherriescoil.xyz
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8914
+
+purposeuncle.xyz
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8913
+
+spacefls.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8912
+
+appsontrcks.com
+get.appsontrcks.com
