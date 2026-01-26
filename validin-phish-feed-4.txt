@@ -118066,3 +118066,10 @@ punto-poste.online
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8923
 
 eecowj.cn
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8930
+
+prh-info.fi
+hand-made-home.com
+mattemon.info
+prh-yrityksetjayhteisot.fi.mattemon.info
