@@ -118079,3 +118079,8 @@ prh-yrityksetjayhteisot.fi.mattemon.info
 prh-asiakaspalvelu.fi
 ebnerpresse.info
 prh-fi.ebnerpresse.info
+
+# Reference: https://x.com/tial_cl/status/2015490186772103651
+
+desafiolevantemos-chile.org
+desafiolevantemoschile.org
