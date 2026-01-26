@@ -118103,3 +118103,8 @@ carteirasocial.sbs
 cha-digital.pages.dev
 conf-cha.pages.dev
 download-cha.pages.dev
+
+# Reference: https://x.com/illegalFawn/status/2015731404403843446
+
+farruddyleaf.com
+swiftpigeon.info
