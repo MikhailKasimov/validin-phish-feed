@@ -118084,3 +118084,9 @@ prh-fi.ebnerpresse.info
 
 desafiolevantemos-chile.org
 desafiolevantemoschile.org
+
+# Reference: https://x.com/ShadowOpCode/status/2015717903664865665
+
+chronicle-log.com
+defenpay.click
+proznaj.cc
