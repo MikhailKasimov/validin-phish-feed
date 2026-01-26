@@ -118062,3 +118062,7 @@ get.appsontrcks.com
 # Reference: https://x.com/tobersotski/status/2015231183093715014
 
 punto-poste.online
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8923
+
+eecowj.cn
