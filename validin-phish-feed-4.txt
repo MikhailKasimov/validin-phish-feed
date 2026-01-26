@@ -118138,3 +118138,7 @@ wnmc-snnveeiof.icu
 wsdfdfg-shaodong.top
 wsfm-sanbfeqio.icu
 wugfweiughei-wvkjbiof.com
+
+# Reference: https://www.virustotal.com/gui/file/440c77bb90229c92dea109d3df160b7334cb4a3b741a33a3fb6c1ed66b858b8e/relations
+
+arweave.net
