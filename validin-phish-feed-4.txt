@@ -118073,3 +118073,9 @@ prh-info.fi
 hand-made-home.com
 mattemon.info
 prh-yrityksetjayhteisot.fi.mattemon.info
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8931
+
+prh-asiakaspalvelu.fi
+ebnerpresse.info
+prh-fi.ebnerpresse.info
