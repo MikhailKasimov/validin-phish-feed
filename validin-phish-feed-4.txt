@@ -118146,3 +118146,8 @@ arweave.net
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8941
 
 saastopankki-tuki.fi
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8963
+
+adminjankosoft.us
+ife2701--3e05fc28fb9511f0bc2942dde27851f2.web.val.run
