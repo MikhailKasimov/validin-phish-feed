@@ -118155,3 +118155,19 @@ ife2701--3e05fc28fb9511f0bc2942dde27851f2.web.val.run
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8966
 
 mediussolutions.com
+
+# Reference: https://x.com/tobersotski/status/2016570361769296254
+
+onlinepdfpreviewer.top
+account.onlinepdfpreviewer.top
+csp.onlinepdfpreviewer.top
+live.onlinepdfpreviewer.top
+login.onlinepdfpreviewer.top
+office-microsoft.onlinepdfpreviewer.top
+officeoutlook.onlinepdfpreviewer.top
+ok.onlinepdfpreviewer.top
+onedrive-office.onlinepdfpreviewer.top
+onedrive-secured.onlinepdfpreviewer.top
+previewer.onlinepdfpreviewer.top
+reporting.onlinepdfpreviewer.top
+sso.onlinepdfpreviewer.top
