@@ -118181,3 +118181,7 @@ websiteinf05.com
 # Reference: https://x.com/tobersotski/status/2016841306887139510
 
 telegaiem.fan
+
+# Reference: https://x.com/tobersotski/status/2016880226244886582
+
+teleggram.cc
