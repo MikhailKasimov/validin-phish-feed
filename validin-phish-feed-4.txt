@@ -118171,3 +118171,9 @@ onedrive-secured.onlinepdfpreviewer.top
 previewer.onlinepdfpreviewer.top
 reporting.onlinepdfpreviewer.top
 sso.onlinepdfpreviewer.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8979
+
+mainredirect.top
+superoptz.com
+websiteinf05.com
