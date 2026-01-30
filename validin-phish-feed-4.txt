@@ -118185,3 +118185,7 @@ telegaiem.fan
 # Reference: https://x.com/tobersotski/status/2016880226244886582
 
 teleggram.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8984
+
+regularizar-gov-br.com
