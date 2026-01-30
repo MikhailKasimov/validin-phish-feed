@@ -118189,3 +118189,21 @@ teleggram.cc
 # Reference: https://github.com/hagezi/dns-blocklists/issues/8984
 
 regularizar-gov-br.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/83.217.208.87/relations
+
+brandtservicecenter.ru
+findoaks.com
+flexivle.com
+jibestar.com
+ln-secure.com
+mikegagnon.com
+peitho6.com
+polikate.ru
+promokodybk.ru
+psihologer.ru
+sadykids.ru
+sndkkaindrm.xyz
+trustmyuser.com
+uuav7uuav8.top
+yogmantra.org
