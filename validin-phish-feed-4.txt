@@ -123112,3 +123112,17 @@ zoomiescanada.com
 zoryo.io
 zoryo.net
 zusammengroup.com
+
+# Reference: https://app.validin.com/detail?find=aee852d968c7ddf496dc947b38cf2db7&type=hash&ref_id=ed4aa8f5b85#tab=host_pairs (# 2026-02-01)
+
+lunela.net
+lunela.tech
+nexloop.cc
+nexloop.me
+nexloop.xyz
+nexoracore.org
+nexvoo.it.com
+nexvoo.net
+nexvoo.us
+yonda.tech
+zynce.org
