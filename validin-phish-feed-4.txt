@@ -118213,6 +118213,10 @@ yogmantra.org
 enticing-red-buckwheat.viviotech.us
 vmi679878.contaboserver.net
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8995
+
+hz88c.net
+
 # Reference: https://www.virustotal.com/gui/ip-address/195.133.74.138/relations
 
 fishguard.cfd
