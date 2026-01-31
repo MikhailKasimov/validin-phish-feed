@@ -118207,3 +118207,8 @@ sndkkaindrm.xyz
 trustmyuser.com
 uuav7uuav8.top
 yogmantra.org
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/8993
+
+enticing-red-buckwheat.viviotech.us
+vmi679878.contaboserver.net
