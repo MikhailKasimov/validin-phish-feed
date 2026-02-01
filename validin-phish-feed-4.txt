@@ -123131,3 +123131,7 @@ zynce.org
 
 kaisermodehaus.de
 modehaus-kaiser.de
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9005
+
+elta.564306.com
