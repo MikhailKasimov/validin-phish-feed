@@ -123135,3 +123135,10 @@ modehaus-kaiser.de
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9005
 
 elta.564306.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9008
+
+2famondatory-protection.com
+bizoshopfun.com
+onlinestore.bizoshopfun.com
+portfolio.2famondatory-protection.com
