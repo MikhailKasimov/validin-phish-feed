@@ -123126,3 +123126,8 @@ nexvoo.net
 nexvoo.us
 yonda.tech
 zynce.org
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9004
+
+kaisermodehaus.de
+modehaus-kaiser.de
