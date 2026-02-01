@@ -123150,3 +123150,7 @@ http://178.16.55.210
 infolcs24-7-beheer.info
 infolcs247-beheer.info
 lcsinfobeheer.info
+
+# Reference: https://x.com/tobersotski/status/2017993056859967933
+
+decathlon-eu.top
