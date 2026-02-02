@@ -123143,6 +123143,13 @@ bizoshopfun.com
 onlinestore.bizoshopfun.com
 portfolio.2famondatory-protection.com
 
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9014
+
+2famondatory.com
+bookyourbooknow.com
+truntwallet.2famondatory.com
+red15524.bookyourbooknow.com
+
 # Reference: https://x.com/DonPasci/status/2017988551913156895
 
 http://178.16.55.182
