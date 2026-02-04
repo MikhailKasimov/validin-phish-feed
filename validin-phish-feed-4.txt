@@ -123212,3 +123212,32 @@ pub-3a820d5e7e434f4eb7e63fe0ad6596e1.r2.dev
 netfusiontechservices.com
 richter-uhren.de
 sieundihn.de
+
+# Reference: https://x.com/tobersotski/status/2019064560850780600
+# Reference: https://www.virustotal.com/gui/ip-address/94.198.220.7/relations
+
+ban-mvd.online
+dosygomsk.online
+electiongovkz.fun
+eotinish.pw
+fsb-mid.online
+fsb-mid.ru
+fso-deport.ru
+fso-mid.ru
+mdesk.makeroi.dev
+mid-deport.ru
+mid-fsb.online
+mid-fsb.ru
+mid-mvd.online
+mid-mvd.ru
+mvd-mid.online
+mvd-mid.ru
+mvdsafe.online
+recovery-telegram.org
+rfentry.online
+services-mid.online
+services-mid.ru
+telegrarm.tech
+telegrarn.store
+vavda-astana.online
+vavda-astana.ru
