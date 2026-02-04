@@ -123202,3 +123202,7 @@ thenorthfacessale.shop
 
 gewinnspiel.gratis
 offer.ooguy.com
+
+# Reference: https://x.com/skocherhan/status/2018816758640202237
+
+pub-3a820d5e7e434f4eb7e63fe0ad6596e1.r2.dev
