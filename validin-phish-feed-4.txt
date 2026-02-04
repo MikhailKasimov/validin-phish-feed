@@ -123206,3 +123206,9 @@ offer.ooguy.com
 # Reference: https://x.com/skocherhan/status/2018816758640202237
 
 pub-3a820d5e7e434f4eb7e63fe0ad6596e1.r2.dev
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9029
+
+netfusiontechservices.com
+richter-uhren.de
+sieundihn.de
