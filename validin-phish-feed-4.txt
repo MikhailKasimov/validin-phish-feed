@@ -123359,3 +123359,8 @@ dkk-sundhed.online
 forlaengelse-sundhed.com
 minoversigtsundhed.com
 online-sundhed.com
+
+# Reference: https://x.com/ShadowOpCode/status/2019426509828813132
+
+biocreathou.web.id
+recaptcha.biocreathou.web.id
