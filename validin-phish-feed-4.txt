@@ -123364,3 +123364,7 @@ online-sundhed.com
 
 biocreathou.web.id
 recaptcha.biocreathou.web.id
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9054
+
+d61mf78hubcc739qivmg.texonnero.co.in
