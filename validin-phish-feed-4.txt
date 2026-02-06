@@ -123368,3 +123368,8 @@ recaptcha.biocreathou.web.id
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9054
 
 d61mf78hubcc739qivmg.texonnero.co.in
+
+# Reference: https://x.com/chamindu_x/status/2019782378324197827
+
+dlgltal.icu
+combank.dlgltal.icu
