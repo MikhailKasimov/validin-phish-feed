@@ -123496,3 +123496,15 @@ usor.lat
 vanguardjuridique.sbs
 werkliv.sbs
 zxintong.cfd
+
+# Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-02-06-IOCs-for-Super-Bowl-LX-scams.txt
+
+2026superbowl.com
+2026superbowltickets.com
+nfcchampionship2026.com
+superbowl-2026.com
+superbowl.best
+superbowl2026.org
+superbowlcommercials.co
+superbowltickets.us
+superbowltickets2026.com
