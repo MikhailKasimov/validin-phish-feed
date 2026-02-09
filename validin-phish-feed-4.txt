@@ -124086,3 +124086,8 @@ qa.pt.bookingcar-europe.com
 qa.ru.bookingcar-europe.com
 qa.sv.bookingcar-europe.com
 profile.bookingcar-europe.com
+
+# Reference: https://x.com/skocherhan/status/2020665324081684585
+
+axqrl.top
+votehub.axqrl.top
