@@ -124240,3 +124240,11 @@ tcs-it.com
 themeeting.site
 toolsecretdecelebrity.space
 xanabe.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9078
+
+protonwalletdesktop.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9085
+
+protonmemo.uno
