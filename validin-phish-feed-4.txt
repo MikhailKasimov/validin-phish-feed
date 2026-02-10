@@ -124248,3 +124248,11 @@ protonwalletdesktop.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9085
 
 protonmemo.uno
+
+# Reference: https://x.com/TeamDreier/status/2021196307315163229
+
+konto-fornyelse.com
+opd-sundhed.com
+skatterefusion.com
+sundhed-forlaengelse.com
+sundhed-opd.com
