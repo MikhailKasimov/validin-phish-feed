@@ -124535,3 +124535,8 @@ worldsdancer.life
 worldsdancer.top
 worlld-girls.top
 zelert.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9098
+
+esuoueanke.com
+nbnbnb.teachery.co
