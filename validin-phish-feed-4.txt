@@ -124573,3 +124573,8 @@ whatsapp-icloudbrasil.com
 # Reference: https://x.com/TeamDreier/status/2021598763106570666
 
 minoversigtportensundhed.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9111
+
+moodabvrockcon.com
+frenchy06--315ffb88022311f1b78142dde27851f2.web.val.run
