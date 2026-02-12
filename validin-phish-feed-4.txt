@@ -124579,3 +124579,7 @@ minoversigtportensundhed.com
 
 moodabvrockcon.com
 frenchy06--315ffb88022311f1b78142dde27851f2.web.val.run
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9112
+
+seedlinkservice.com
