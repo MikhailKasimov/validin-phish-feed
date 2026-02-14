@@ -124967,3 +124967,8 @@ wic03-woodforest.com
 woodforest-ref01.com
 xn--d-ssl-j0a.com
 xn--iono-o5a.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9141
+
+zahlung-date.cfd
+ricardo.zahlung-date.cfd
