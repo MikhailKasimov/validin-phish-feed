@@ -17,3 +17,7 @@
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9153
 
 kalsoer.web.app
+
+# Reference: https://x.com/skocherhan/status/2022929484199141603
+
+netfimarketing.com
