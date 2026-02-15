@@ -166,3 +166,7 @@ zyexx.com
 # Reference: https://x.com/skocherhan/status/2022922943563735360
 
 hawthornadvisors.portal-secure.workers.dev
+
+# Reference: https://x.com/skocherhan/status/2022925908248760820
+
+office-oneshare-file8-osiwin.squarespace.com
