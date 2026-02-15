@@ -124972,3 +124972,9 @@ xn--iono-o5a.com
 
 zahlung-date.cfd
 ricardo.zahlung-date.cfd
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9147
+# Reference: https://urlscan.io/result/019c609b-7bb3-7406-8e19-42f39cbc4889/
+
+bgvftcdrx.cfd
+crvftgbyh.click
