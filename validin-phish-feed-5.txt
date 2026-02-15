@@ -1,0 +1,19 @@
+#################################################################
+#		Validin Threat Intelligence Platform		#
+#								#
+#	DNS history to track and discover digital threats	#
+#								#
+#			Feed of phish-domains			#
+#								#
+#								#
+#	Site: https://validin.com				#
+#	Platform: https://app.validin.com/portal		#
+#								#
+#								#
+#################################################################
+
+# Note: continuation of /validin-phish-feed.txt, /validin-phish-feed-1.txt, /validin-phish-feed-2.txt, /validin-phish-feed-3.txt, /validin-phish-feed-4.txt files
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9153
+
+kalsoer.web.app
