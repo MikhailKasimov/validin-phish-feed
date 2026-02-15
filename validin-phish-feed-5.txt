@@ -21,3 +21,7 @@ kalsoer.web.app
 # Reference: https://x.com/skocherhan/status/2022929484199141603
 
 netfimarketing.com
+
+# Reference: https://x.com/skocherhan/status/2022922943563735360
+
+hawthornadvisors.portal-secure.workers.dev
