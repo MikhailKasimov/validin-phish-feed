@@ -170,3 +170,8 @@ hawthornadvisors.portal-secure.workers.dev
 # Reference: https://x.com/skocherhan/status/2022925908248760820
 
 office-oneshare-file8-osiwin.squarespace.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9160
+
+infohubsource.net
+youpiservice.freshservice.com
