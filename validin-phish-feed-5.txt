@@ -204,3 +204,8 @@ postv-rsv.top
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9177
 
 lightsolutions.tv
+
+# Reference: https://x.com/tobersotski/status/2024187899931959640
+
+mydhlexpress.info
+mdhlexpress.wpenginepowered.com
