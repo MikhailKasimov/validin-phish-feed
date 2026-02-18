@@ -200,3 +200,7 @@ omnivs-eer.xyz
 postv-fir.xyz
 postv-rsd.top
 postv-rsv.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9177
+
+lightsolutions.tv
