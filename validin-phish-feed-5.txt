@@ -188,3 +188,15 @@ smotretvideouz.sbs
 # Reference: https://www.virustotal.com/gui/ip-address/47.243.91.58/relations
 
 mac2win.top
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.92.242.30/relations
+
+bgposc-bgd.xyz
+cyprusposg-cyz.xyz
+dhlmx-mxa.xyz
+govx-fv.xyz
+inposdoz-do.icu
+omnivs-eer.xyz
+postv-fir.xyz
+postv-rsd.top
+postv-rsv.top
