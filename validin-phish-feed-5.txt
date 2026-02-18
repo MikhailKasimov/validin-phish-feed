@@ -184,3 +184,7 @@ checkgiftcardbalance.us
 
 meatropleksin.click
 smotretvideouz.sbs
+
+# Reference: https://www.virustotal.com/gui/ip-address/47.243.91.58/relations
+
+mac2win.top
