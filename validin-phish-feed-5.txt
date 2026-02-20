@@ -209,3 +209,7 @@ lightsolutions.tv
 
 mydhlexpress.info
 mdhlexpress.wpenginepowered.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9187
+
+sportisimoskonline.com
