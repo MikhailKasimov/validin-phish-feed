@@ -183,6 +183,7 @@ checkgiftcardbalance.us
 # Reference: https://app.validin.com/detail?find=80a06af43a6e15aae2dd4c92894cda83&type=hash (# 2026-02-18)
 
 meatropleksin.click
+sertoplabertik.click
 smotretvideouz.sbs
 
 # Reference: https://www.virustotal.com/gui/ip-address/47.243.91.58/relations
