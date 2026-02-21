@@ -3801,3 +3801,10 @@ youvector.info
 zabadvies.com
 zipaccelerate.com
 zorg-flex.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9202
+
+cortesdigital.click
+danceme.lat
+learntodaydc.lat
+rediparceiros.lat
