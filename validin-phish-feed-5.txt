@@ -301,3 +301,15 @@ ssl.mathematerials.academy
 sviluppo.host
 testingbitchedniggers.lol
 zabienmckee.com
+
+# Reference: https://github.com/stamparm/maltrail/issues/19383
+
+waronsol.top
+
+# Reference: https://github.com/stamparm/maltrail/issues/19384
+
+buttcoin.guru
+
+# Reference: https://github.com/stamparm/maltrail/issues/19385
+
+punchonsol.top
