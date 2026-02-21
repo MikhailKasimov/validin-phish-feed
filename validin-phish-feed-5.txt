@@ -228,3 +228,8 @@ onua-help.pages.dev
 otrymai-6500-zaraz.website
 shelp-ua.pages.dev
 vertengo.site
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9198
+
+easyapp-barclaays.com
+mastertelecom-claro.com.br
