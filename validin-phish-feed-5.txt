@@ -3832,3 +3832,7 @@ tube-polygonal-15.vercel.app
 # Reference: https://github.com/stamparm/maltrail/issues/19389
 
 cryptofashionnft.com
+
+# Reference: https://github.com/stamparm/maltrail/issues/19396
+
+punchonsol.top
