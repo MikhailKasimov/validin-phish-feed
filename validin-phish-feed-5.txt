@@ -3816,3 +3816,7 @@ coinbase-com.diplomat-sadabad.com
 # Reference: https://github.com/stamparm/maltrail/issues/19387
 
 cryptofashionnft.com
+
+# Reference: https://github.com/stamparm/maltrail/issues/19388
+
+daemon-guarded-4535.vercel.app
