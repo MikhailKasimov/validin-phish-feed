@@ -3820,3 +3820,15 @@ cryptofashionnft.com
 # Reference: https://github.com/stamparm/maltrail/issues/19388
 
 daemon-guarded-4535.vercel.app
+
+# Reference: https://github.com/stamparm/maltrail/issues/19392
+
+yieldscan.fi
+
+# Reference: https://github.com/stamparm/maltrail/issues/19391
+
+tube-polygonal-15.vercel.app
+
+# Reference: https://github.com/stamparm/maltrail/issues/19389
+
+cryptofashionnft.com
