@@ -3852,3 +3852,11 @@ bullrunon.com
 # Reference: https://github.com/stamparm/maltrail/issues/19400
 
 detector.lol
+
+# Reference: https://github.com/stamparm/maltrail/issues/19401
+
+catliejenner.com
+
+# Reference: https://github.com/stamparm/maltrail/issues/19402
+
+caesarape.com
