@@ -3808,3 +3808,7 @@ cortesdigital.click
 danceme.lat
 learntodaydc.lat
 rediparceiros.lat
+
+# Reference: https://x.com/skocherhan/status/2025326389642068383
+
+coinbase-com.diplomat-sadabad.com
