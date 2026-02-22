@@ -3836,3 +3836,7 @@ cryptofashionnft.com
 # Reference: https://github.com/stamparm/maltrail/issues/19396
 
 punchonsol.top
+
+# Reference: https://github.com/stamparm/maltrail/issues/19397
+
+task-4812-trustworthy.vercel.app
