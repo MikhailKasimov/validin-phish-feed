@@ -3848,3 +3848,7 @@ task-75-important.vercel.app
 # Reference: https://github.com/stamparm/maltrail/issues/19399
 
 bullrunon.com
+
+# Reference: https://github.com/stamparm/maltrail/issues/19400
+
+detector.lol
