@@ -3862,3 +3862,7 @@ catliejenner.com
 # Reference: https://github.com/stamparm/maltrail/issues/19402
 
 caesarape.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9209
+
+blastnew.live
