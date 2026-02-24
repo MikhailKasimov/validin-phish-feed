@@ -4186,3 +4186,7 @@ yousteam-awards.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9224
 
 trendyhall.store
+
+# Reference: https://www.validin.com/blog/validin-misp-integration-and-yara-improvements/
+
+joegotyou.cyou
