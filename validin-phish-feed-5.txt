@@ -4182,3 +4182,7 @@ volitop.cam
 wanmei-apps.com
 winter-gift.com
 yousteam-awards.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9224
+
+trendyhall.store
