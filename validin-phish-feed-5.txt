@@ -5362,3 +5362,10 @@ cpanel-webmail-login-access02-4r5secure6rt6t0k.pages.dev
 
 clave-unica.com
 claveunica.online
+
+# Reference: https://malwr-analysis.com/2026/02/22/crypto-compensation-scam-fake-btc-payout-lure-abusing-survey-payment-flows/
+
+bimaster.cc
+cosibas.site
+gespolenfe.cc
+paybits.cc
