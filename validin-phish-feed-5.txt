@@ -5352,3 +5352,8 @@ zs6h8cpy930uod8oscsw8q8mzvhq8lsj.notification-center.info
 # Reference: https://x.com/skocherhan/status/2026509387485843716
 
 g8290google.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9232
+
+lichengdaiper.com
+cpanel-webmail-login-access02-4r5secure6rt6t0k.pages.dev
