@@ -6,3 +6,6 @@ Web-site: https://validin.com
 Platform: https://app.validin.com/portal
 
 Social: https://twitter.com/ValidinLLC
+
+# Third-party usage/integrations
+IPFire DBL (Phishing category): https://dbl.ipfire.org/
