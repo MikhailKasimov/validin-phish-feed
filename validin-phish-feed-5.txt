@@ -5430,5 +5430,4 @@ zerposx-az.xyz
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9241
 
 apkrabi.org
-proveguard.com
 live-agent-46d.pages.dev
