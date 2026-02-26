@@ -5877,3 +5877,7 @@ zephyrits.com
 zootiz.in
 zyperfect.com
 zzyzxz.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9245
+
+nouretuneimasen.com
