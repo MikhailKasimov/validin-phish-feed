@@ -5881,3 +5881,7 @@ zzyzxz.net
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9245
 
 nouretuneimasen.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/84.32.84.32/relations
+
+expressmeme.com
