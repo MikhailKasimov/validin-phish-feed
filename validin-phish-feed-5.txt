@@ -6681,3 +6681,11 @@ qfinder-pro.com
 to-desk.com.cn
 todesk.im
 todeskapp.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9257
+
+alverapaoleikrapoel.com
+bakaoaikeujr.com
+goretuneomasienoc.com
+haratimaokeokr.com
+hrpflinkdata.com
