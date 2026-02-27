@@ -5891,3 +5891,11 @@ expressmeme.com
 # Reference: https://x.com/tobersotski/status/2026996072883609633
 
 whassgtsapp.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9253
+
+orayc.com
+qfinder-pro.com
+to-desk.com.cn
+todesk.im
+todeskapp.com
