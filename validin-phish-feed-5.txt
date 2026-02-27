@@ -5887,3 +5887,7 @@ nouretuneimasen.com
 # Reference: https://www.virustotal.com/gui/ip-address/84.32.84.32/relations
 
 expressmeme.com
+
+# Reference: https://x.com/tobersotski/status/2026996072883609633
+
+whassgtsapp.com
