@@ -10561,6 +10561,17 @@ zurekai.cyou
 # Reference: https://x.com/S4nsLimit3/status/2028160876923031945
 # BANNER_0_HASH-HOST=126c49aab6d53fe4f11d411d46a40334
 
+http://163.245.209.194
+163.245.209.194:5000
+163.245.209.194:5002
+163.245.209.194:5004
+163.245.209.194:5005
+163.245.209.194:5006
+163.245.209.194:5007
+163.245.209.194:5008
+163.245.209.194:5009
+163.245.209.194:5010
+163.245.209.194:5011
 disable-abbank.com
 disable-alpinebank.com
 disable-bancfirst.com
@@ -10573,3 +10584,4 @@ disable-ssbscott.com
 disable-tbonlinebanking.com
 disable-texascapitalbank.com
 gj340m.com
+a.318562.com
