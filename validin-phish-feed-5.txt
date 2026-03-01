@@ -10557,3 +10557,15 @@ zoytekltd.com
 zuber.af
 zujoviccommercedoovelikicrljeni.com
 zurekai.cyou
+
+# Reference: https://x.com/S4nsLimit3/status/2028160876923031945
+
+disable-abbank.com
+disable-alpinebank.com
+disable-bancfirst.com
+disable-bankofcommerceandtrust.com
+disable-cbna.com
+disable-ffcbbusinessolb.com
+disable-outfirstfed.com
+disable-ssbscott.com
+disable-tbonlinebanking.com
