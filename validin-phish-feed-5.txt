@@ -10559,13 +10559,17 @@ zujoviccommercedoovelikicrljeni.com
 zurekai.cyou
 
 # Reference: https://x.com/S4nsLimit3/status/2028160876923031945
+# BANNER_0_HASH-HOST=126c49aab6d53fe4f11d411d46a40334
 
 disable-abbank.com
 disable-alpinebank.com
 disable-bancfirst.com
+disable-bangortreasury.com
 disable-bankofcommerceandtrust.com
 disable-cbna.com
 disable-ffcbbusinessolb.com
 disable-outfirstfed.com
 disable-ssbscott.com
 disable-tbonlinebanking.com
+disable-texascapitalbank.com
+gj340m.com
