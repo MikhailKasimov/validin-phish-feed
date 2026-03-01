@@ -10585,3 +10585,24 @@ disable-tbonlinebanking.com
 disable-texascapitalbank.com
 gj340m.com
 a.318562.com
+
+# Reference: https://x.com/Malwarehunterr/status/2028196140634792375
+
+app.yoroiwalletv5.com
+mail.debug-yoroiapp.live
+mail.yoroi-app.cc
+mail.yoroi-app.live
+mail.yoroiapp.cc
+v1desktop-yoroiwallet.com
+yoroi-4is.pages.dev
+debug-yoroiapp.live
+yoroi-4is.pages.dev
+yoroi-app.cc
+yoroi-app.live
+yoroi-app.net
+yoroi-io.wallet.gy
+yoroi-wallet.org
+yoroi-wallet.rpcnetwork.io
+yoroi-wallet.webrpc.network
+yoroiapp.cc
+yoroimainnet.pages.dev
