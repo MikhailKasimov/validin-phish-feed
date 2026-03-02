@@ -10585,3 +10585,7 @@ disable-tbonlinebanking.com
 disable-texascapitalbank.com
 gj340m.com
 a.318562.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9280
+
+aniversariosams.store
