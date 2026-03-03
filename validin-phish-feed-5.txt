@@ -11904,3 +11904,15 @@ dk-mobilepay.online
 # Reference: https://x.com/TeamDreier/status/2028479324492296334
 
 sundhedsinformation.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/23.254.227.217/relations
+
+freecash.ink
+pay-noones.com
+pay-paxful.com
+ftp.pay-noones.com
+ftp.pay-paxful.com
+mail.freecash.ink
+mail.pay-noones.com
+mail.pay-paxful.com
+pay-paxful.com.pay-noones.com
