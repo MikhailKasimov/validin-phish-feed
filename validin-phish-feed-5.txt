@@ -11892,3 +11892,7 @@ google-prism.com
 # Reference: https://x.com/Malwarehunterr/status/2028720876267417799
 
 klockowskyrec.pl
+
+# Reference: https://x.com/JAMESWT_WT/status/2028721268439081082
+
+webnotiziepagopa.is-certified.com
