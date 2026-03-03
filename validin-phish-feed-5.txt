@@ -11896,3 +11896,7 @@ klockowskyrec.pl
 # Reference: https://x.com/JAMESWT_WT/status/2028721268439081082
 
 webnotiziepagopa.is-certified.com
+
+# Reference: https://x.com/TeamDreier/status/2028547346489819281
+
+dk-mobilepay.online
