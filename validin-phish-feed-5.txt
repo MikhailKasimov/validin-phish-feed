@@ -11923,3 +11923,7 @@ dt2023.com
 raftix.ro
 pub-3ae3dcf864e64c09bd4227734662ad67.r2.dev
 
+# Reference: https://x.com/skocherhan/status/2028943783274930521
+
+rnicrosft.page.gd
+ssouid-captcher.netlify.app
