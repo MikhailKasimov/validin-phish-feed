@@ -11927,3 +11927,12 @@ pub-3ae3dcf864e64c09bd4227734662ad67.r2.dev
 
 rnicrosft.page.gd
 ssouid-captcher.netlify.app
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9301
+
+imorningplus.click
+ingatgunung.click
+linkswave.net
+olinkdirect.info
+play-aja.click
+prediksiyupitoto.xyz
