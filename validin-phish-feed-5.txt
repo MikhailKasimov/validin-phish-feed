@@ -12001,3 +12001,7 @@ nx6sdp7q0w1mtiqaezillcnmhhpwyc4wle4nkkgtgnhafc18qa.crechaice.my
 plhpxt0xosniin0ccef5li95ulxmcz2qhudbno806yydgdhjz6n.crechaice.my
 uz4l4lahr7vcsd7nqlrpmnfbijewddjkuqbr9tetqzqr90a5yiwychd96dmh.crechaice.my
 wvnmmplsagxxvozk9tyaeil5gpatnh35940vmospcnnvzxnperihfm30t1nf.crechaice.my
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9321
+
+bendigorewardsaj-homes.info
