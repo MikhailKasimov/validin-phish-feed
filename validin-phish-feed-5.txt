@@ -13387,3 +13387,9 @@ miiles-mores.click
 milles-end-more.click
 milles-und-more.click
 uk-node1.aspirationcloud.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9337
+
+firefox-firefox.com
+firefox.hl.cn
+m-firefox.com
