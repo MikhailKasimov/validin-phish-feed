@@ -13373,3 +13373,8 @@ wgpetfood.com
 wiadomosci.miejskieoferty.pl
 zard-ai.ir
 zsz8.pl
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9328
+
+obxnfnqo.shop
+totamona.shop
