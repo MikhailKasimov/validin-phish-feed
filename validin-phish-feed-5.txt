@@ -13378,3 +13378,12 @@ zsz8.pl
 
 obxnfnqo.shop
 totamona.shop
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9333
+
+klaim-miles-de.click
+meine-advanzia.click
+miiles-mores.click
+milles-end-more.click
+milles-und-more.click
+uk-node1.aspirationcloud.com
