@@ -19208,3 +19208,10 @@ zillow-verification.shop
 zjhuazheng_com.zuncou.com
 zoom.y-verification.com
 zuncou.com
+
+# Reference: https://x.com/tobersotski/status/2030298271424430201
+
+liquidatorartful.homes
+lucky2lucky.com
+securesafezone.com
+main.securesafezone.com
