@@ -19226,9 +19226,12 @@ cleververifieddigitalmatch.autos
 digprtdreamavg.autos
 directvolcapsus.autos
 ecommcoolbazaar.store
+gold-avg-pe-nb.autos
 goldavgpenb.autos
 jumpdiganalyticsprt.autos
 matchstarsrotchoice.autos
+searchonboardloadingrock.autos
+tra4fficjumpchoiceclever.autos
 cdn.alt-dig-gold-tab.autos
 cdn.altbio.autos
 cdn.avgeasyposttips.autos
@@ -19238,6 +19241,8 @@ cdn.directvolcapsus.autos
 cdn.goldavgpenb.autos
 cdn.jumpdiganalyticsprt.autos
 cdn.matchstarsrotchoice.autos
+cdn.searchonboardloadingrock.autos
+cdn.tra4fficjumpchoiceclever.autos
 
 # Reference: https://www.virustotal.com/gui/ip-address/144.172.103.193/detection
 # JA4X_FINGERPRINT-HOST=c9ed8d15cf91_c9ed8d15cf91_000000000000
