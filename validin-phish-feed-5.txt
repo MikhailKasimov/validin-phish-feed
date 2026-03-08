@@ -19230,4 +19230,11 @@ goldavgpenb.autos
 jumpdiganalyticsprt.autos
 matchstarsrotchoice.autos
 cdn.alt-dig-gold-tab.autos
+cdn.altbio.autos
+cdn.avgeasyposttips.autos
+cdn.cleververifieddigitalmatch.autos
+cdn.digprtdreamavg.autos
+cdn.directvolcapsus.autos
 cdn.goldavgpenb.autos
+cdn.jumpdiganalyticsprt.autos
+cdn.matchstarsrotchoice.autos
