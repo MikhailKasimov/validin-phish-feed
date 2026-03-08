@@ -19388,3 +19388,7 @@ wedrink.myinfinityerp.com
 werorecup-fond.fyi
 wrath.path.anchored.host
 xtroloozyanimailfeeddeals.shop
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9349
+
+uqijaci.sbs
