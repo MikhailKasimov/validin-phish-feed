@@ -19681,3 +19681,9 @@ sign-in-extranets.com
 # Reference: https://www.virustotal.com/gui/ip-address/77.91.65.220/relations
 
 newslots.space
+
+# Reference: https://x.com/BreakGlassIntel/status/2031008764728393947
+# Reference: https://intel.breakglass.tech/post/inside-bucklog-sarl-anatomy-of-a-commercial-credential-harvesting-kubernetes-cluster
+
+dci.soka.cloud
+observium.soka.cloud
