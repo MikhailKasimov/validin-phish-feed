@@ -19677,3 +19677,7 @@ operae.com.cn
 confirmation-id63926.com
 sign-in-extranet.com
 sign-in-extranets.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/77.91.65.220/relations
+
+newslots.space
