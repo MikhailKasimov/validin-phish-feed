@@ -19667,3 +19667,7 @@ yisoutong.com
 ylekot.com
 zonescience.com
 zopesite.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9354
+
+operae.com.cn
