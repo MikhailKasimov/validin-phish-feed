@@ -19394,3 +19394,9 @@ xtroloozyanimailfeeddeals.shop
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9349
 
 uqijaci.sbs
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9352
+
+expotary.eu
+link.expotary.eu
+mail.expotary.eu
