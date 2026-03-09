@@ -19671,3 +19671,9 @@ zopesite.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9354
 
 operae.com.cn
+
+# Reference: https://x.com/skocherhan/status/2030711345872543871
+
+confirmation-id63926.com
+sign-in-extranet.com
+sign-in-extranets.com
