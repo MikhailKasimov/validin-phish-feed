@@ -21077,3 +21077,7 @@ ztlmaps.com
 digital-shift-us-bin.autos
 mailanalyticsvolseries.autos
 verifieddreamseriesultimate.autos
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.211.251.217/relations
+
+saxu.shop
