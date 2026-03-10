@@ -14982,6 +14982,7 @@ kraken-tg.com
 kraken-tor.rs
 kraken-zerkalo.org
 kraken-zerkalo.ru
+kraken.art
 kraken.bontefamily.fr
 kraken.com.co
 kraken.kbonte.com
@@ -15604,6 +15605,7 @@ slon6-market.cc
 slon6to.cc
 slon7-at.cc
 slon7-market.cc
+slon7market.cc
 slon8-cc.cc
 slon8-to.cc
 slon8market.cc
@@ -15626,6 +15628,7 @@ ssylka-na-kraken.cc
 store.bizesmedia.com
 store.kra13cc.cc
 support.kra--30cc.com
+svip-app.top
 sxwxsarnz.com
 sxwxsaznr.com
 test.shuewiiwhe.sbs
