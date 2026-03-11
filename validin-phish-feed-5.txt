@@ -22056,3 +22056,10 @@ nationalrecommendsafesmart.autos
 programeffectivespeedfast.autos
 safepremiumfreeriskfree.autos
 speeddeviceboostfast.autos
+
+# Reference: https://x.com/Malwarehunterr/status/2031811497387561412
+
+digitalshiftusbin.autos
+rot-digital-fly-f2f.autos
+shifttra4fficcapsmatch.autos
+spacevertabnb.autos
