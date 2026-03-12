@@ -22075,3 +22075,8 @@ nationalprotectsmartfree.autos
 safe-premium-free-riskfree.autos
 tablewordstairs.autos
 trk.independent-teacher-strength-nails.run
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9380
+
+111517.com
+aademycar.111517.com
