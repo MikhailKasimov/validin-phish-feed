@@ -22171,3 +22171,12 @@ coqui.ai
 
 gid8vim.info
 klarmna.info
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9389
+
+go2link.co
+playt.store
+phef6trk.com
+raintrks.com
+taptrks.com
+v8trck.com
