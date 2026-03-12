@@ -22161,3 +22161,8 @@ lifeverifiedfavouritever.autos
 mailanalyticsvolseries.autos
 pushbuttonsystem.net
 spacevertabnb.autos
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9388
+# Reference: https://urlscan.io/result/019ce276-9b86-7435-bd84-9551d9a5698c/
+
+coqui.ai
