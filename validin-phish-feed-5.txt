@@ -22082,8 +22082,13 @@ trk.independent-teacher-strength-nails.run
 aademycar.111517.com
 
 # Reference: https://x.com/Malwarehunterr/status/2031992067287605632
+# Reference: https://www.virustotal.com/gui/ip-address/176.98.189.201/relations
 
+bitpayment.cc
+proxynator.cc
 proxysales.cc
+tarslenpo.top
+toproxy.cc
 rzt.proxysales.cc
 40dakusu.workers.dev
 hpserver-vip.workers.dev
