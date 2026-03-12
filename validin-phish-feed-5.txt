@@ -22166,3 +22166,8 @@ spacevertabnb.autos
 # Reference: https://urlscan.io/result/019ce276-9b86-7435-bd84-9551d9a5698c/
 
 coqui.ai
+
+# Reference: https://x.com/ShadowOpCode/status/2032045572719333738
+
+gid8vim.info
+klarmna.info
