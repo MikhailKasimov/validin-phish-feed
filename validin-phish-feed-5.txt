@@ -3864,6 +3864,7 @@ catliejenner.com
 caesarape.com
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9209
+# Reference: https://securitylabs.datadoghq.com/articles/behind-the-console-aws-aitm-phishing-campaign/
 # BANNER_0_HASH-HOST=338f27ef749edbc7b65473632fe93ad8
 # BANNER_0_HASH-HOST=b4707380a9cfe3bf199613a820b5b459
 
@@ -3877,6 +3878,9 @@ blastnew.live
 blastpremier.club
 cedoll50.ru
 checksfort.top
+cloud-policy.com
+cloud-recovery.net
+cloud-recovery.us
 cs-tradepowered.com
 cs26tw.sbs
 cs2box.top
