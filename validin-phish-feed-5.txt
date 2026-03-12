@@ -22085,6 +22085,30 @@ aademycar.111517.com
 
 proxysales.cc
 rzt.proxysales.cc
+40dakusu.workers.dev
+hpserver-vip.workers.dev
+inawobugobiva.workers.dev
+kerntankersly.workers.dev
+levija8hq.workers.dev
+martayork73615.workers.dev
+melitasidorova836698.workers.dev
+moumouni-miglorie-74.workers.dev
+poecrimangam640.workers.dev
+sensmeiersternjsdr.workers.dev
+sylviacallihan34806.workers.dev
+timothyhof51545.workers.dev
+minning-bitcoin-07175.40dakusu.workers.dev
+minning-bitcoin-07530.kerntankersly.workers.dev
+minning-bitcoin-14683.sylviacallihan34806.workers.dev
+minning-bitcoin-44188.timothyhof51545.workers.dev
+minning-bitcoin-48311.levija8hq.workers.dev
+minning-bitcoin-57118.martayork73615.workers.dev
+minning-bitcoin-57198.sensmeiersternjsdr.workers.dev
+minning-bitcoin-62721.moumouni-miglorie-74.workers.dev
+minning-bitcoin-91358.inawobugobiva.workers.dev
+minning-bitcoin-93279.melitasidorova836698.workers.dev
+minning-bitcoin-98009.poecrimangam640.workers.dev
+winter-dawn-dc31.hpserver-vip.workers.dev
 
 # Reference: https://x.com/Malwarehunterr/status/2031999199483453630
 
