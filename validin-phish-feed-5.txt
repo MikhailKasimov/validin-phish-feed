@@ -13439,6 +13439,7 @@ m-firefox.com
 # FAVICON_HASH-HOST=88dce50c34a848e75b6c7d916711e6b9
 # TITLE-HOST=KRAKEN
 
+10kta.at
 111-90-140-93.cprapid.com
 1crab.cc
 1km.one
@@ -13731,6 +13732,7 @@ kr2025.cc
 kr2026.cc
 kr24.vip
 kr25in.one
+kr2at.cc
 kr2ken.shop
 kr2n.cc
 kr2tr.com
@@ -13750,17 +13752,20 @@ kr34.space
 kr34.top
 kr36at.cc
 kr381.cc
+kr3at.cc
 kr4.shop
 kr40.live
 kr44at.space
 kr44at.store
 kr46at.cc
+kr4at.cc
 kr4k.cc
 kr4k.shop
 kr4k3n.cc
 kr4k3nd.cc
 kr4k6n.cc
 kr4kc3n.cc
+kr5at.cc
 kr5at.com
 kr6-at.com
 kr666n.cc
@@ -14888,6 +14893,7 @@ krak32.at
 krak32.cc
 krak33.at
 krak33.cc
+krak33.click
 krak33.cv
 krak34.cc
 krak34.com
@@ -14945,6 +14951,7 @@ krak8en.cc
 krak9-at.com
 krak9.com
 krak9.sbs
+krak9.shop
 krak91.cc
 krak94.cc
 krak97.cc
