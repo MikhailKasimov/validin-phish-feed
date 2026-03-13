@@ -22187,3 +22187,12 @@ phef6trk.com
 raintrks.com
 taptrks.com
 v8trck.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9392
+
+alexistogel8zud.buzz
+gacorhoki189jp.live
+mega188bvf.site
+musang178wwe.site
+situshokix618jp.live
+slothoki327jp.live
