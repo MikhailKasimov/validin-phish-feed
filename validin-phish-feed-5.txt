@@ -48644,3 +48644,15 @@ zxahnxpp.20.194.12.149.static.hostiran.name
 
 email.mg.theleap.co
 trackingservice.monday.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/31.57.147.207/relations
+
+account-miscauth.cfd
+bloxfruitt.art
+online-devauth.cfd
+online-devauth.sbs
+prayercarpet.online
+speedometer.site
+bvjyux4.speedometer.site
+kixlil.bloxfruitt.art
+ping6.prayercarpet.online
