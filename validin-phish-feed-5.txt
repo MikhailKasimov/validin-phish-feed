@@ -40968,3 +40968,8 @@ zfkdkaotucic.protectinsurtech.com
 ziggo34.kreon.com.mx
 zigizag.site
 zxahnxpp.20.194.12.149.static.hostiran.name
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9394
+
+email.mg.theleap.co
+trackingservice.monday.com
