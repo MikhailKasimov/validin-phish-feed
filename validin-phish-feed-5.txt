@@ -51257,6 +51257,7 @@ bdagnetwork.info
 bdagnetworks.live
 bdagreward.live
 bdagscan.live
+bdagswap.network
 bdagupdates.com
 beam-sol.com
 bean-rewards.xyz
@@ -51284,6 +51285,7 @@ binanceglobalgame.pro
 binanceglobalgames.top
 binarywealthplatform.com
 bingwucoins.xyz
+biockdag3network.xyz
 biockdagnetwork.site
 biockdagnetwork.xyz
 birb-moonbird.com
@@ -51299,6 +51301,7 @@ bitcoinhyper.network
 bitcoins-hyper.com
 bitcoinshyper.org
 bitfinex.exchange
+bitfinix.io
 bitlayer.space
 bitnest-portal.xyz
 bitnestloop.site
@@ -51421,9 +51424,11 @@ causeofsmetng.com
 cdn-202250110-v-webflow.cfd
 centric-rise.online
 cetbridge.com
+cftesten.xyz
 cggtyipc.info
 chain-chainpro.xyz
 chain-ility.com
+chain-robinhood.io
 chaindrop.site
 chainfix.org
 chainmatrix.pro
@@ -53660,6 +53665,7 @@ stupidchickens.sbs
 stusdt.bet
 subbdtoken.wiki
 subscription-sentient.xyz
+subscriptioncontentpro.com
 subscriptionsignaturesurveys.com
 substacked-stock.xyz
 subydefi.com
@@ -54004,6 +54010,7 @@ voting-linea.xyz
 voting-mantle.com
 voucherbsc.org
 vsntoken.xyz
+vulp.live
 vwa-on-sol.com
 vypr.fun
 w3bsolute4u.top
