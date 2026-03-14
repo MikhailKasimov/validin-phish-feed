@@ -55274,3 +55274,7 @@ zartiasa.cc
 zngovmtn.cc
 ztgam.com
 zxasevuc.cfd
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9409
+
+evr-i-583848.im
