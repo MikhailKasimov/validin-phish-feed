@@ -55560,3 +55560,7 @@ zxvcrts.click
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9409
 
 evr-i-583848.im
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9411
+
+tracking-updatesmygps.click
