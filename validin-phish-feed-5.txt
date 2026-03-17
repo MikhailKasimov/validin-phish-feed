@@ -65093,3 +65093,8 @@ uid-apple.com
 # Reference: https://www.virustotal.com/gui/ip-address/125.212.240.203/relations
 
 cdnmac.click
+
+# Reference: https://x.com/Malwarehunterr/status/2033939162299306034
+
+apple-careers.com
+apple-hr.com
