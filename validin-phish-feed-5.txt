@@ -65080,3 +65080,12 @@ zed-logistics.com
 zendoodlepatterns.affservice.pro
 zjb.icu
 zr.ledger-recover-webhelp.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/91.92.242.110/relations
+
+applepay-devices.com
+au-icloud.com
+devices-applepay.com
+my-requests.com
+ticketclosure-apple.com
+uid-apple.com
