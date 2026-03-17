@@ -65089,3 +65089,7 @@ devices-applepay.com
 my-requests.com
 ticketclosure-apple.com
 uid-apple.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/125.212.240.203/relations
+
+cdnmac.click
