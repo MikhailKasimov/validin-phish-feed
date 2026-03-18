@@ -66100,3 +66100,13 @@ support-128448844521.us-south1.run.app
 gitsolgrantsnotif.xyz
 token-claw.xyz
 trxnow.org
+
+# Reference: https://x.com/Malwarehunterr/status/2034358656595296274
+
+009238-cb.com
+gmail-security.report
+mail-support.live
+
+# Reference: https://x.com/Malwarehunterr/status/2033999905329713644
+
+rto-services.online
