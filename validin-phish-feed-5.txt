@@ -66089,3 +66089,8 @@ zamba55.live
 zcasheld.uk
 zekri.my.id
 zeroday.cyou
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9440
+
+nytech-ease.com
+support-128448844521.us-south1.run.app
