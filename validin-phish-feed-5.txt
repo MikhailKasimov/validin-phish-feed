@@ -66094,3 +66094,8 @@ zeroday.cyou
 
 nytech-ease.com
 support-128448844521.us-south1.run.app
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9442
+
+gitsolgrantsnotif.xyz
+token-claw.xyz
