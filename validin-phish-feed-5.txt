@@ -14036,6 +14036,7 @@ kra-ken42.cc
 kra-onion.com
 kra-shop.com
 kra-tor.net
+kra001.vu
 kra00k.cc
 kra016.ru
 kra03.at
@@ -14111,6 +14112,7 @@ kra14.vip
 kra140.cc
 kra141.cc
 kra142.cc
+kra143.cc
 kra145.cc
 kra146.cc
 kra147.cc
@@ -14822,6 +14824,7 @@ krab9market.cc
 kraba5.at
 kraba5.cc
 krabb15cc.cc
+krabb9-market.cc
 krabh5.cc
 krabi2.at
 krabi2.cc
@@ -15638,8 +15641,10 @@ slo-on2.cc
 slon-09.cc
 slon-10cc.cc
 slon-1at.cc
+slon-2-at.cc
 slon-3-at.cc
 slon-3at.cc
+slon-3cc.cc
 slon-4at.cc
 slon-4cc.cc
 slon-5at.cc
@@ -15649,6 +15654,7 @@ slon1-at.cc
 slon1-at.com
 slon1-marketplace.cc
 slon1.org
+slon10-at.cc
 slon10-cc.cc
 slon18c.cc
 slon1at.at
@@ -15723,8 +15729,10 @@ store.bizesmedia.com
 store.kra13cc.cc
 support.kra--30cc.com
 svip-app.top
+sx.slon-2-at.cc
 sxwxsarnz.com
 sxwxsaznr.com
+sz.slon10-at.cc
 test.shuewiiwhe.sbs
 test234.at
 thekraken.gooodideas.com
