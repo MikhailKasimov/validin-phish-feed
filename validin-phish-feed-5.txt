@@ -66373,3 +66373,8 @@ protect-fire-word-ceil.autos
 protectfirewordceil.autos
 stairscandle.autos
 superior-speed-effective-device.autos
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9448
+# Reference: https://urlscan.io/result/019d057f-d766-778f-80be-d6b84be2ba36/
+
+lizasbeautyparlour.com
