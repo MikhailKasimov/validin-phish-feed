@@ -66471,3 +66471,37 @@ winter.big-billion-sale.live
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9466
 
 docmint.co
+
+# Reference: https://x.com/skocherhan/status/2035132715352432771
+
+1baz.bunensio.cc
+1kif.alawes.cc
+1mos.bunensio.cc
+1nax.bunensio.cc
+1oke.bunensio.cc
+1plo.olaskedor.sbs
+1xan.olaskedor.sbs
+alawes.cc
+bitfame.icu
+bunensio.cc
+flexprox.cc
+gameprox.cc
+ganf.aqsuazul.icu
+godprox.cc
+goo.su
+goprox.cc
+greenprox.cc
+livenses.cc
+olaskedor.sbs
+r.godprox.cc
+r.goprox.cc
+r.greenprox.cc
+ra.goprox.cc
+rad.godprox.cc
+raz.greenprox.cc
+re.greenalopes.cc
+rek.godprox.cc
+rs.godprox.cc
+rul.godprox.cc
+shre.su
+vadeossig.byethost17.com
