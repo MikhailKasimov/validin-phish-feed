@@ -66406,3 +66406,7 @@ nabox.live
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9029
 
 ezonesglobal.com
+
+# Reference: https://x.com/Malwarehunterr/status/2035346149943738791
+
+sharepoint-marubeni.pages.dev
