@@ -66467,3 +66467,7 @@ test.expwebs.shop
 uploads.expwebs.shop
 web.opmiju.us.cc
 winter.big-billion-sale.live
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9466
+
+docmint.co
