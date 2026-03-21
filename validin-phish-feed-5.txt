@@ -66402,3 +66402,7 @@ lizasbeautyparlour.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9459
 
 nabox.live
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9029
+
+ezonesglobal.com
