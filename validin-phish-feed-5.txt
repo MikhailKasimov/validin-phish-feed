@@ -66405,7 +66405,17 @@ nabox.live
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9029
 
+​4k-iptv-direct.com
+​abbott-tech.net
+​crown-vintage.de
+​daytoday-deals.com
+​digital-beast.tech
+​everyday-outdoor.de
 ezonesglobal.com
+​kx-tools.uk
+​kxhm-store.com
+​stream4k-tv.pro
+​vintage-watch-hub.com
 
 # Reference: https://x.com/Malwarehunterr/status/2035346149943738791
 
