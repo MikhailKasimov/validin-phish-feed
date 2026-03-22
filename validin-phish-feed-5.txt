@@ -83864,3 +83864,29 @@ zv.officialredir.com
 
 hipalanet.com
 notifications.dubsado.com
+
+# Reference: https://x.com/Malwarehunterr/status/2035759677594534294
+
+15-years-celebration.com
+blockclient-app.com
+desktop-experience.com
+desktop-tools.com
+free-premium-desktop.com
+get-desktopapp.com
+loadzone-pc.com
+mining-app.com
+mining-tool.com
+winappstation.com
+winsoft-client.com
+algosone.desktop-experience.com
+coinspot.get-desktopapp.com
+coinspot.loadzone-pc.com
+coinspot.winsoft-client.com
+solana.free-premium-desktop.com
+solana.mining-app.com
+solana.mining-tool.com
+solanaa.mining-tool.com
+tradingview.15-years-celebration.com
+tradingview.desktop-tools.com
+wise.blockclient-app.com
+wise.winappstation.com
