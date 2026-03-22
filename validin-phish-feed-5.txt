@@ -83859,3 +83859,8 @@ zohologin.pages.dev
 zohomail-login.pages.dev
 zohosupport.pages.dev
 zv.officialredir.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9476
+
+hipalanet.com
+notifications.dubsado.com
