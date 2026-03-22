@@ -82412,6 +82412,7 @@ adobe-helpss.pages.dev
 adobedesk.pages.dev
 adobehelp.pages.dev
 advancesystemcare.pages.dev
+allgpsupdates.com
 amcplus.readthedocs.io
 amcplus.tv-login.com
 aolverizonemaillogin.pages.dev
@@ -82859,6 +82860,7 @@ golf-buddy-gps-login.pages.dev
 golf-gps-speaker.pages.dev
 gpartedsoftwaredownload.pages.dev
 gpsjiobit.readthedocs.io
+gpsupdate.support
 grmingpsmapupdates.com
 hbo-max-login-page.pages.dev
 hbo-max-login-problem.pages.dev
@@ -83222,6 +83224,7 @@ myuserlogin.net
 mywebroot.pages.dev
 myxfinity.pages.dev
 myzoho.pages.dev
+navisolve.com
 navpalgpsupdate.com
 navpalmapupdate.com
 navrufmapupdate.com
@@ -83715,6 +83718,7 @@ twcmail.pages.dev
 twitch.tv-login.com
 twitchtvaccount.tvsling.net
 twonavgps.pages.dev
+uchatsupport.live
 updatepayrolladmininformationinquickbooks.pages.dev
 verizon-connect.pages.dev
 verizon-email-login-aol.pages.dev
@@ -83772,6 +83776,7 @@ xfinityloginaccount.pages.dev
 xfinitysupport.pages.dev
 xfinitytv.pages.dev
 xfnt.officialredir.com
+xgodygpsupdate.net
 yahoo-email.pages.dev
 yahoo-guide.pages.dev
 yahoo-info.pages.dev
