@@ -84030,3 +84030,9 @@ appdown.website
 tap-n-pay-machinestore.pages.dev
 the-apple-store-iphonedeals.pages.dev
 wholesale-tabacco-sale.pages.dev
+
+# Reference: https://x.com/PhishStats/status/2036383864705135059
+
+pl-ogloszenie5932678397.click
+alebilet.pl-ogloszenie5932678397.click
+allegro.pl-ogloszenie5932678397.click
