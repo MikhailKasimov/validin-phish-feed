@@ -84022,3 +84022,11 @@ prsjmp.com
 rlbvhts.shop
 sasmalhs.top
 xinlusd.com
+
+# Reference: https://x.com/Malwarehunterr/status/2036380798094549183
+# CLASS_0_HASH-HOST=c28ee654773d46b8c6a40b97ba396741
+
+appdown.website
+tap-n-pay-machinestore.pages.dev
+the-apple-store-iphonedeals.pages.dev
+wholesale-tabacco-sale.pages.dev
