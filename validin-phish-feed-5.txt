@@ -84436,3 +84436,8 @@ allegrolokalnie.pl-ssid38673.click
 
 phgov.cc
 egov.phgov.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9496
+
+dynamicform.top
+unifiedprocessadministration.pro
