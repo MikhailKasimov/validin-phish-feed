@@ -84431,3 +84431,8 @@ allegrolokalnie.pl-ogloszenie5937388292.click
 allegrolokalnie.pl-ogloszenie958498598.click
 allegrolokalnie.pl-ssid38019.click
 allegrolokalnie.pl-ssid38673.click
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9495
+
+phgov.cc
+egov.phgov.cc
