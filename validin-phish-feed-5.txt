@@ -84441,3 +84441,7 @@ egov.phgov.cc
 
 dynamicform.top
 unifiedprocessadministration.pro
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9497
+
+appelid.com
