@@ -84644,3 +84644,7 @@ wordprotectstairsfound.autos
 # Reference: https://urlscan.io/result/019d29ad-a27e-744e-8e15-5b7c27b67538/
 
 ninendo.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9498
+
+gasolinaph.cc
