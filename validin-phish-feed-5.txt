@@ -84639,3 +84639,8 @@ trk.men-symbol-season-major.run
 trk.reader-quarter-black-excited.run
 word-protect-stairs-found.autos
 wordprotectstairsfound.autos
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9501
+# Reference: https://urlscan.io/result/019d29ad-a27e-744e-8e15-5b7c27b67538/
+
+ninendo.com
