@@ -96269,3 +96269,9 @@ xinzuser.my
 dashboard-panel.online
 fattureweb-sistem.digital
 res-railway.com
+
+# Reference: https://x.com/ShadowOpCode/status/2037534360371368108
+
+loginportal-id75328983.com
+q7.loginportal-id75328983.com
+inbank.loginportal-id75328983.com
