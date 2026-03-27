@@ -13559,6 +13559,7 @@ bs2webat.shop
 bs2webs.co
 bs3web.shop
 bslspl.cc
+bsmp.cc
 bsprut.net
 bss1.site
 buybitcodwa.com
@@ -15650,6 +15651,7 @@ krkn22.top
 krkn22.website
 krkn28.lat
 krkn28.me
+krkn3066.site
 krkn32.top
 krkn33.top
 krkn33.website
@@ -15830,6 +15832,7 @@ qm.krab7-cc.cc
 qtbqcx5csi.shuewiiwhe.sbs
 qw.slon5to.cc
 ra.slon3-cc.cc
+rc.slon5-cc.cc
 rkra31.at
 rkra39.at
 rkra39.cc
@@ -15896,8 +15899,13 @@ slon-5at.cc
 slon-7at.cc
 slon-8cc.cc
 slon-9at.cc
+slon-market10.cc
 slon-market11.cc
 slon-market12.cc
+slon-market13.cc
+slon-market14.cc
+slon-market15.cc
+slon-market7.cc
 slon-market8.cc
 slon00.cc
 slon1--at.cc
@@ -15970,6 +15978,7 @@ slon4cc.net
 slon4l.cc
 slon4to.cc
 slon5-cc.at
+slon5-cc.cc
 slon5-market.cc
 slon5-to.cc
 slon5.net
@@ -16000,6 +16009,7 @@ slon9-cc.cc
 slon9-market.cc
 slon9market.cc
 slon9to.cc
+slonmarket9.cc
 slonn2-cc.ru
 slons.top
 slonup9.cc
@@ -16120,15 +16130,19 @@ www-slon1cc.ru
 www-slon2-at.ru
 www-slon2-att.ru
 www-slon2-cc.ru
+www-slon2-to.ru
 www-slon3-cc.ru
 www-slon3at.ru
 www-slon3cc.ru
+www-slon3to.ru
 www-slon4-at.ru
 www-slon4-cc.ru
 www-slon4at.ru
 www-slon4cc.ru
 www-slon5-at.ru
 www-slon5-cc.ru
+www-slon5at.ru
+www-slon5cc.ru
 wwwblsp-at.ru
 wwwblspat.ru
 wzmkq2zvyl.shuewiiwhe.sbs
@@ -16228,6 +16242,8 @@ zlon3.to
 zlon4.at
 zlon4.cc
 zlon4.to
+zlon5.at
+zlon5.cc
 zlon5.to
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9343
