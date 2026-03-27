@@ -96275,3 +96275,8 @@ res-railway.com
 loginportal-id75328983.com
 q7.loginportal-id75328983.com
 inbank.loginportal-id75328983.com
+
+# Reference: https://x.com/skocherhan/status/2037254156386230575
+
+b3ach.top
+vote.b3ach.top
