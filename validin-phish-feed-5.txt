@@ -96213,4 +96213,7 @@ pcn-parkingy.shop
 # Reference: https://x.com/ShadowOpCode/status/2037543482730901965
 
 auth-login-dashboard.com
+area-clienti-aruba.auth-login-dashboard.com
+area-clienti-aruba-rinnovo.auth-login-dashboard.com
 areaclienti-intesassanpaolo.auth-login-dashboard.com
+com.auth-login-dashboard.com
