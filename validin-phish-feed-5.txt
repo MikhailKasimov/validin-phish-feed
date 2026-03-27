@@ -13436,6 +13436,8 @@ m-firefox.com
 
 # Reference: https://x.com/Malwarehunterr/status/2030346651034870265
 # Reference: https://malwr-analysis.com/2026/02/18/kraken-darknet-access-via-clearnet-gateways/
+# BANNER_0_HASH-HOST=484ba81cf46dbe733c137723539860f3
+# BANNER_0_HASH-HOST=d390273d4bcdebe6eb9c6c5605d65835
 # FAVICON_HASH-HOST=88dce50c34a848e75b6c7d916711e6b9
 # TITLE-HOST=KRAKEN
 
@@ -13445,6 +13447,8 @@ m-firefox.com
 1crab.cc
 1km.one
 1km.onl
+1krab5.cc
+1krab5.top
 1krnm.cc
 1mkr.cc
 1slon4.cc
@@ -13456,6 +13460,7 @@ m-firefox.com
 2kk-cx.com
 2kn.shop
 2knrm.com
+2kra45.cc
 2kramarket.com
 2krc.cc
 2krkn.club
@@ -13533,7 +13538,9 @@ blspat.at
 blspat.icu
 blspats.ru
 blspatt.cc
+blspe.shop
 blspi.cc
+blspl.at
 blspn.at
 blspr-cc.ru
 blsps-at.art
@@ -13543,11 +13550,14 @@ bs-2--web.ru
 bs-2web-at.ru
 bs-lp.cfd
 bs01.cc
+bs2026.at
 bs24best.cc
 bs2beat-at.ru
+bs2besstt.at
 bs2best--at.ru
 bs2best.click
 bs2besta.cc
+bs2bestl.ru
 bs2besty.ru
 bs2clear.cc
 bs2web---at.ru
@@ -13556,10 +13566,12 @@ bs2web-cc.ru
 bs2web10.shop
 bs2web13.shop
 bs2webat.shop
+bs2webl.ru
 bs2webs.co
 bs3web.shop
 bslspl.cc
 bsmp.cc
+bspl.site
 bsprut.net
 bss1.site
 buybitcodwa.com
@@ -13608,6 +13620,7 @@ captcha.zlon3.to
 career.alsfuttaim.com
 cckraken.shop
 chat.omess.icu
+chlen5545435.store
 cicrana.com
 ckra33.cc
 ckvirt.online
@@ -13623,6 +13636,7 @@ cpcalendars.diepost-l.com
 cpcalendars.verificar-santander.com
 cpcontacts.111-90-140-93.cprapid.com
 cra36.shop
+cra38.com
 cra41.com
 cra44.com
 cra442.cc
@@ -13639,6 +13653,7 @@ crab4.at
 crab5-cc.ru
 crab5.at
 crab5.cc
+crab5.shop
 crab6.at
 crab6.ru
 crab7.ru
@@ -13673,6 +13688,7 @@ fumigacioneskraken.com
 geekko.cc
 gekkkco.co
 gekkkko.pics
+getimage5.com
 gfhhfcgcb.com
 giampolini.net
 git.kra13cc.cc
@@ -13680,8 +13696,11 @@ gl-kra11.cc
 gnom2.my
 goldenspaints.com
 gowayaway.top
+gwuqiwowusgs.sbs
 help.kra13cc.cc
 home.kra13cc.cc
+http----krab3----cc.ru
+http---krab3---cc.ru
 http-kra-37-cc.ru
 http-kra2.at
 http-kra3.at
@@ -13695,6 +13714,9 @@ http-kra37-at.ru
 http-kra42cc.ru
 http-krab5-at.ru
 http-krab5-cc.ru
+https----krab3----cc.ru
+https---krab3---at.ru
+https---krab3---cc.ru
 https--blsp--at.ru
 https--blsp-at.ru
 https--kra-32-cc.ru
@@ -13821,6 +13843,7 @@ kr2026.cc
 kr24.sbs
 kr24.vip
 kr25in.one
+kr27c.cc
 kr2at.cc
 kr2ken.shop
 kr2n.cc
@@ -14124,6 +14147,7 @@ kra-9-cc.net
 kra-9at.com
 kra-9cc.net
 kra-9gl.com
+kra-a30.cc
 kra-at.rs
 kra-b1.cc
 kra-b4--cc.ru
@@ -14288,6 +14312,7 @@ kra20-ccc.cc
 kra20-ccc.com
 kra20-gl.net
 kra202.cc
+kra2026.cc
 kra203.cc
 kra20at.cc
 kra20cc-att.com
@@ -14550,6 +14575,7 @@ kra40--cc.cc
 kra40--cc.com
 kra40-cc.cc
 kra40.ar
+kra40.my
 kra40.org
 kra40.st
 kra40at.cc
@@ -14618,6 +14644,7 @@ kra47at.ltd
 kra47att.cc
 kra47vpn.com
 kra48-at.net
+kra48.art
 kra48at.net
 kra48att.cc
 kra48cc.net
@@ -14625,6 +14652,7 @@ kra48shop.cc
 kra49-at.com
 kra49-at.net
 kra49.art
+kra49.live
 kra49.org
 kra49.sbs
 kra495.cc
@@ -14681,6 +14709,7 @@ kra578.cc
 kra58.com
 kra59.shop
 kra5bat.cc
+kra5bb.com
 kra5cc-web.com
 kra5gl.com
 kra5gl.net
@@ -14786,6 +14815,8 @@ kraab-5-c-cc.ru
 kraab5.com
 kraak39.cc
 kraaw.cc
+krab----3----at.ru
+krab----3----cc.ru
 krab----4----at.ru
 krab----6---cc.ru
 krab---4---at.ru
@@ -14842,6 +14873,7 @@ krab11-at.net
 krab11-cc.cc
 krab12-at.cc
 krab12-cc.cc
+krab123.com
 krab127.cc
 krab128.cc
 krab13-at.cc
@@ -14878,6 +14910,7 @@ krab2.com
 krab2.ru
 krab20-at.cc
 krab20-cc.cc
+krab2026.cc
 krab2at.at
 krab2cc.cc
 krab2cc.com
@@ -14886,6 +14919,8 @@ krab2market.cc
 krab2rc.com
 krab2tor.com
 krab2vpn.com
+krab3--at.cc
+krab3-at-cc.ru
 krab3-at.cc
 krab3-cc.cc
 krab3-market.cc
@@ -14906,13 +14941,16 @@ krab4-at.cc
 krab4-at.net
 krab4-cc.cc
 krab4-market.cc
+krab4.best
 krab4.ca
 krab4.com
 krab4.ru
 krab4at.cc
 krab4b.cc
 krab4cc.com
+krab4i.cc
 krab4market.cc
+krab4v.cc
 krab5--ccc.ru
 krab5-at.cc
 krab5-c--cc.ru
@@ -14922,7 +14960,9 @@ krab5-cc.net
 krab5-ccc.ru
 krab5-cccc.ru
 krab5.ca
+krab5.cc
 krab5.com
+krab5.life
 krab5.my
 krab5.ru
 krab5.us
@@ -14941,12 +14981,14 @@ krab5i.cc
 krab5k.at
 krab5k.cc
 krab5market.cc
+krab5u.cc
 krab6-at.cc
 krab6-ccc.ru
 krab6-market.cc
 krab6.ca
 krab6.com
 krab6.my
+krab6.store
 krab6at-zerkalo.ru
 krab6at.cc
 krab6att.ru
@@ -14964,6 +15006,7 @@ krab7a.cc
 krab7at-at.ru
 krab7at.cc
 krab7b.cc
+krab7c.com
 krab7market.cc
 krab8-at.cc
 krab8-at.net
@@ -15002,7 +15045,9 @@ krabl12.com
 krabl16.com
 krabl19.com
 krabl4.cc
+krabl4.ru
 krabmarket1.cc
+krabo3.cc
 krabo6.cc
 krabr5-cc.ru
 krabs3.store
@@ -15244,6 +15289,7 @@ kraken014.at
 kraken024.site
 kraken1.cz
 kraken1.sbs
+kraken1.su
 kraken10.net
 kraken106.com
 kraken11-at-kra.com
@@ -15568,6 +15614,7 @@ krap8.com
 kraq22.cc
 kraq6.cc
 krar29.cc
+krash.cc
 krashop.net
 krashop.sbs
 krat32.cc
@@ -15682,6 +15729,7 @@ krknshp.cc
 krkr1cc.ru
 krla30.at
 krla30.cc
+krmgbs.shop
 krn-1cj.pages.dev
 krn09.cc
 krn1kv.com
@@ -15799,6 +15847,7 @@ omg-omg-omg-omg.cc
 omg-omg-omg.cc
 omg-omg.cc
 omg-up10.cc
+omg77.at
 omgdark.shop
 omgomg.cc
 omgomg22.shop
@@ -15817,6 +15866,7 @@ omgshop.cc
 omgup-10.ru
 omgup-7.at
 omgup.me
+omgup1.buzz
 omgup10.icu
 omgup10.ru
 omgup100at.ru
@@ -15827,6 +15877,7 @@ onesharenote.top
 onion-tor.cc
 paradicedoor.com
 paradisedoor.net
+photo8384.space
 photos.krakn.cloud
 pop.kra13cc.cc
 pq.krab5at.cc
@@ -15945,8 +15996,10 @@ slon2-to.cc
 slon2.net
 slon2.org
 slon2.vu
+slon2026.cc
 slon22.lat
 slon228.cc
+slon247.cc
 slon2at.at
 slon2cc.cc
 slon2ccat.ru
@@ -16198,6 +16251,7 @@ xn--krakn35-uya.com
 xn--krakn37-rt4c.com
 xn--krakn7-l4a.com
 xn--kran-xva5q.com
+xn--krb2-roa.at
 xn--krken-k11b.com
 xn--krken-ucc.cc
 xn--krken-ucc.com
