@@ -96280,3 +96280,7 @@ inbank.loginportal-id75328983.com
 
 b3ach.top
 vote.b3ach.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9523
+
+ifuelpass.org
