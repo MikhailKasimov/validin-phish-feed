@@ -96209,3 +96209,8 @@ pcn-parkingy.art
 pcn-parkingy.cn
 pcn-parkingy.icu
 pcn-parkingy.shop
+
+# Reference: https://x.com/ShadowOpCode/status/2037543482730901965
+
+auth-login-dashboard.com
+areaclienti-intesassanpaolo.auth-login-dashboard.com
