@@ -96365,3 +96365,9 @@ serviceloginsromingi.interactiveci.cv
 serviceloginsumpa.interactiveci.cv
 sevenlogvibersa.interactiveci.cv
 www-ledger-service.interactiveci.cv
+
+# Reference: https://x.com/Malwarehunterr/status/2037939899022840045
+
+bitdefendercentrall.pages.dev
+bitllocker.pages.dev
+bitlockerguide.pages.dev
