@@ -96347,3 +96347,21 @@ whidc.workers.dev
 xieleihan.workers.dev
 xinhhhhh.2785565542.workers.dev
 zzbc.workers.dev
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9529
+
+interactiveci.cv
+alfaromioa.interactiveci.cv
+blocachain---freaa.interactiveci.cv
+logins-sum-lodi.interactiveci.cv
+loiginsafreea.interactiveci.cv
+maillsumpafree--lifesta.interactiveci.cv
+metamas-kwxtension.interactiveci.cv
+metamask-mobile-app.interactiveci.cv
+metamasleadin-cryptowalletplatsea.interactiveci.cv
+openbankpay-logins.interactiveci.cv
+serviceloginspatra.interactiveci.cv
+serviceloginsromingi.interactiveci.cv
+serviceloginsumpa.interactiveci.cv
+sevenlogvibersa.interactiveci.cv
+www-ledger-service.interactiveci.cv
