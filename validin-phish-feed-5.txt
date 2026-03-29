@@ -96988,3 +96988,7 @@ wann-ptero.snitech.biz.id
 wann-ptero.spaced.web.id
 webhelp-ledger.com
 zaybackk.my.id
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9539
+
+summer2025-eucs1.com
