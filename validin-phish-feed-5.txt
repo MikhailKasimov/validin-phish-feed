@@ -13441,6 +13441,7 @@ m-firefox.com
 # FAVICON_HASH-HOST=88dce50c34a848e75b6c7d916711e6b9
 # TITLE-HOST=KRAKEN
 
+02kmp.at
 10kta.at
 111-90-140-93.cprapid.com
 1bs2best.xyz
@@ -13661,6 +13662,7 @@ cracow.sbs
 creddigital.digital
 crm.bizesmedia.com
 cryptoz.su
+cy.feriezekonomia.pl
 cyberpunkgallery.com
 d.kra13cc.cc
 darkmp.info
@@ -14807,6 +14809,7 @@ kraa28-cc.com
 kraa3-cc.com
 kraa31-at.com
 kraa31-cc.com
+kraa37c.cc
 kraa4-at.com
 kraa4-at.net
 kraa4-gl.com
