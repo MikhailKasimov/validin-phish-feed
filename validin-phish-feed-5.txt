@@ -97007,3 +97007,7 @@ summer2025-eucs1.com
 # Reference: https://x.com/Malwarehunterr/status/2038182258117612025
 
 wsservice.top
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9555
+
+stgerogerewardsd-homes.info
