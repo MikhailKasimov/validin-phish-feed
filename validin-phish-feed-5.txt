@@ -97011,3 +97011,10 @@ wsservice.top
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9555
 
 stgerogerewardsd-homes.info
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9557
+
+3vv28ada.pro
+jpbocukheb.icu
+movewitheaze.com
+noodlewavetx.com
