@@ -97018,3 +97018,8 @@ stgerogerewardsd-homes.info
 jpbocukheb.icu
 movewitheaze.com
 noodlewavetx.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9564
+
+costadorada.cl
+messagerie.de
