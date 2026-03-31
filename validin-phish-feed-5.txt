@@ -97042,3 +97042,8 @@ quiztoolbox.com
 studyeffect.com
 testbooksolutions.com
 wikicram.com
+
+# Reference: https://x.com/PhishStats/status/2038768024224751776
+
+grv961010.pro
+turtleman.grv961010.pro
