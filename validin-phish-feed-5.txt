@@ -97023,3 +97023,8 @@ noodlewavetx.com
 
 costadorada.cl
 messagerie.de
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9575
+
+akali.my.id
+tiktok-livestreaming-roblox.blogspot.com
