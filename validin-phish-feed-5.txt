@@ -97028,3 +97028,17 @@ messagerie.de
 
 akali.my.id
 tiktok-livestreaming-roblox.blogspot.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9583
+# Reference: https://raw.githubusercontent.com/Kurtoid/honorlock-honeypot-list/main/live-sites-blocklist
+
+buzzfolder.com
+copyhomework.com
+coursecopy.com
+examequip.com
+gradepack.com
+quizlookup.com
+quiztoolbox.com
+studyeffect.com
+testbooksolutions.com
+wikicram.com
