@@ -97052,3 +97052,9 @@ turtleman.grv961010.pro
 
 energyrockradio.com
 pilotenergy.me
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9595
+
+blueoceanacademy.com
+kirjauduomakanta-fi.com
+url905.blueoceanacademy.com
