@@ -101391,3 +101391,9 @@ zip-wps.com
 
 com-hubpropertys.com
 booking.com-hubpropertys.com
+
+# Reference: https://x.com/smica83/status/2040174819128279056
+# Reference: https://urlscan.io/result/019d5526-8bbb-72ee-bda7-9d0eff91816d/
+
+d3cor.top
+vote.d3cor.top
