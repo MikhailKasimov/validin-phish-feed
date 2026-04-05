@@ -13534,6 +13534,8 @@ bls2web.ru
 blsp-att.ru
 blsp-attt.ru
 blsp-bs2web.ru
+blsp-ru.online
+blsp-ru.ru
 blsp.es
 blsp1.cc
 blsp2web.live
@@ -13552,6 +13554,7 @@ book.kra13cc.cc
 bs-2--web.ru
 bs-2web-at.ru
 bs-lp.cfd
+bs.mba
 bs01.cc
 bs2026.at
 bs24best.cc
@@ -15740,6 +15743,7 @@ krkr1cc.ru
 krla30.at
 krla30.cc
 krmgbs.shop
+krmpt12.cc
 krn-1cj.pages.dev
 krn09.cc
 krn1kv.com
@@ -16073,11 +16077,13 @@ slon5to.cc
 slon6-market.cc
 slon6-to.cc
 slon6.biz
+slon6l.cc
 slon6market.cc
 slon6to.cc
 slon7-at.cc
 slon7-market.cc
 slon7-to.cc
+slon7.us
 slon7market.cc
 slon7marketto.cc
 slon8-at.cc
@@ -16090,6 +16096,7 @@ slon9-cc.cc
 slon9-market.cc
 slon9market.cc
 slon9to.cc
+slonkr.cc
 slonl5.at
 slonmarket9.cc
 slonn03.cc
@@ -16193,8 +16200,11 @@ www--krab5cc.ru
 www--slon2at.ru
 www--slon2cc.ru
 www--slon3at.ru
+www--slon4at.ru
 www--slon5at.ru
 www--slon5cc.ru
+www--slon6at.ru
+www--slon6cc.ru
 www-blsp---at.ru
 www-blsp-att.ru
 www-kra-35-at.ru
@@ -16220,6 +16230,7 @@ www-slon2-att.ru
 www-slon2-cc.ru
 www-slon2-to.ru
 www-slon3-cc.ru
+www-slon3-to.ru
 www-slon3at.ru
 www-slon3cc.ru
 www-slon3to.ru
@@ -16233,6 +16244,8 @@ www-slon5at.ru
 www-slon5cc.ru
 www-slon6-at.ru
 www-slon6-cc.ru
+www-slon6at.ru
+www-slon6cc.ru
 wwwblsp-at.ru
 wwwblspat.ru
 wzmkq2zvyl.shuewiiwhe.sbs
@@ -16318,6 +16331,7 @@ xn--raken-ni1b.cc
 xn--rken-qzb2914b.com
 xn--sln1-6qa.cc
 xn--sln2-6qa.cc
+xn--sln5-mqa.at
 xn--son2-50a.cc
 xtreamiptvhd.com
 yd.kraken-2krn.vip
@@ -16336,6 +16350,7 @@ zlon4.to
 zlon5.at
 zlon5.cc
 zlon5.to
+zlon6.cc
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9343
 # BANNER_0_HASH-HOST=46099fe54e57958052d1be8b8618ecca
