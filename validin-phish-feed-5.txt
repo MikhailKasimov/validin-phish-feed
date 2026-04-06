@@ -16351,6 +16351,7 @@ zlon5.at
 zlon5.cc
 zlon5.to
 zlon6.cc
+zlon6.to
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9343
 # BANNER_0_HASH-HOST=46099fe54e57958052d1be8b8618ecca
