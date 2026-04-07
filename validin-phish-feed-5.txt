@@ -105171,22 +105171,33 @@ zzxgn.es
 
 # Reference: https://x.com/Malwarehunterr/status/2041541576606826599
 
+boostdownloadspeedfast.autos
 bowl-stairs-fire-table.autos
 bowl-word-interior.autos
+bowlfoundfloorceil.autos
 bowlstairsfiretable.autos
 bowlword.autos
 candle-plumb-table-interior.autos
 candleceil.autos
 candleceilbowlinterior.autos
 candleplumbtableinterior.autos
+cleanpopularfast.autos
+cleanpopularfastdevice.autos
 downloadcleanpremiumeffective.autos
+downloadnationalrecommenddevice.autos
 fireinterior.autos
 fireprotectfoundceil.autos
 floor-bowl-protect-stairs.autos
 floorceilfound.autos
 freesuperiorpopularnational.autos
+guardinstall.autos
+interiorfirecandletable.autos
+interiortablefireword.autos
+nationalrecommendspeeddownload.autos
 plumbtablefloorprotect.autos
 protectcandleceiltable.autos
+smartfree.autos
+speeddownload.autos
 stairs-word-bowl-found.autos
 table-found-fire-interior.autos
 tablefoundfireinterior.autos
