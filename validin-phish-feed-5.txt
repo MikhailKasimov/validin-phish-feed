@@ -105168,3 +105168,26 @@ zvptaird.ru
 zvsdvf.es
 zynovo.es
 zzxgn.es
+
+# Reference: https://x.com/Malwarehunterr/status/2041541576606826599
+
+bowl-stairs-fire-table.autos
+bowl-word-interior.autos
+bowlstairsfiretable.autos
+bowlword.autos
+candle-plumb-table-interior.autos
+candleceil.autos
+candleceilbowlinterior.autos
+candleplumbtableinterior.autos
+downloadcleanpremiumeffective.autos
+fireinterior.autos
+fireprotectfoundceil.autos
+floor-bowl-protect-stairs.autos
+floorceilfound.autos
+freesuperiorpopularnational.autos
+plumbtablefloorprotect.autos
+protectcandleceiltable.autos
+stairs-word-bowl-found.autos
+table-found-fire-interior.autos
+tablefoundfireinterior.autos
+wordfloortable.autos
