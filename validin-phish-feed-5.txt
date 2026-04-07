@@ -105191,3 +105191,15 @@ stairs-word-bowl-found.autos
 table-found-fire-interior.autos
 tablefoundfireinterior.autos
 wordfloortable.autos
+
+# Reference: https://x.com/Malwarehunterr/status/2040510981961650203
+
+contenderreviews.work
+prohire.life
+prohire.pro
+stagecons.app
+thedirectprojects.app
+webuybeds.work
+wintrack.xyz
+x-hire.work
+xhire.cc
