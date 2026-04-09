@@ -15981,6 +15981,7 @@ slon-5at.cc
 slon-7at.cc
 slon-8cc.cc
 slon-9at.cc
+slon-9cc.cc
 slon-kra.cc
 slon-market10.cc
 slon-market11.cc
@@ -16083,6 +16084,7 @@ slon5to.cc
 slon6-market.cc
 slon6-to.cc
 slon6.biz
+slon6at.at
 slon6l.cc
 slon6market.cc
 slon6to.cc
@@ -16103,6 +16105,9 @@ slon9-market.cc
 slon9.rest
 slon9market.cc
 slon9to.cc
+slona6.at
+slona6.cc
+slona6.to
 slonkr.cc
 slonl5.at
 slonmarket9.cc
