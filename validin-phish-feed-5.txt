@@ -105475,3 +105475,8 @@ mcgiftcardmall.net
 porezna.info
 porezna.today
 vanillaprepaidcards.net
+
+# Reference: https://x.com/Malwarehunterr/status/2042327063839813830
+
+nexuslendfree.store
+app.nexuslendfree.store
