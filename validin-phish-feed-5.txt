@@ -105498,4 +105498,5 @@ verityai.co
 
 bowlwordinterior.autos
 download-national-recommend-device.autos
+cdn.bowlwordinterior.autos
 cdn.download-national-recommend-device.autos
