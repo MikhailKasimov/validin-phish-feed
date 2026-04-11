@@ -105500,3 +105500,8 @@ bowlwordinterior.autos
 download-national-recommend-device.autos
 cdn.bowlwordinterior.autos
 cdn.download-national-recommend-device.autos
+
+# Reference: https://x.com/BushidoToken/status/2043064650565099712
+
+onmicrosoft.uk
+login.onmicrosoft.uk
