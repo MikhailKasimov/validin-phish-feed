@@ -105512,3 +105512,7 @@ login.onmicrosoft.uk
 # Reference: https://x.com/ctrlaltintel/status/2043261340798558689
 
 redeliver.xyz
+
+# Reference: https://x.com/volrant136/status/2043396297885978823
+
+fortinetlabs.org
