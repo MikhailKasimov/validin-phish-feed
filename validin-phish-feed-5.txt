@@ -105505,3 +105505,7 @@ cdn.download-national-recommend-device.autos
 
 onmicrosoft.uk
 login.onmicrosoft.uk
+
+# Reference: https://x.com/ctrlaltintel/status/2043261340798558689
+
+redeliver.xyz
