@@ -105752,3 +105752,8 @@ onlinebnk-sm1tbp.com
 
 sesale.shop
 mio.sesale.shop
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.138.16.64/relations
+
+averstsosupport.com
+cyber-tools.net
