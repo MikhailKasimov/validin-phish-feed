@@ -105741,3 +105741,8 @@ onlinebnk-sm1tbl.com
 onlinebnk-sm1tbm.com
 onlinebnk-sm1tbo.com
 onlinebnk-sm1tbp.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9773
+
+sesale.shop
+mio.sesale.shop
