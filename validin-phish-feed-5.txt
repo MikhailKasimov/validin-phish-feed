@@ -106489,3 +106489,47 @@ zouzoogu.ru
 # Reference: https://x.com/Merlax_/status/2045253468093317520
 
 incidenteslogisticos.site
+
+# Reference: https://x.com/Malwarehunterr/status/2045430908413497799
+
+04-ledger.com
+05-ledger.com
+09-ledger.com
+11-ledger.com
+15-ledger.com
+16-ledger.com
+auth-ledger.at
+auth2-trezor.com
+auth3-trezor.com
+auth4-trezor.com
+auth5-ledger.com
+auth7-ledger.com
+author-trezor.com
+authory-trezor.com
+authy-ledger.at
+authy-ledger.gl
+authy1-trezor.com
+authy2-trezor.com
+backup.myauthorization-ledger.live
+backup.mywallet-ledger.live
+ident-trezor.com
+identfy-trezor.com
+identify-ledger.at
+ledger.at
+link-trezor.com
+my-ledger.at
+myauthorization-ledger.live
+mywallet-ledger.live
+priv-trezor.com
+private-trezorio.com
+privatelink-trezor.com
+ref-trezor.com
+refy-trezor.com
+sync-trezorio.com
+synch-trezor.com
+trezor-visit.com
+upgradetrezor.com
+visit-identification.com
+visit-ledger.com
+visit-trezor.com
+visit-upgrade.com
