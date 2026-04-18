@@ -106512,6 +106512,7 @@ authy1-trezor.com
 authy2-trezor.com
 backup.myauthorization-ledger.live
 backup.mywallet-ledger.live
+browseruphelp.com
 ident-trezor.com
 identfy-trezor.com
 identify-ledger.at
