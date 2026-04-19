@@ -108096,3 +108096,18 @@ zxcvdafgd.de
 # Reference: https://x.com/Malwarehunterr/status/2045753060849529122
 
 benplan.agr.br
+
+# Reference: https://x.com/Malwarehunterr/status/2045910756626178310
+
+danamoney.live
+easypaisamoney.online
+finance-ao.pages.dev
+finance-ls.cash-survvey.com
+finance-ls.pages.dev
+finance-za.cash-survvey.com
+finance-za.pages.dev
+finance-zw.pages.dev
+financev2-oldzones.pages.dev
+wantmoney.site
+wantmoney.space
+wantmoney.xyz
