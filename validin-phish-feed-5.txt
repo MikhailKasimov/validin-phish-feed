@@ -106965,6 +106965,7 @@ dailyinspiration.digital
 dailyvin.net
 dains-co.uk
 dangkysunwin.com
+daplo-lastminute.site
 darrengates.com
 davesautoacc.live
 dealerhondasangatta.com
@@ -107785,6 +107786,7 @@ security-cloud.cfd
 security-uphold.com
 segwit-secure.com
 sender._domainkey.nustar.energy
+sensorhub.ttn-kbs.de
 serumsubsidemug.digital
 server1.becauseyourspecial
 servicegrailed.com
@@ -107937,10 +107939,12 @@ tradestaitons.com
 tradingviewap.com
 tradistaiton.com
 transk-sing-us.com
+travelai.duckdns.org
 tripcom998937.com
 tripletscomic.com
 trustmenetwork.com
 tsibouris.org
+ttn-kbs.de
 tubs-guest.com
 tumbobo.de
 tutoss-343554.rest
@@ -108088,3 +108092,7 @@ zo.vin
 zooskfrauds.com
 zpetcgnd.vip
 zxcvdafgd.de
+
+# Reference: https://x.com/Malwarehunterr/status/2045753060849529122
+
+benplan.agr.br
