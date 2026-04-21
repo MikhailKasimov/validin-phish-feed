@@ -108804,3 +108804,8 @@ w-bdo.cc
 x-bdo.cc
 y-bdo.cc
 z-bdo.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9912
+
+meinlhkde.com
+mijnkbweb.meinlhkde.com
