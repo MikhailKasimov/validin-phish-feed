@@ -108809,3 +108809,7 @@ z-bdo.cc
 
 meinlhkde.com
 mijnkbweb.meinlhkde.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/9913
+
+openbankpay-logins.letscurke.app
