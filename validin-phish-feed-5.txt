@@ -108837,6 +108837,7 @@ voicem.poprexahiugui.help
 # Reference: https://x.com/Merlax_/status/2046189636469297363
 
 a6a.mytemp.website
+fanmiscuentas.fun
 flatorcedor.com
 ingresosflamengo.com
 ingressosflaamengo.online
@@ -108846,3 +108847,21 @@ mail.ingressosflamengoa.com
 riveraso.com
 riverid.riveraso.com
 ykv.a6a.mytemp.website
+
+# Reference: https://x.com/Merlax_/status/2046047565913661914
+
+9dd865e31ab34253.reportinfo.online
+civfin.com
+egovofficial.com
+fincen.im
+ftc-idreport.us
+ftc-report-form.pages.dev
+ftc-report.us
+grantusgov.com
+immis.online
+psa-gov.com
+reportinfo.online
+vmpgov.kz
+vmp-gov-kz.com
+vmp.gov.kz.vmpgov.kz
+x711fbf5b.ftc-idreport.us
