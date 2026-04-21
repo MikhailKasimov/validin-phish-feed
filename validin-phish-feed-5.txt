@@ -108813,3 +108813,7 @@ mijnkbweb.meinlhkde.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/9913
 
 openbankpay-logins.letscurke.app
+
+# Reference: https://x.com/Malwarehunterr/status/2046674570493808827
+
+instagram-ssew.vercel.app
