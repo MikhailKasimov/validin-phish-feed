@@ -13718,6 +13718,7 @@ crab5.at
 crab5.cc
 crab5.shop
 crab6.at
+crab6.cc
 crab6.ru
 crab6.shop
 crab7.ru
@@ -13775,6 +13776,7 @@ fumigacioneskraken.com
 gcepgroup.com
 gcssjx.com
 geekko.cc
+gekkk.biz
 gekkkco.co
 gekkkko.pics
 getimage5.com
@@ -13813,6 +13815,7 @@ http-kra37-at.ru
 http-kra42cc.ru
 http-krab5-at.ru
 http-krab5-cc.ru
+http-slon3at.ru
 https----krab3----cc.ru
 https---krab3---at.ru
 https---krab3---cc.ru
@@ -15235,6 +15238,7 @@ krak-9at.com
 krak-codes.com
 krak-link.cc
 krak.codes
+krak.lol
 krak.xin
 krak08.cc
 krak09.cc
@@ -15490,6 +15494,7 @@ kraken14-at.com
 kraken14-att.net
 kraken14-kra-at.com
 kraken14.co.at
+kraken14.network
 kraken14at.vip
 kraken15-att.net
 kraken15at-at.com
@@ -15754,6 +15759,7 @@ krakendex.me
 krakendex.net
 krakendex.top
 krakendex.vip
+krakendz.shop
 krakenes.vip
 krakenfo-3a3.pages.dev
 krakenfo.pages.dev
@@ -15796,6 +15802,7 @@ krakensitedarknet.net
 krakenssylka-darknetmarket.cc
 krakentor.online
 krakentrades.site
+krakenup.cc
 krakenvip.cc
 krakenvip.co
 krakenvip.me
@@ -16435,6 +16442,7 @@ slon1.org
 slon1.su
 slon10-at.cc
 slon10-cc.cc
+slon10.lol
 slon10.su
 slon10market.cc
 slon18c.cc
@@ -16452,6 +16460,7 @@ slon2-c.cc
 slon2-cc.cc
 slon2-market.cc
 slon2-to.cc
+slon2-to.lol
 slon2.biz
 slon2.my
 slon2.net
@@ -16525,6 +16534,7 @@ slon6-market.cc
 slon6-to.cc
 slon6.biz
 slon6.io
+slon6.lol
 slon6.su
 slon6a.cc
 slon6at.at
@@ -16538,6 +16548,7 @@ slon7-at.cc
 slon7-kra.cc
 slon7-market.cc
 slon7-to.cc
+slon7.biz
 slon7.io
 slon7.lol
 slon7.us
@@ -16548,6 +16559,7 @@ slon8-at.cc
 slon8-cc.cc
 slon8-to.cc
 slon8.icu
+slon8.lol
 slon8market.cc
 slon8to.cc
 slon9-at.cc
@@ -16558,6 +16570,7 @@ slon9.rest
 slon9.su
 slon9market.cc
 slon9to.cc
+slona-6cc.ru
 slona6.at
 slona6.cc
 slona6.to
@@ -16644,6 +16657,7 @@ vk017.at
 vk1-at.com
 vk1.at
 vk102.com
+vk12.xyz
 vk13.com
 vk15-at.com
 vk15at.com
@@ -16772,6 +16786,7 @@ xn--kr36-cta.com
 xn--kr37-cta.cc
 xn--kr37-rzb.com
 xn--kr39-r5b.cc
+xn--kr43-1na.at
 xn--kr43-rzb.com
 xn--kr45-rzb.cc
 xn--kr45-rzb.com
@@ -16837,6 +16852,7 @@ xn--rken-qzb2914b.com
 xn--sln1-6qa.cc
 xn--sln2-6qa.cc
 xn--sln5-mqa.at
+xn--slo6-d3a.cc
 xn--son2-50a.cc
 xn--son5-01a.to
 xn--son7-01a.to
