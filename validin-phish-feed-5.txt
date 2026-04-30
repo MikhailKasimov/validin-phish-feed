@@ -110001,3 +110001,8 @@ reservaspuertomadero.online
 greenwoodinvestmentsltd.com
 greenwoodinvestmentsltd.pro
 greenwoodsinvestmentsltd.pro
+
+# Reference: https://www.virustotal.com/gui/ip-address/34.149.87.45/relations
+
+info-energy.online
+ru.info-energy.online
