@@ -110043,3 +110043,7 @@ ru.info-energy.online
 # Reference: https://x.com/Malwarehunterr/status/2050130180778410354
 
 reliable-queijadas.netlify.app
+
+# Reference: https://x.com/500mk500/status/2050913265396412421
+
+ledger-desktop.io
