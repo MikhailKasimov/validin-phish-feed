@@ -1037,6 +1037,13 @@ wisconsin.gov-mxn.help
 wisconsin.gov-mxq.help
 wisconsin.gov-mxu.help
 
+# Reference: https://www.virustotal.com/gui/ip-address/45.148.103.35/relations
+
+escsenderfile.com
+nestlepurefile.com
+purenestle.info
+websecure-be.com
+
 # TITLE-HOST=KRAKEN
 
 http-slon-3at.ru
