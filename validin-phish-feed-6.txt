@@ -1044,6 +1044,10 @@ nestlepurefile.com
 purenestle.info
 websecure-be.com
 
+# Reference: https://x.com/volrant136/status/2051315920501694937
+
+ledgerlive-desktop.com
+
 # TITLE-HOST=KRAKEN
 
 http-slon-3at.ru
