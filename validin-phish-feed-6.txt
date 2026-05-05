@@ -164,6 +164,7 @@ arizona.gov-ohid.help
 arizona.gov-ohim.help
 arizona.gov-ohin.help
 arizona.gov-ohis.help
+due-mihf.com
 fl.tnze.cc
 fl.tnzq.cc
 fl.tnzr.cc
@@ -731,6 +732,7 @@ ky.gov-ynt.help
 ky.gov-ynu.help
 ky.gov-yny.help
 michigan.gov-krpz.help
+michigansos.due-mihf.com
 newmexico.gov-zca.help
 newmexico.gov-zci.help
 newmexico.gov-zco.help
