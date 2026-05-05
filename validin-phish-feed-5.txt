@@ -120854,7 +120854,6 @@ in.rlemxl.one
 index.messages.stream
 inference.altare.sh
 info.autoexpresovib.site
-infomaniak.ch
 informed.delihuftg.shop
 informed.delimklop.shop
 informed.delivcovnt.cfd
@@ -125574,8 +125573,6 @@ orgwc.cam
 orp-qwerg.life
 ot.vddgh.one
 otrooy.one
-ov-a64505.infomaniak.ch
-ov-cd22b4.infomaniak.ch
 ov.fwafk.one
 ov.ukjhxa.cc
 overlord.dev.ai-demo.canarytechnologies.com
