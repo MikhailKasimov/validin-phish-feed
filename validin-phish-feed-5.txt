@@ -113220,7 +113220,6 @@ dt-pay.hlxy.db9x.com
 dt-pay.sgdt.heartwaves.net
 dt-pay.sjy.heartwaves.net
 dtop-gov.cc
-duckdns.org
 dv90.vip
 dvbny.life
 dvegt.bond
