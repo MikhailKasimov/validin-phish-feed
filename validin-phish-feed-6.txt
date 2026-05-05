@@ -234,6 +234,7 @@ gov-hzs.help
 gov-jfob.help
 gov-jfom.help
 gov-jfon.help
+gov-krpz.help
 gov-laa.help
 gov-lad.help
 gov-lae.help
@@ -729,6 +730,7 @@ ky.gov-yns.help
 ky.gov-ynt.help
 ky.gov-ynu.help
 ky.gov-yny.help
+michigan.gov-krpz.help
 newmexico.gov-zca.help
 newmexico.gov-zci.help
 newmexico.gov-zco.help
