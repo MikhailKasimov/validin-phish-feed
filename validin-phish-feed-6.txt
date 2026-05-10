@@ -28475,3 +28475,7 @@ digitales-app.online
 digitales-net.online
 digitales-web.online
 es-digitales.online
+
+# Reference: https://x.com/Malwarehunterr/status/2052636000921477346
+
+donarimadafo.com
