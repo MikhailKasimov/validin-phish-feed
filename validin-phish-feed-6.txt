@@ -8047,6 +8047,7 @@ kpaken.at
 kpaken2.cc
 kr-kraken-kr.ru
 kr-kraken.ru
+kra--20.cc
 kra--37-at.cc
 kra-0.cc
 kra.lat
@@ -8278,6 +8279,7 @@ slon4-capcha.shop
 slon4atk.ru
 slon6.ltd
 slon6.nz
+slon67.shop
 slon7.ec
 slon8.biz
 slona.cc
