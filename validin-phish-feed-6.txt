@@ -31886,3 +31886,7 @@ netfilx-account.dynv6.net
 netfilx-membership.dynv6.net
 netfilx-rejoin.dynv6.net
 updatesubs-netfilx.dynv6.net
+
+# Reference: https://www.virustotal.com/gui/ip-address/45.61.135.234/relations
+
+transfer-48gh26-deposit.com
