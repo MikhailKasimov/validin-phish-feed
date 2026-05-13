@@ -31888,5 +31888,35 @@ netfilx-rejoin.dynv6.net
 updatesubs-netfilx.dynv6.net
 
 # Reference: https://www.virustotal.com/gui/ip-address/45.61.135.234/relations
+# Reference: https://urlscan.io/result/019e2142-d42e-751f-a7f2-911882aff65a/
+# REGEX=/^transfer-[a-z0-9]+-[a-z0-9]+\.com$/
 
+drive-online-google.com
+google-be-doc.com
+google-doc-form.com
+profiel-online.click
+profiel-transfer-wetransfer.com
+sdfgskesafdeayoutube.com
+sql-dropbox.info
 transfer-48gh26-deposit.com
+transfer-airport-barcelona.com
+transfer-brb-col.com
+transfer-cagliari-provincia.com
+transfer-documents-volvo.com
+transfer-id-79369458.com
+transfer-kaliningrad-eu.com
+transfer-kishinev-odessa.com
+transfer-marrakech-essaouira.com
+transfer-my-files.com
+transfer-pricing-dubai.com
+transfer-sql-dropbox.com
+transfer-stanton-lech.com
+transfer-strasbourg-baden.com
+transfer-strasbourg-basel.com
+transfer-strasbourg-frankfurt.com
+transfer-vilnius-minsk.com
+transfer-vip-igoumenitsa.com
+transfer-voice-bug.com
+transfer-zuerich-airport.com
+transfer-zuerich-lech.com
+transfer-zuerich-stanton.com
