@@ -31939,3 +31939,8 @@ transfer-voice-bug.com
 transfer-zuerich-airport.com
 transfer-zuerich-lech.com
 transfer-zuerich-stanton.com
+
+# Reference: https://x.com/skocherhan/status/2054699527420973255
+
+gfhrtt.com
+rakuten-card.gfhrtt.com
