@@ -36309,3 +36309,8 @@ portal-avail.im
 
 pmh.cprietorod.app
 pe-portal-admin-staging-2.firebaseapp.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10116
+
+1passvvord.org
+my.1passvvord.org
