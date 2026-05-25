@@ -47927,3 +47927,21 @@ zc4fa9b.com
 zd.rooms-propertys-pends.com
 zq.hotelconfirm-resguest.com
 zw.frontdesk-reservation.com
+
+# Reference: https://x.com/askardyuss/status/2029297083593941113
+
+albanpetroleumgroup.kz
+albanpetroleumgroupkz.kz
+altaypetroleum.kz
+altaypetroleumltd.kz
+amgoilsystem.kz
+atyraunpz.kz
+azia-oil.kz
+bertys-terminal.kz
+capitaleastoil.kz
+izumi-oil.kz
+kubera-petroleum.kz
+munaygorizont.kz
+rau-petroleum.kz
+sarmat-oil.kz
+sarzhaoil-terminal.kz
