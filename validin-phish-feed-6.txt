@@ -47945,3 +47945,7 @@ munaygorizont.kz
 rau-petroleum.kz
 sarmat-oil.kz
 sarzhaoil-terminal.kz
+
+# Reference: https://x.com/tial_cl/status/2058591850013798616
+
+pagowebpayplus.cl
