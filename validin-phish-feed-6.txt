@@ -47953,3 +47953,8 @@ pagowebpayplus.cl
 # Reference: https://www.virustotal.com/gui/ip-address/194.87.57.81/relations
 
 clevermarket.store
+
+# Reference: https://x.com/Gi7w0rm/status/2059020992345727167
+
+clientservices-tiffany.co
+xoauth-mgr-2026.fly.dev
