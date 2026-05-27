@@ -50279,3 +50279,8 @@ ukvisaportal.com
 
 asafointernationalmarket.com
 bzkvsjes.info
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10328
+
+get-bubasocks.com
+get-lumaglasses.com
