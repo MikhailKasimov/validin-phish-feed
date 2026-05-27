@@ -50270,3 +50270,7 @@ myluckydeals.space
 myluckydeals.xyz
 paysuccessful.space
 paysuccessfully.shop
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10330
+
+ukvisaportal.com
