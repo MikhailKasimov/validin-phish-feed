@@ -50274,3 +50274,8 @@ paysuccessfully.shop
 # Reference: https://github.com/hagezi/dns-blocklists/issues/10330
 
 ukvisaportal.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10325
+
+asafointernationalmarket.com
+bzkvsjes.info
