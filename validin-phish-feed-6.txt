@@ -67647,3 +67647,8 @@ zws8.top
 zwuva.cn
 zwwva.cn
 zygrch.easypanel.host
+
+# Reference: https://x.com/masaomi346/status/2061089640686424384
+
+zh-hub-1haoentertainment.com
+amazozon.zh-hub-1haoentertainment.com
