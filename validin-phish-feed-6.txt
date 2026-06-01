@@ -67652,3 +67652,7 @@ zygrch.easypanel.host
 
 zh-hub-1haoentertainment.com
 amazozon.zh-hub-1haoentertainment.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10369
+
+shurufar-sogou.com.cn
