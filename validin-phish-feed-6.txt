@@ -69039,3 +69039,8 @@ live.wallet.ledgerlivewallet.ind.in
 staking.ledger.ledgerlivewallet.ind.in
 wallet.ledger.ledgerlivewallet.ind.in
 wallet.ledgerlivewallet.org.nz
+
+# Reference: https://x.com/volrant136/status/2061477964286492818
+
+cms-portal-b020a-default-rtdb.firebaseio.com
+nid-bangladesh-cms-portal-registrat-theta.vercel.app
