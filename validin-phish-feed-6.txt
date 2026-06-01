@@ -68861,3 +68861,15 @@ zvmandks.app-deutschebank.com
 zweghncb.app-deutschebank.com
 zyvejoa3.ru.com
 zyvolaes.ru.com
+
+# Reference: https://x.com/masaomi346/status/2061267454006092184
+# Reference: https://www.virustotal.com/gui/ip-address/195.86.16.165/relations
+
+bvcvvb.com
+dsfszx.com
+fdscvx.com
+mnbnvb.com
+americanexpress.bvcvvb.com
+app-store.fdscvx.com
+biu-card.mnbnvb.com
+raku-ten.dsfszx.com
