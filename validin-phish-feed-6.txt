@@ -69156,3 +69156,12 @@ vipoandagbs.com
 /wpl010101E/i010101CT/clientviews/DI01010240
 /wpl010101E/i010101CT/
 /clientviews/DI01010240
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10385
+
+frcsh.lat
+alt.frcsh.lat
+auth.frcsh.lat
+cash.frcsh.lat
+freecash.frcsh.lat
+get.frcsh.lat
