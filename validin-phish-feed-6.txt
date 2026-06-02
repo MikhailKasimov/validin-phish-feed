@@ -69189,3 +69189,8 @@ web.antiddos.pw
 fnlvmt.com
 krachtverbinding.com
 fluwiube.fnlvmt.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10382
+
+polydistrib.com
+market.polydistrib.com
