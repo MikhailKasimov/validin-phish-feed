@@ -69183,3 +69183,9 @@ trezor-suite.com.co
 tronlink.org.mx
 v2-changelly.at
 web.antiddos.pw
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10381
+
+fnlvmt.com
+krachtverbinding.com
+fluwiube.fnlvmt.com
