@@ -69165,3 +69165,21 @@ auth.frcsh.lat
 cash.frcsh.lat
 freecash.frcsh.lat
 get.frcsh.lat
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10384
+
+144-31-231-231.ips.acedatacenter.com
+antiddos.pw
+api.steroidgear.org
+ebtnui69i48yvkz6.bytefend.to
+exobus.to
+exodus.com.ag
+lorcwl5wolnuevfoobmubvp300vrkjqb.bytefend.to
+mail.steroidgear.org
+pz.exobus.to
+simple-swap.at
+steroidgear.org
+trezor-suite.com.co
+tronlink.org.mx
+v2-changelly.at
+web.antiddos.pw
