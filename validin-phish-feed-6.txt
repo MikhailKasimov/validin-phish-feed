@@ -87996,8 +87996,24 @@ zyph-nexa.xyz
 zzcq678.xyz
 
 # Reference: https://x.com/skocherhan/status/2062186311532872041
+# TITLE-HOST=Innskráning - 1984 Hosting
 
+anabulugea.com
 aniamis.ro
+auto-diamond.ro
+fefetrans.ro
+jupitterpoinres.com
+vesy-scada.kz
+vesy-scadagroup.kz
+vetactivity.ro
+1984.anabulugea.com
+1984.auto-diamond.ro
+1984.fefetrans.ro
+1984.vesy-scada.kz
+1984.vesy-scadagroup.kz
 nazwa-santa.aniamis.ro
 poczta-polska.aniamis.ro
+poczta-polska.vetactivity.ro
 posturinn.aniamis.ro
+posturinn.fefetrans.ro
+skatturinn.vetactivity.ro
