@@ -88023,3 +88023,9 @@ skatturinn.vetactivity.ro
 sms-srl.eu
 320719696cc72dc167c60c19e9589b12.soraris.cloud
 users-word-presscom-signin.sms-srl.eu
+
+# Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-06-03-Pink-Extortion-Brand-Activity.txt
+
+deploypasskey.com
+passkeyadd.com
+passkeydeploy.com
