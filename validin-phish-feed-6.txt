@@ -88025,7 +88025,10 @@ sms-srl.eu
 users-word-presscom-signin.sms-srl.eu
 
 # Reference: https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel/blob/main/2026-06-03-Pink-Extortion-Brand-Activity.txt
+# BANNER_0_HASH-HOST=bef5028fc6e6360ca6d538a812dee0bf
 
 deploypasskey.com
 passkeyadd.com
 passkeydeploy.com
+setpasskey.com
+4p.setpasskey.com
