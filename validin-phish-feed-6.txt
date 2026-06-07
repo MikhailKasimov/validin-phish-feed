@@ -88100,3 +88100,8 @@ http://160.153.181.176
 # Reference: https://github.com/hagezi/dns-blocklists/issues/10427
 
 en-ledgr-live.hashnode.dev
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10428
+
+communitysectiongame.shop
+store.communitysectiongame.shop
