@@ -88096,3 +88096,7 @@ trymindboost.com
 
 http://160.153.181.176
 160.153.181.176:443
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10427
+
+en-ledgr-live.hashnode.dev
