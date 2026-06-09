@@ -88873,3 +88873,7 @@ customised.nz
 customisedcreations.online
 redword.smessierimessi.it
 wordpress-renewal.customisedcreations.online
+
+# Reference: https://www.virustotal.com/gui/ip-address/104.21.36.35/relations
+
+inform-first-srv.live
