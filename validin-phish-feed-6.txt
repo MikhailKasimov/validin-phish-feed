@@ -88876,7 +88876,12 @@ wordpress-renewal.customisedcreations.online
 
 # Reference: https://www.virustotal.com/gui/ip-address/104.21.36.35/relations
 
+5j3b49.net
+8dyk47.co
+etg4jy.app
 inform-first-srv.live
+rdvjqqo9.com
+y3w7i3.xyz
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/10452
 # Reference: https://github.com/hagezi/dns-blocklists/issues/10453
