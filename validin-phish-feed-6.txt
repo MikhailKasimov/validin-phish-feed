@@ -88902,3 +88902,7 @@ nanazip.cn
 nanazip.cn.dns.edgeone.app
 nanazip.cn.pages.dnsoe4.com
 zh.baidu-cn.com.cn
+
+# Reference: https://x.com/Malwarehunterr/status/2064303067693260916
+
+proposal-submission-5.s3.eu-north-1.amazonaws.com
