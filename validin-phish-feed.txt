@@ -22422,7 +22422,6 @@ msresvty.xyz
 # Reference: https://twitter.com/smica83/status/1125280623881588738
 
 cobal.ml
-otpbank.hu
 
 # Reference: https://twitter.com/blackorbird/status/1125308108773871617
 
