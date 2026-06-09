@@ -31278,10 +31278,6 @@ fi-onboarding.qa.app.fidsafe.com
 fi-onboarding.uat.app.fidsafe.com
 fi22lissawt.com
 ficsaestyssa.com
-fid-debitcard.bnymellon.com
-fid-debitcard.extadcqual.bnymellon.com
-fid-debitcard.extadctrsv.bnymellon.com
-fid-debitcard.qa.bnymellon.com
 fid-elityawyyh.shop
 fid-elityaxutd.cyou
 fid-elitycrxtg.qpon
