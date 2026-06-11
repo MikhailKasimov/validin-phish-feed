@@ -89687,3 +89687,7 @@ zm.upload-qr.com
 zp.onlineportal-services.com
 zugang-ayyildiz.com
 zv.setup-via.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10472
+
+steamstore-a.akamaihd.net
