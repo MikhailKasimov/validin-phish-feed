@@ -19011,7 +19011,6 @@ tl.xx3.kz
 tlancher.ru
 tlauncher-legacy.ru
 tlauncher.en.softonic.com
-tlauncher.ru
 tlauncher.softonic-ar.com
 tlauncher.softonic.cn
 tlauncher.softonic.com.br
