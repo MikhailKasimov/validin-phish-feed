@@ -89691,3 +89691,7 @@ zv.setup-via.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/10472
 
 steamstore-a.akamaihd.net
+
+# Reference: https://x.com/Malwarehunterr/status/2065113638936133911
+
+miami-techinc.com
