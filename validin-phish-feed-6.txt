@@ -95698,3 +95698,7 @@ zxc-fifa.shop
 # Reference: https://github.com/hagezi/dns-blocklists/issues/10488
 
 ggdt35.anondns.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10485
+
+qtq2haw.anondns.net
