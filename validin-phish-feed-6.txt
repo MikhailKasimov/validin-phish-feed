@@ -95694,3 +95694,7 @@ zucai-fifa.com
 zucai-fifaworldcup.com
 zx-fifa.shop
 zxc-fifa.shop
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10488
+
+ggdt35.anondns.net
