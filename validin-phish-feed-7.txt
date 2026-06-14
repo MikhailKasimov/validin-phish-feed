@@ -4460,3 +4460,11 @@ vk09.at
 vk10tor.at
 vk8tor.at
 yy.bs2clear.link
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10500
+
+getpeso.net
+skutang.com
+sukiph.com
+dx.sukiph.com
+s.getpeso.net
