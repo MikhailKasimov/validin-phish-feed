@@ -64,8 +64,6 @@ cybeready.kinstellar.com
 cybeready.net
 cybeready.suasgroup.cz
 cybereadyusa.com
-cybersecurity-awareness.novo.dk
-cybersecuritytraining.sqrpnt.com
 datagivers.com
 datahub.center
 deliverapp.org
@@ -136,7 +134,6 @@ sentmail.systems
 server6.net
 site-see.online
 sitio-interno.com
-sqrpnt.com
 stuttgart.ihk.de
 sukl.gov.cz
 supportcom.online
@@ -109921,7 +109918,6 @@ ledger-desktop.io
 631110.cfd
 631112.cfd
 631118.cfd
-680.langame.ru
 698877.xyz
 6u3v6.icu
 72.60.43.65.sslip.io
@@ -120917,7 +120913,6 @@ ladot-lacity.zxbgl.top
 ladot-lacity.zxbvv.top
 lagerungs.cfd
 lagerungs.lat
-langame.ru
 laosha.top
 lb.bsigf.cc
 lbkah.bond
@@ -126864,7 +126859,6 @@ so.govetjy.co
 so.govtnya.co
 so.govuqw.cam
 sodpa.cam
-softether.net
 solari.adnope
 somusic.xyz
 sonejfshd.shop
