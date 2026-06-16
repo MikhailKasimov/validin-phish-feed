@@ -4701,3 +4701,8 @@ ektu-edu.kz
 kaznmu-edu.kz
 maidd-gov.kz
 pavladar.kz
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10518
+
+be-klantenservice.me
+mamloka.keepo.bio
