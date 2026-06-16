@@ -4694,3 +4694,10 @@ www-e-gov.kz
 # Reference: https://x.com/askardyuss/status/2066183967548792925
 
 gov.org.kz
+
+# Reference: https://x.com/askardyuss/status/2066917302252212376
+
+ektu-edu.kz
+kaznmu-edu.kz
+maidd-gov.kz
+pavladar.kz
