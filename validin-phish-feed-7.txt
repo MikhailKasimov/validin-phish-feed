@@ -4468,3 +4468,9 @@ skutang.com
 sukiph.com
 dx.sukiph.com
 s.getpeso.net
+
+# Reference: https://x.com/Malwarehunterr/status/2066789192483680353
+
+readfile.online
+vvorkpage.online
+login.vvorkpage.online
