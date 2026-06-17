@@ -14081,7 +14081,6 @@ digitalteam.online
 digitaltech.online
 digitalvalley.online
 digitalview.online
-digitalway.online
 digitalwork.online
 digitalworks.online
 digitalx.online
