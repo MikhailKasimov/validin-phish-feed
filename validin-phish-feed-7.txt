@@ -4710,3 +4710,7 @@ mamloka.keepo.bio
 # Reference: https://x.com/askardyuss/status/2067458725657670083
 
 keden-kgd-gov.kz
+
+# Reference: https://x.com/askardyuss/status/2067463048361824414
+
+gov-4c.kz
