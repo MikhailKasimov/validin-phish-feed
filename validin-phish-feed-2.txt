@@ -14898,6 +14898,7 @@ cdn-exodss.gitbook.io
 cdn-exodus--walltt.gitbook.io
 cdn-exodus-portal.teachable.com
 cdn-exodus-us-cdn.teachable.com
+cdn-exodus-us-home-auth-security.teachable.com
 cdn-exodus.gitbook.io
 cdn-exodus.github.io
 cdn-exoduse-us-auth.teachable.com
@@ -20926,6 +20927,7 @@ exodus-cdn-auth.webflow.io
 exodus-cdn-migration-guide.teachable.com
 exodus-cdn-online.teachable.com
 exodus-com-cdn-auth.webflow.io
+exodus-com-home-security-us.teachable.com
 exodus-com-security-auth-en-us.teachable.com
 exodus-digital-safe.teachable.com
 exodus-doc-help.teachable.com
@@ -26174,6 +26176,7 @@ info-bridge-help.webflow.io
 info-bridge-trezor.webflow.io
 info-bridge-trz.github.io
 info-bridge-trzir.github.io
+info-bridge.teachable.com
 info-bridgee-trrozr.gitbook.io
 info-cdn-ledgerstart.webflow.io
 info-cdn-sso-ttrzor.webflow.io
@@ -32710,6 +32713,7 @@ muaitamasklogin.gitbook.io
 muetamskklogz.gitbook.io
 muettmaeaskloggun.webflow.io
 muietamaskext.webflow.io
+multichain-exodusweb.teachable.com
 multiple-live-ledgerr.webflow.io
 multiple-nested-collections.webflow.io
 muritaaimask.webflow.io
