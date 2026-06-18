@@ -4760,3 +4760,7 @@ test.fifatsg.com
 wc2026.berkaykanca.com
 winluckone.com
 worldcupnews.live
+
+# Reference: https://x.com/askardyuss/status/2067681510887735359
+
+nab-gov.kz
