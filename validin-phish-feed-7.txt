@@ -4767,4 +4767,4 @@ nab-gov.kz
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/10559
 
-mlivingnews.com
+# mlivingnews.com
