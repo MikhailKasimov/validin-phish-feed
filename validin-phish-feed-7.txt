@@ -4972,3 +4972,7 @@ keden-kgd-gov.kz
 # Reference: https://x.com/skocherhan/status/2068486845025923461
 
 caixesp-finbk.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10599
+
+bdo-com-ph.cc
