@@ -5055,3 +5055,8 @@ helpdesk-volvocars.biz
 helpdesk-wise.com
 helpdesk-yahoo.com
 helpdesk-zillow.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10604
+
+verificatie.qzz.io
+4634-aanmelden.verificatie.qzz.io
