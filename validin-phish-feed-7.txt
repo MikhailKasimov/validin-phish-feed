@@ -6636,3 +6636,13 @@ zmenscosmetic.com
 # Reference: https://x.com/skocherhan/status/2069050772357017993
 
 asia-tripes5424.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10605
+
+tornado.cash
+tornadoproxy.eth.limo
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10613
+
+nobeienergy.com
+iphro.nobeienergy.com
