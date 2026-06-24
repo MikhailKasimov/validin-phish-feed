@@ -8077,3 +8077,9 @@ yzhqm.icu
 za-finsase-co.one
 za-finssea.icu
 za-thecourierguy.eu.cc
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10630
+
+vuzelia.com
+xsoktvpyi.com
+client16.vuzelia.com
