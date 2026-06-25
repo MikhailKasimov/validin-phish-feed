@@ -9040,3 +9040,18 @@ idos-claim.live
 # Reference: https://x.com/Malwarehunterr/status/2070107643428143274
 
 airdrop-destranetwork.live
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10635
+
+kcbe.de
+bouwboost.info
+bouwdirect.info
+bouwgroei.info
+bouwhulp.info
+bouwinzicht.info
+bouwplatform.info
+bouwplein.info
+bouwvak.info
+bouwvakker.info
+bouwwereld.info
+meesterbouw.info
