@@ -9068,3 +9068,7 @@ service-checkdate-iduser92749.patisonia.com
 
 clc-pr.com
 login.clc-pr.com
+
+# Reference: https://x.com/Malwarehunterr/status/2071627589081575818
+
+eurodocpro.vip
