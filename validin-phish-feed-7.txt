@@ -9072,3 +9072,7 @@ login.clc-pr.com
 # Reference: https://x.com/Malwarehunterr/status/2071627589081575818
 
 eurodocpro.vip
+
+# Reference: https://x.com/Malwarehunterr/status/2071998194842767515
+
+pinonte.vip
