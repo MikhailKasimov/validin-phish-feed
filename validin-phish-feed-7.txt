@@ -9655,3 +9655,7 @@ cloudserver85.com
 
 em.yotpo.com
 wpnakliyat.projedemo.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10691
+
+tambetresmigirisim.vip
