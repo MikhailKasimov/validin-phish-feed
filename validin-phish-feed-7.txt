@@ -9665,3 +9665,7 @@ tambeteniyigiris.vip
 tambetgirisadresic.vip
 tambetilkadres.vip
 tambetresmigirisim.vip
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10708
+
+claudehub.click
