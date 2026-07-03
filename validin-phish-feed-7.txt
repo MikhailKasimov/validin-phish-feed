@@ -9658,4 +9658,10 @@ wpnakliyat.projedemo.net
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/10691
 
+tambet-resmiadresim.co
+tambet-resmigiris.com
+tambetads.vip
+tambeteniyigiris.vip
+tambetgirisadresic.vip
+tambetilkadres.vip
 tambetresmigirisim.vip
