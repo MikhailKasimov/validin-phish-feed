@@ -9668,23 +9668,6 @@ tambetresmigirisim.vip
 
 # Reference: https://github.com/hagezi/dns-blocklists/issues/10708
 
-
-*	Online-Utility.org
-Sharp tools. Simple use.	
-Online Utility
-English Language
-Text
-Math
-Other
-
-
- 
-
-
-Sort, Clean & Reformat Your List
-Share: Facebook X / Twitter LinkedIn
-Result:
-
 005fe16f-929e-40ee-92f5-7e84448cc49f.mafotline.sbs
 03fspg6dyqbq6zoe.mafotline.sbs
 086005fe16f-929e-40ee-92f5-7e84448cc49f.mafotline.sbs
