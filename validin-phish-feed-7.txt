@@ -10448,3 +10448,8 @@ tryomnitecc.com
 
 0198969230.cfd
 allegrolokalnie.0198969230.cfd
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10747
+
+adb-7405618621447697.17.azuredatabricks.net
+nam.safelink.emails.azure.net
