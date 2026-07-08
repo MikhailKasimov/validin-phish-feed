@@ -10453,3 +10453,8 @@ allegrolokalnie.0198969230.cfd
 
 adb-7405618621447697.17.azuredatabricks.net
 nam.safelink.emails.azure.net
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10755
+
+get-mosqishock.com
+mosqisock.shop
