@@ -11196,3 +11196,8 @@ vancam.rutdaotindung.store
 verify-blue-checkmark.com
 verify-facebook-identity.com
 verifyfanpage.com
+
+# Reference: https://x.com/Malwarehunterr/status/2076259089072742845
+
+fawwry-card.online
+fawary-nfc-1.site
