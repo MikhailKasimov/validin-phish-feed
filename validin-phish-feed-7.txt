@@ -11207,3 +11207,32 @@ fawary-nfc-1.site
 brunaecass.com
 pat-re-on.site
 log.brunaecass.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10793
+
+osakafurnituretrade.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10792
+
+kagusanko.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10784
+
+osakawayo.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10786
+
+osakakagutrans.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10787
+
+yamayafurniture.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10788
+
+murauchikagu.com
+yamakawakagu.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/10789
+
+billymotors.com
