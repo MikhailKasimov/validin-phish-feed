@@ -11236,3 +11236,7 @@ yamakawakagu.com
 # Reference: https://github.com/hagezi/dns-blocklists/issues/10789
 
 billymotors.com
+
+# Reference: https://x.com/d1v35hresearch/status/2076563513796104546
+
+cyprusgovernet.web.app
