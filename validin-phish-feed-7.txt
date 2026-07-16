@@ -11252,6 +11252,8 @@ tptp.mom
 
 # Reference: https://dslua.org/publications/phishing-campaign-against-civil-network-opora-gmail-account-takeover-via-oauth/
 
+cloudfiles-view.top
+democraty26.com
 gordorua.com
 sharedfilesid.com
 sharedfilesid164.com
