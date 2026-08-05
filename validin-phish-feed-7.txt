@@ -21807,3 +21807,12 @@ ukraine-info.online
 # Reference: https://www.virustotal.com/gui/ip-address/38.244.212.140/relations
 
 captcha-info.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/147.93.86.8/relations
+
+artnft.store
+dataplan.shop
+mesutart.shop
+nftarts.store
+opennetdata.site
+starnetdata.site
