@@ -21803,3 +21803,7 @@ ua-inform.icu
 ukraine-info.com
 ukraine-info.net
 ukraine-info.online
+
+# Reference: https://www.virustotal.com/gui/ip-address/38.244.212.140/relations
+
+captcha-info.com
