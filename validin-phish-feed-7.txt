@@ -21932,3 +21932,7 @@ asoiasonc.xeduvt.info
 # Reference: https://x.com/masaomi346/status/2087729133900226562
 
 q3zf8wkrqla0l2szuq.live
+
+# Reference: https://www.virustotal.com/gui/file/28916c496d32ee3fde4f9edb44dda56d737cf194116bf9ca67e99cf14db9be63/detection
+
+w1mail.com
