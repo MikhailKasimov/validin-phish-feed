@@ -21792,6 +21792,7 @@ milllitelecom.netlify.app
 # Reference: https://www.virustotal.com/gui/ip-address/34.49.161.242/relations
 
 diagov.org
+diia.my
 electro-ukraine.com
 enenjiuadiia24.com
 energy-online.org
