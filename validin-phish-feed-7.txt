@@ -22993,3 +22993,8 @@ velniqs.com
 voltixel.com
 wearcutenow.com
 zorvexas.com
+
+# Reference: https://github.com/hagezi/dns-blocklists/issues/11303
+
+oesterreich-gv.com
+id-austria.oesterreich-gv.com
