@@ -23799,3 +23799,10 @@ zsqt97.cn
 zu.pacdedu.click
 zzbalitai.com
 zzpf120.com
+
+# Reference: https://x.com/scanmalware/status/2094704700956299541
+
+mskg1835.workers.dev
+sryoung56.workers.dev
+mkgheye78fdfb.sryoung56.workers.dev
+mkgsjhfhsrh.mskg1835.workers.dev
