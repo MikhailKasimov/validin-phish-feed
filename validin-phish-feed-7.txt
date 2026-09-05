@@ -23806,3 +23806,7 @@ mskg1835.workers.dev
 sryoung56.workers.dev
 mkgheye78fdfb.sryoung56.workers.dev
 mkgsjhfhsrh.mskg1835.workers.dev
+
+# Reference: https://x.com/muha2xmad/status/2096308816535052485
+
+f005.backblazeb2.com
