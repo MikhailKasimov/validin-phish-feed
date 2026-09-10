@@ -26199,3 +26199,7 @@ tara-facebook.blogspot.com
 uk-facebook.blogspot.com
 vn-facebook.blogspot.com
 z-facebook.blogspot.com
+
+# Reference: https://x.com/phishunt_io/status/2098018886012616916
+
+accounts-mail-google.com
