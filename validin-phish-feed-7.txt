@@ -26203,3 +26203,7 @@ z-facebook.blogspot.com
 # Reference: https://x.com/phishunt_io/status/2098018886012616916
 
 accounts-mail-google.com
+
+# TITLE-HOST/IP=Дія — Державні послуги онлайн
+
+http://2.27.249.185
