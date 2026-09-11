@@ -26207,3 +26207,8 @@ accounts-mail-google.com
 # TITLE-HOST/IP=Дія — Державні послуги онлайн
 
 http://2.27.249.185
+
+# Reference: https://x.com/muha2xmad/status/2098129930017992837
+
+dev-connetpoint.pantheonsite.io
+servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com
