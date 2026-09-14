@@ -26213,3 +26213,8 @@ flfvrrordxr.org
 
 dev-connetpoint.pantheonsite.io
 servermailprotection-1sfinfomembers.s3.eu-west-1.amazonaws.com
+
+# Reference: https://x.com/artemtam/status/2099478591801033116
+
+fbkinfo.com
+fbkinfo.net
