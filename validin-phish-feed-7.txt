@@ -26709,3 +26709,8 @@ help-ukraine-dopomoga.xyz
 
 uplate.me
 my-gov.uplate.me
+
+# Reference: https://x.com/noname_sec/status/1577440485617983490
+
+uperekaz.me
+my-gov.uperekaz.me
