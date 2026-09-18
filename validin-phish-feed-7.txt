@@ -26700,3 +26700,7 @@ zxlfz.com
 # Reference: https://x.com/noname_sec/status/1702672238707671476
 
 help-dopomoga-ua.com
+
+# Reference: https://x.com/noname_sec/status/1702671732190892063
+
+help-ukraine-dopomoga.xyz
