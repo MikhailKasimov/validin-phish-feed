@@ -26704,3 +26704,8 @@ help-dopomoga-ua.com
 # Reference: https://x.com/noname_sec/status/1702671732190892063
 
 help-ukraine-dopomoga.xyz
+
+# Reference: https://x.com/noname_sec/status/1578095217554620423
+
+uplate.me
+my-gov.uplate.me
