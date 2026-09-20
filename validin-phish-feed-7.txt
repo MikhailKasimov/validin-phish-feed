@@ -30813,3 +30813,7 @@ wwlostcloud.help
 # Reference: https://x.com/muha2xmad/status/2101697535022666155
 
 v6-nq.global.ssl.fastly.net
+
+# Reference: https://x.com/0x534c/status/2101710335975846155
+
+pwcsupport.fr
