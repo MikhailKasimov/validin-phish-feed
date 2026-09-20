@@ -30809,3 +30809,7 @@ wwlcloudcase.help
 wwlcloudmaps.help
 wwlcloudnett.help
 wwlostcloud.help
+
+# Reference: https://x.com/muha2xmad/status/2101697535022666155
+
+v6-nq.global.ssl.fastly.net
