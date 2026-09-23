@@ -30817,3 +30817,12 @@ v6-nq.global.ssl.fastly.net
 # Reference: https://x.com/0x534c/status/2101710335975846155
 
 pwcsupport.fr
+
+# Reference: https://x.com/0x534c/status/2102784886679785696
+
+0-in-sharepoint.com
+2-in-sharepoint.com
+2in-sharepoint.com
+3in-sharepoint.com
+in-sharepoint.com
+sharepointdocument-verification.com
