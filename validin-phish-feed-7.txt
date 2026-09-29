@@ -30846,3 +30846,24 @@ zenxly.com
 # Reference: https://x.com/ShadowOpCode/status/2103501363007074656
 
 g-globalapp.com
+
+# Reference: https://x.com/Malwarehunterr/status/2105015855151272009
+
+auth-sync.to
+authentication-okx.com
+dashboardevice.com
+device.reinstall-ledger.app
+device.synchronization-ledger.app
+ledgewallets.com
+recover.ledgewallets.com
+reinstall-ledger.app
+report-okx.com
+setup-device.at
+sync-app.at
+sync-link.to
+synchronization-ledger.app
+sysenyclopedia.com
+terms-ledger.com
+upgrade-visit.to
+vps75496.iceservers.net
+wallet.authentication-okx.com
