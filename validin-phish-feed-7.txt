@@ -30976,3 +30976,15 @@ xxfaz.top
 ycbdu.top
 zkpfb.top
 zxsnr.top
+
+# Reference: https://urlscan.io/blog/2026/10/01/AiSwarmReport/
+
+bwa.workers.dev
+cors.bwa.workers.dev
+da1327826950be.lhr.life
+division-stream-roles-households.trycloudflare.com
+iajs-cors.rchrd2.workers.dev
+iamneyk.workers.dev
+irjpi-44-227-82-119.run.pinggy-free.link
+rchrd2.workers.dev
+test-proxy.iamneyk.workers.dev
