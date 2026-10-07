@@ -21550,7 +21550,6 @@ u.mgmarket36.com
 u.mgmarket45.com
 uat.slon109.at
 un.kraken51.com
-undefined.hostname.localhost
 unifi.slon132.at
 unifi.slon133.at
 unleashed.slon101.at
