@@ -63482,3 +63482,16 @@ zzhshs.lat
 zzodiac.top
 zzyyyyzyq.top
 zzzvoid.com
+
+# Reference: https://x.com/eastsidemccarty/status/2109406593075073457
+# Reference: https://opensourcemalware.com/blog/ghostaction-phishing-campaign
+
+193.32.204.199:8080
+193.32.204.199:8443
+my-github.com
+api.my-github.com
+collector.my-github.com
+docs.my-github.com
+gh.my-github.com
+ghassets.my-github.com
+support.my-github.com
