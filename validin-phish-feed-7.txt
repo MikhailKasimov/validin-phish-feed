@@ -66581,6 +66581,7 @@ workspacegoogle.pp.ru
 workspacegoogle.ru.net
 
 # Reference: https://x.com/Malwarehunterr/status/2111862639483838529
+# Reference: https://x.com/Malwarehunterr/status/2111866251085824210
 
 babbelsocialcat.icu
 be-guideliness.com
@@ -66597,3 +66598,4 @@ umgreport.com
 wmgsound.com
 youdmcaportal.com
 youtubecreatorshub.help
+youtubestudiostrikes.help
