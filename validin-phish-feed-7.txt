@@ -66603,3 +66603,7 @@ youtubestudiostrikes.help
 # Reference: https://x.com/Malwarehunterr/status/2112119388195508517
 
 contactmetamask.top
+
+# Reference: https://x.com/Malwarehunterr/status/2112132777684484328
+
+roblox-reward.com
