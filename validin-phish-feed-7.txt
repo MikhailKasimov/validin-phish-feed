@@ -66607,3 +66607,7 @@ contactmetamask.top
 # Reference: https://x.com/Malwarehunterr/status/2112132777684484328
 
 roblox-reward.com
+
+# Reference: https://x.com/Malwarehunterr/status/2111907739333230673
+
+phone-pe.online
