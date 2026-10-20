@@ -67017,3 +67017,8 @@ yubasathi.rewords.shop
 microsoft-store.co
 microsoftsoftware.com.co
 mail.microsoftsoftware.com.co
+
+# Reference: https://x.com/Malwarehunterr/status/2112654775628263575
+
+chatgpt-6.app
+pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev
