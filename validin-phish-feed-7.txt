@@ -76154,3 +76154,9 @@ zh-sg.webhwsapp-whatsapp.com
 zh-tw.webhwsapp-whatsapp.com
 zh.webhwsapp-whatsapp.com
 zoom.sufu369.com
+
+# Reference: https://x.com/Malwarehunterr/status/2113307673320185914
+
+9oogle.app
+drive03.com
+google.drive03.com
