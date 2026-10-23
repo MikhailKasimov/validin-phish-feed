@@ -76332,3 +76332,29 @@ advanceamazonsalesstrategypro.com
 advanceamazonstoreadvisors.com
 advanceamazonstrategyadvisors.com
 amazonresellingtraining.com
+
+# Reference: https://x.com/masaomi346/status/2113430686107619559
+# HEADER_HASH-HOST=ed8309218ed5a995415a
+
+dev.registration-domain.app
+ej.erste-hilfe-gera.de
+email.kurasoo.com
+email.registration-domain.app
+erste-hilfe-gera.de
+ftp.matchtonbien.com
+info.registration-domain.app
+jumpever.de
+mail.registration-domain.app
+matchtonbien.com
+news.registration-domain.app
+ns1.registration-domain.app
+ns2.registration-domain.app
+registration-domain.app
+secure-xserver-11523.kurasoo.com
+secure-xserver-25394.kurasoo.com
+secure-xserver-36862.kurasoo.com
+secure-xserver-46955.kurasoo.com
+secure-xserver-89123.kurasoo.com
+tb.registration-domain.app
+test.registration-domain.app
+v9.jumpever.de
