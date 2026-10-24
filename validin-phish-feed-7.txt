@@ -76379,6 +76379,7 @@ riversidepressenterprise.com
 ucjon.com
 
 # Reference: https://x.com/Malwarehunterr/status/2113720131461521624
+# Reference: https://x.com/Malwarehunterr/status/2113703102880862325
 # TITLE-HOST=Sign in - Google
 
 23-92-31-22.ip.linodeusercontent.com
@@ -76400,6 +76401,7 @@ accounts.lnstallation.pt
 admin.zedkingnsnd.com
 amw-ksi.pages.dev
 anidubai.com
+api.brandogdigital.org
 api.lnstallation.pt
 apis.lnstallation.pt
 app.eaglewebservices.com
@@ -76409,6 +76411,7 @@ avi-den.pages.dev
 bidwood.com
 billing.lnstallation.pt
 booking.smamilford.org
+brandogdigital.org
 bxuae5h2n9j4k8t1b6v3c7m.online
 calendar.lnstallation.pt
 careers.professionaltalentgroup.com
@@ -76419,6 +76422,7 @@ clients.lnstallation.pt
 clients1.lnstallation.pt
 clients2.lnstallation.pt
 clients3.lnstallation.pt
+cmail-geogle.com
 com-v3.my
 com-v3.online
 com-v3.site
