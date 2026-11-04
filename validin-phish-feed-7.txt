@@ -88466,3 +88466,22 @@ wpengine.ws
 wwaa8800.cc
 xn--sebaa.xn--9dbq2a
 zerointerestpromo.com
+
+# Reference: https://x.com/Malwarehunterr/status/2117640487192629756
+# Reference: https://urlscan.io/search/#hash%3Abaa9ee4ba8822876bb4a21bb9f0c72e7417f3122b1ad2d05b4a8e141b0fb419d
+
+apple-condition.com
+apple-conditions.com
+authy-ledger.at
+id-ownership.at
+id-review.at
+integrate-sync.to
+link-ledger.at
+lookup-lgr.to
+report-okx.com
+request-sync.to
+sso-sync.at
+sync-app.at
+sync-auth.at
+sync-user.to
+termprivacy.com
