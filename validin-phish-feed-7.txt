@@ -88485,3 +88485,7 @@ sync-app.at
 sync-auth.at
 sync-user.to
 termprivacy.com
+
+# Reference: https://x.com/Malwarehunterr/status/2118228707706118227
+
+binance-kplaw.top
