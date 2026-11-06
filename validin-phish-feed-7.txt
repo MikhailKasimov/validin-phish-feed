@@ -88657,3 +88657,8 @@ apple-zu.top
 apple-zv.top
 apple-zx.top
 apple-zy.top
+
+# Reference: https://x.com/Malwarehunterr/status/2118602151572508937
+
+xn--goog-yva5t.com
+searchly-five.vercel.app
