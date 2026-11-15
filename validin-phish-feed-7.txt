@@ -98686,3 +98686,8 @@ ftp.nets2u.com
 mail.nets2u.com
 r2.nets2u.com
 secure.nets2u.com
+
+# Reference: https://x.com/Malwarehunterr/status/2122029953990664496
+
+faceebook-ai.com
+meta-bots-ai.com
