@@ -98691,3 +98691,10 @@ secure.nets2u.com
 
 faceebook-ai.com
 meta-bots-ai.com
+
+# Reference: https://www.virustotal.com/gui/ip-address/64.89.160.235/relations
+
+express-delivery-hold.com
+giftcards-agent.com
+parcel-tracking-billing.com
+stripe-payment-link.com
